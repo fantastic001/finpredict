@@ -24,3 +24,5 @@ for stock in stock_list:  # Loop through 10th - 20th stocks
         f.write(json.dumps(s))
     with open("data/%s.csv" % stock["Ticker"], "w") as f:
         f.write(requests.get("https://api.tiingo.com/tiingo/daily/%s/prices?startDate=2012-1-1&endDate=2019-6-1&token=%s&format=csv" % (stock["Ticker"], token)).text)
+    with open("data/news/%s.json" % stock["Ticker"], "w") as f:
+        f.write(requests.get("https://api.tiingo.com/tiingo/news?tickers=%s&startDate=2012-1-1&endDate=2019-6-1&token=%s" % (stock["Ticker"], token)).text)

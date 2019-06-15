@@ -128,3 +128,7 @@ external/
 
 # data 
 data/
+
+
+# configuration file containings sensitive data
+config.json
