@@ -9,6 +9,8 @@ verify_ssl = true
 numpy = "*"
 matplotlib = "*"
 pandas = "*"
+finviz = "*"
+requests = "*"
 
 [requires]
 python_version = "3.7"
