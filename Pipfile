@@ -12,6 +12,7 @@ pandas = "*"
 finviz = "*"
 requests = "*"
 sklearn = "*"
+spectrum = "*"
 
 [requires]
 python_version = "3.7"
