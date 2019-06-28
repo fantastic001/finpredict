@@ -1,7 +1,18 @@
 import numpy as np
 from sklearn.naive_bayes import MultinomialNB
-
+from sklearn.neural_network import *
 import string
+
+def get_text_model(x,y):
+    clf = MLPClassifier(solver='lbfgs', alpha=1e-5, hidden_layer_sizes=(5, 2), random_state=1)
+    clf.fit(x,y)
+    return clf
+
+def get_text_regression_model(x,y):
+    clf = MLPRegressor(solver='lbfgs', alpha=1e-5, hidden_layer_sizes=(5, 2), random_state=1)
+    clf.fit(x,y)
+    return clf
+
 
 def tokenize(text):
     text = list(c for c in text if c in (string.ascii_letters + " "))
