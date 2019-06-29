@@ -6,3 +6,5 @@ from .Source import *
 from .Strategy import *
 from .DoNothingStrategy import *
 from .RandomStrategy import *
+from .PredictiveStrategy import *
+from .MAStrategy import *
