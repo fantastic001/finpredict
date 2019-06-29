@@ -1,6 +1,7 @@
 from typing import *
 import os 
 import pandas as pd
+import datetime
 class Source(object):
     def __init__(self, file_path: str):
         self.time = 0
@@ -11,7 +12,7 @@ class Source(object):
 
     def get_ticker(self, ticker, column, dt=0):
         try:
-            return pd.read_csv("%s/%s.csv" % (self.file_path, ticker))[column][self.time + dt]
+            return pd.read_csv("%s/%s.csv" % (self.file_path, ticker)).set_index("date").reindex(pd.date_range('2012', freq='D', periods=3300).map(lambda x: datetime.datetime.strftime(x, "%Y-%m-%d"))).fillna(method="ffill").fillna(0)[column][self.time + dt]
         except KeyError:
             return 0
 
