@@ -23,5 +23,8 @@ class Portfolio(object):
             portfolio = portfolio.trade(strategy)
         return portfolio
 
+    def get_value(self):
+        return sum(asset.get_value(self.source) for asset in self.assets)
+
     def __str__(self):
         return "Portfolio:\n%s" % "\n".join("\t%s: %d" % (x.ticker, x.count) for x in self.assets)

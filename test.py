@@ -11,3 +11,4 @@ agent = Agent(p, source)
 agent.simulate(RandomStrategy(), 150)
 
 print(agent.portfolio)
+print("End wealth: %f" % agent.portfolio.get_value())

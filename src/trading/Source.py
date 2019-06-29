@@ -10,7 +10,10 @@ class Source(object):
         return self.time
 
     def get_ticker(self, ticker, column, dt=0):
-        return pd.read_csv("%s/%s.csv" % (self.file_path, ticker)[column][self.time + dt]
+        try:
+            return pd.read_csv("%s/%s.csv" % (self.file_path, ticker))[column][self.time + dt]
+        except KeyError:
+            return 0
 
     def forward(self, dt=1):
         self.time += dt

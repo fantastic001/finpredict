@@ -21,6 +21,6 @@ class Asset(object):
             return Asset(self.ticker, self.count)
         
     
-    def get_total_value(self, source: Source, n: int) -> float:
-        return self.count * source.get_close(self.ticker, n)
+    def get_value(self, source: Source) -> float:
+        return self.count * source.get_close(self.ticker, 0)
       
