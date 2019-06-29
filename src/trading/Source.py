@@ -20,3 +20,9 @@ class Source(object):
     def get_volume(self, ticker: str, time: int) -> float:
         pass
       
+    def get_tickers(self):
+        return [
+            "AAPL",
+            "GOGL",
+            "MSFT"
+        ]

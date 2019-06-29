@@ -5,3 +5,4 @@ from .Portfolio import *
 from .Source import *
 from .Strategy import *
 from .DoNothingStrategy import *
+from .RandomStrategy import *

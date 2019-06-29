@@ -14,8 +14,8 @@ class Decision(object):
         
     
     def buy(ticker: str, count: int):
-        return Decision(self.BUY, ticker, count)
+        return Decision(Decision.BUY, ticker, count)
     
     def sell(ticker: str, count: int):
-        return Decision(self.SELL, ticker, count)
+        return Decision(Decision.SELL, ticker, count)
       
