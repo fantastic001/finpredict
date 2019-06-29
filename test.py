@@ -1,8 +1,8 @@
 from src.trading import *
 
-p = Portfolio([Asset("AAPL", 5), Asset("MSFT", 10)], Source(""))
-
 source = Source("../data/")
+p = Portfolio([Asset(ticker, 0) for ticker in source.get_tickers()], source)
+
 
 print(p)
 
