@@ -15,6 +15,7 @@ class Portfolio(object):
         portfolio = self
         for decision in decisions:
             portfolio = Portfolio(list(asset.trade(decision) for asset in portfolio.assets), self.source)
+        self.source.forward()
         return portfolio
     def simulate(self, strategy, iterations: int):
         portfolio = self
