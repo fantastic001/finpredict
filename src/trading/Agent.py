@@ -8,8 +8,8 @@ class Agent(object):
         
     
     def trade(self, strategy: Strategy) -> None:
-        pass
+        self.portfolio = self.portfolio.trade(strategy)
     
     def simulate(self, strategy: Strategy, iterations: int) -> None:
-        pass
+        self.portfolio = self.portfolio.simulate(strategy, iterations)
       

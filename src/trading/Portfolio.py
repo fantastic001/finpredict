@@ -1,4 +1,5 @@
 from typing import *
+from . import Strategy
 class Portfolio(object):
     def __init__(self, assets: List[Asset], source: Source):
         
@@ -8,8 +9,14 @@ class Portfolio(object):
         
     
     def trade(self, strategy: Strategy) -> Portfolio:
-        pass
-    
+        decisions = strategy.decide(source, self)
+        portfolio = self
+        for decision in decisions:
+            portfolio = Portfolio(list(asset.trade(decision) for asset in portfolio.assets), source)
+        return portfolio
     def simulate(self, strategy: Strategy, iterations: int) -> Portfolio:
-        pass
+        portfolio = self
+        for t in range(iterations):
+            portfolio = portfolio.trade(strategy)
+        return portfolio
       
