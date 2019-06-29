@@ -1,4 +1,6 @@
 from typing import *
+from .Decision import *
+from .Source import *
 class Asset(object):
     def __init__(self, ticker: str, count: int):
         
@@ -6,7 +8,7 @@ class Asset(object):
         
         self.count = count
 
-    def trade(self, decision: Decision) -> Asset:
+    def trade(self, decision: Decision):
         if decision.ticker == self.ticker:
             if decision.type == Decision.BUY:
                 return Asset(self.ticker, self.count + decision.count)
