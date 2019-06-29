@@ -1,6 +1,6 @@
 from src.trading import *
 
-source = Source("../data/")
+source = Source("data/")
 p = Portfolio([Asset(ticker, 0) for ticker in source.get_tickers()], source)
 
 
