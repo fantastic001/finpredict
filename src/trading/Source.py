@@ -9,8 +9,7 @@ class Source(object):
         self.tickers = {}
         tickers = self.get_tickers()
         for ticker in tickers:
-            self.tickers[ticker] = pd.read_csv("%s/%s.csv" % (self.file_path, ticker)).set_index("date").reindex(pd.date_range('2012', freq='D', periods=3300).map(lambda x: datetime.datetime.strftime(x, "%Y-%m-%d"))).fillna(method="ffill").fillna(0)
-        
+            self.tickers[ticker] = pd.read_csv("%s/%s.csv" % (self.file_path, ticker)).set_index("date").reindex(pd.date_range('2014', freq='D', periods=3300-2*365).map(lambda x: datetime.datetime.strftime(x, "%Y-%m-%d"))).fillna(method="ffill").fillna(method="bfill")
     def get_time(self):
         return self.time
 

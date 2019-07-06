@@ -27,4 +27,4 @@ class Portfolio(object):
         return sum(asset.get_value(self.source) for asset in self.assets)
 
     def __str__(self):
-        return "Portfolio:\n%s" % "\n".join("\t%s: %d" % (x.ticker, x.count) for x in self.assets)
+        return "Portfolio:\n%s" % "\n".join("\t%s: %d with value %f" % (x.ticker, x.count, self.source.get_close(x.ticker, 0)) for x in self.assets)

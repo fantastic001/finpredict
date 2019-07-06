@@ -1,6 +1,8 @@
 from src.trading import *
 import random
 
+random.seed(a=None)
+
 source = Source("data/")
 p = Portfolio([Asset(ticker, random.randint(0, 10)) for ticker in source.get_tickers()], source)
 
