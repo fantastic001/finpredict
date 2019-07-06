@@ -1,10 +1,15 @@
 from src.trading import *
 import random
+import sys
+
+initial_cash = float(sys.argv[1])
 
 random.seed(a=None)
 
+
+
 source = Source("data/")
-p = Portfolio([Asset(ticker, random.randint(0, 0)) for ticker in source.get_tickers()], source, 5000)
+p = Portfolio([Asset(ticker, random.randint(0, 0)) for ticker in source.get_tickers()], source, initial_cash)
 
 V0 = p.get_value()
 
