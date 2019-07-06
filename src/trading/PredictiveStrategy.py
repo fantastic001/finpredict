@@ -8,7 +8,10 @@ class PredictiveStrategy(Strategy):
         sorted_tickers = []
         for ticker in tickers:
             p = self.predict(ticker, source)
-            r = p / source.get_close(ticker, -1)
+            P = source.get_close(ticker, 0)
+            if P == 0:
+                continue
+            r = p / P
             sorted_tickers.append((ticker, r))
         sorted_tickers = sorted(sorted_tickers, key=lambda x: x[1])
         buys = list((ticker, r) for ticker, r in sorted_tickers if r > 1)
@@ -20,6 +23,7 @@ class PredictiveStrategy(Strategy):
                 decisions.append(Decision.sell(ticker, 100000)) # sell all
         for ticker, r in buys:
             decisions.append(Decision.buy(ticker, int(10*r/buys[-1][1])))
+        return decisions
 
     def predict(self, ticker, source):
         raise NotImplementedError()
