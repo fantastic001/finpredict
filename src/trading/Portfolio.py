@@ -13,15 +13,30 @@ class Portfolio(object):
         decisions = strategy.decide(self.source, self)
         portfolio = self
         for decision in decisions:
+            dCash = 0
             # print(portfolio.cash - decision.count * self.source.get_close(decision.ticker, 0))
-            if decision.action == Decision.BUY and decision.count * self.source.get_close(decision.ticker, 0) > portfolio.cash:
-                # print("Decision cannot be executed due to low cash %s" % decision)
-                continue
+            if decision.action == Decision.BUY:
+                if decision.count * self.source.get_close(decision.ticker, 0) > portfolio.cash:
+                    # print("Decision cannot be executed due to low cash %s" % decision)
+                    continue
+                else:
+                    dCash = - decision.count * portfolio.source.get_close(decision.ticker, 0)
+            elif decision.action == Decision.SELL:
+                c = list(x.count for x in portfolio.assets if x.ticker == decision.ticker)[0]
+                if c < decision.count:
+                     dCash = c * portfolio.source.get_close(decision.ticker, 0) 
+                else:
+                     dCash = decision.count * portfolio.source.get_close(decision.ticker, 0) 
+            # print(decision)
+            v = portfolio.get_value()
             portfolio = Portfolio(
                 list(asset.trade(decision) for asset in portfolio.assets), 
                 self.source,
-                portfolio.cash + (decision.count * self.source.get_close(decision.ticker, 0) if decision.action == Decision.SELL else 0))
+                portfolio.cash + dCash
+            )
+            # print("dV = %f" % (portfolio.get_value() - v))
         self.source.forward()
+        # print("_____ Value: %f" % portfolio.get_value())
         return portfolio
     def simulate(self, strategy, iterations: int):
         portfolio = self

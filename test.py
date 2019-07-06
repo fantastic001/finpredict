@@ -4,7 +4,7 @@ import random
 random.seed(a=None)
 
 source = Source("data/")
-p = Portfolio([Asset(ticker, random.randint(0, 10)) for ticker in source.get_tickers()], source)
+p = Portfolio([Asset(ticker, random.randint(0, 0)) for ticker in source.get_tickers()], source, 5000)
 
 V0 = p.get_value()
 
