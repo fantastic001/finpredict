@@ -13,9 +13,12 @@ class Source(object):
     def get_time(self):
         return self.time
 
-    def get_ticker(self, ticker, column, dt=0):
+    def get_ticker(self, ticker, column=None, dt=0):
         try:
-            return self.tickers[ticker][column][self.time + dt]
+            if column is not None:
+                return self.tickers[ticker][column][self.time + dt]
+            else:
+                return self.tickers[ticker]
         except KeyError:
             return 0
 

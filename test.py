@@ -19,7 +19,7 @@ print(p)
 
 agent = Agent(p, source)
 
-agent.simulate(MAStrategy(), 150)
+agent.simulate(ARStrategy(), 150)
 
 print(agent.portfolio)
 print("Initial value was %f" % V0)
