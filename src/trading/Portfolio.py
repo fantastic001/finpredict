@@ -3,10 +3,9 @@ from .Asset import *
 from .Source import *
 from .Decision import *
 class Portfolio(object):
-    def __init__(self, assets: List[Asset], source: Source):
-        
+    def __init__(self, assets: List[Asset], source: Source, cash=0):
+        self.cash = cash
         self.assets = assets
-        
         self.source = source
         
     
@@ -14,7 +13,14 @@ class Portfolio(object):
         decisions = strategy.decide(self.source, self)
         portfolio = self
         for decision in decisions:
-            portfolio = Portfolio(list(asset.trade(decision) for asset in portfolio.assets), self.source)
+            # print(portfolio.cash - decision.count * self.source.get_close(decision.ticker, 0))
+            if decision.action == Decision.BUY and decision.count * self.source.get_close(decision.ticker, 0) > portfolio.cash:
+                # print("Decision cannot be executed due to low cash %s" % decision)
+                continue
+            portfolio = Portfolio(
+                list(asset.trade(decision) for asset in portfolio.assets), 
+                self.source,
+                portfolio.cash + (decision.count * self.source.get_close(decision.ticker, 0) if decision.action == Decision.SELL else 0))
         self.source.forward()
         return portfolio
     def simulate(self, strategy, iterations: int):
@@ -24,7 +30,7 @@ class Portfolio(object):
         return portfolio
 
     def get_value(self):
-        return sum(asset.get_value(self.source) for asset in self.assets)
+        return self.cash + sum(asset.get_value(self.source) for asset in self.assets)
 
     def __str__(self):
-        return "Portfolio:\n%s" % "\n".join("\t%s: %d with value %f" % (x.ticker, x.count, self.source.get_close(x.ticker, 0)) for x in self.assets)
+        return "Portfolio with cash %f" % self.cash + "\n%s" % "\n".join("\t%s: %d with value %f" % (x.ticker, x.count, self.source.get_close(x.ticker, 0)) for x in self.assets)

@@ -18,4 +18,6 @@ class Decision(object):
     
     def sell(ticker: str, count: int):
         return Decision(Decision.SELL, ticker, count)
-      
+    
+    def __str__(self):
+        return "Action: %s" % ("SELL" if self.action == Decision.SELL else "BUY") + "for %s x %d" % (self.ticker, self.count)
