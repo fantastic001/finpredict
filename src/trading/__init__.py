@@ -9,3 +9,4 @@ from .RandomStrategy import *
 from .PredictiveStrategy import *
 from .MAStrategy import *
 from .ARStrategy import * 
+from .NNStrategy import *

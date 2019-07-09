@@ -19,7 +19,13 @@ print(p)
 
 agent = Agent(p, source)
 
-agent.simulate(ARStrategy(), 150)
+strategy = NNStrategy() 
+strategy.train(source)
+
+for t in range(500):
+    source.forward()
+
+agent.simulate(strategy, 150)
 
 print(agent.portfolio)
 print("Initial value was %f" % V0)
