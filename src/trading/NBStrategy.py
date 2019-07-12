@@ -38,6 +38,23 @@ class NBStrategy(PredictiveStrategy):
             return len(list(c for c in news[t] if self.mapping[ticker] in c or ticker in c))
         except KeyError:
             return 0
+    def get_positive_mentions(self, ticker, news, t):
+        try:
+            return len(list(c for c in news[t] if (self.mapping[ticker] in c or ticker in c) and predict_nb(self.nb, self.words, c) == 2))
+        except KeyError:
+            return 0
+    
+    def get_neutral_mentions(self, ticker, news, t):
+        try:
+            return len(list(c for c in news[t] if (self.mapping[ticker] in c or ticker in c) and predict_nb(self.nb, self.words, c) == 1))
+        except KeyError:
+            return 0
+    def get_negative_mentions(self, ticker, news, t):
+        try:
+            return len(list(c for c in news[t] if (self.mapping[ticker] in c or ticker in c) and predict_nb(self.nb, self.words, c) == 0))
+        except KeyError:
+            return 0
+    
     def train(self, source, training_text_dir_path, news_path):
         tickers = source.get_tickers()
         tickers_df = pd.read_csv("data/tickers/tickers.csv")        
@@ -47,7 +64,13 @@ class NBStrategy(PredictiveStrategy):
         self.tickers = tickers
         self.nb, self.words = get_model_from_data(training_text_dir_path)
         self.news = self.get_all_news(news_path)
-        x = [[tickers.index(ticker), p, self.get_mentions(ticker, self.news, source.get_time())] for ticker in tickers for p in [source.get_close(ticker, -source.get_time() + t) for t in range(1000)]]
+        x = [[
+            tickers.index(ticker), 
+            p, 
+            self.get_positive_mentions(ticker, self.news, source.get_time()),
+            self.get_neutral_mentions(ticker, self.news, source.get_time()),
+            self.get_negative_mentions(ticker, self.news, source.get_time())
+        ] for ticker in tickers for p in [source.get_close(ticker, -source.get_time() + t) for t in range(1000)]]
         y = [p for ticker in tickers for p in [source.get_close(ticker, -source.get_time() + t+1) for t in range(1000)]]
         x = np.array(x)
         y = np.array(y)
@@ -57,4 +80,10 @@ class NBStrategy(PredictiveStrategy):
         if self.model is None:
             raise TypeError("You have to train model before using this strategy.")
         else:
-            return self.model.predict([[self.tickers.index(ticker), source.get_close(ticker, -1), self.get_mentions(ticker, self.news, source.get_time())]])
+            return self.model.predict([[
+                self.tickers.index(ticker), 
+                source.get_close(ticker, -1), 
+                self.get_positive_mentions(ticker, self.news, source.get_time()),
+                self.get_neutral_mentions(ticker, self.news, source.get_time()),
+                self.get_negative_mentions(ticker, self.news, source.get_time())
+            ]])
