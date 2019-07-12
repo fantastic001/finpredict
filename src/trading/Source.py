@@ -3,13 +3,13 @@ import os
 import pandas as pd
 import datetime
 class Source(object):
-    def __init__(self, file_path: str):
+    def __init__(self, file_path: str, startYear: str):
         self.time = 0
         self.file_path = file_path
         self.tickers = {}
         tickers = self.get_tickers()
         for ticker in tickers:
-            self.tickers[ticker] = pd.read_csv("%s/%s.csv" % (self.file_path, ticker)).set_index("date").reindex(pd.date_range('2014', freq='D', periods=3300-2*365).map(lambda x: datetime.datetime.strftime(x, "%Y-%m-%d"))).fillna(method="ffill").fillna(method="bfill")
+            self.tickers[ticker] = pd.read_csv("%s/%s.csv" % (self.file_path, ticker)).set_index("date").reindex(pd.date_range(startYear, freq='D', periods=3300-2*365).map(lambda x: datetime.datetime.strftime(x, "%Y-%m-%d"))).fillna(method="ffill").fillna(method="bfill")
     def get_time(self):
         return self.time
 

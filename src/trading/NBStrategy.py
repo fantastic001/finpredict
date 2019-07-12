@@ -57,4 +57,4 @@ class NBStrategy(PredictiveStrategy):
         if self.model is None:
             raise TypeError("You have to train model before using this strategy.")
         else:
-            return self.model.predict([[self.tickers.index(ticker), source.get_close(ticker, -1)], self.get_mentions(ticker, self.news, source.get_time())])
+            return self.model.predict([[self.tickers.index(ticker), source.get_close(ticker, -1), self.get_mentions(ticker, self.news, source.get_time())]])
