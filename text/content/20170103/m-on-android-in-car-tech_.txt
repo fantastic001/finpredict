@@ -1,0 +1,29 @@
+Automotive
+Fiat Chrysler and Google team on Android in-car tech
+Posted 10 hours ago by Darrell Etherington (@etherington)
+
+Next Story
+Fiat Chrysler and Alphabet are already working together via Waymo, the former Google self-driving car project, and now Google is also teaming with the automaker for in-car system tech, using Android as the base for a new infotainment and connect car platform. The new FCA in-car system is called Uconnect, and uses Android 7.0 to deliver a range of features, including Android app compatibility alongside more traditional in-car controls like AC and heat, also with terrestrial radio.
+Google’ work with FCA goes well beyond the Android Auto model, which essentially layers on a simplified, driver-friendly and distraction reducing version of Android to an in-car display (or mounted smartphone), powered from the phone itself.  The search giant clearly wants to push further into the dashboard of users, and do so in a way that is more deeply integrated with carmaker software and systems themselves.
+“Google is committed to building Android as a turn-key automotive platform that integrates deeply with the vehicle in a safe and seamless way,” said Patrick Brady, Director of Android Engineering, Google in a press release announcing the news.
+For the carmaker, Google and Android offer unique flexibility that give them the advantage of being able to offer customers app compatibility, but without having to give up total control of the branding and customer relationship.
+“With Android, we are able to maintain our unique and intuitive Uconnect user interface, all while integrating our easy-to-use systems with Android’s features and ecosystem of applications,” noted FCA Head of Electrical Engineering Chris Barman in the release.
+This is an advantage that Google has which isn’t available to Apple, which is also seeking to more closely integrate its mobile products into user’s in-car lives via CarPlay. It’s unlikely that Apple would ever cede control over the look and feel of the interface to automakers, since it has never had that kind of relationships with OEMs with either iOS or modern OS X/macOS software.
+Arguably, letting automakers maintain responsibility for the look and feel of the in-car software interface isn’t the ideal solution, since they’ve proven clumsy when it comes to UX in the past. But carmakers also face rigorous rules for preventing distraction, and would be unlikely to cede control of interface design entirely to operating system makers anyway, both because of this and their desire to control the customer experience.
+Android’s flexibility could prove key to getting it more presence in vehicles heading into a time when the in-car experience becomes something new and valuable, when autonomous vehicles begin to gain ground. I’ll be sure to check out Uconnect while I’m at CES this week, where it’ll be on display, but regardless of the experience, it’s a smart strategic move for Google at this stage.
+
+ADVERTISEMENT
+ADVERTISEMENT
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Happy New Year from Crunch Report!
+Watch More Episodes

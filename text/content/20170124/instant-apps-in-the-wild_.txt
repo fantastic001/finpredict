@@ -1,0 +1,38 @@
+Apps
+Google
+Android
+Mobile
+instant apps
+Google starts testing Instant Apps in the wild
+Posted 10 hours ago by Frederic Lardinois (@fredericl)
+
+Next Story
+One of the biggest surprises at last year’s Google I/O developer conference was the announcement of Instant Apps for Android. These new kinds of apps are meant to help bridge the gap between web apps and native apps. The idea here is to break native apps into very small packets that, because they are so small, can run almost instantly — and without having to go to an app store — when you tap on a URL.
+Now, more than half a year after the company first announced this feature, the first couple of Instant Apps are ready for limited testing.
+Google says that it has been working with a small number of developers to test the user and developer experience over the last few months. The result is a limited test that includes apps from BuzzFeed, Wish, Periscope and Viki.
+“Instant Apps is really about re-thinking where apps are going,” Google VP of Engineering for Android Dave Burke told me when the company announced Instant Apps last year. “Web pages are ephemeral. They appear, you use them, and never think about them again.” Installing apps, on the other hand, comes with a lot of friction and users often only want to perform a single action or get a specific piece of information (say pay for parking with an app in a city you don’t often travel to). Ideally, Instant Apps gives you the speed of a light web page with all of the benefits of a native app.
+For developers, supporting Instant Apps isn’t quite as easy as adding AMP support to a web site, though. They first have to modularize their apps so that the smaller packages can run as fast as possible (and without any access to the full app). The full SDK for enabling Instant Apps on Android will be available in the coming months, but developers who want to be ready for the launch should probably look at Google’s recommendations for preparing their apps for this launch.
+Sadly, details about how to actually try an Instant App remain sparse. We’ve asked Google for a few more details (and maybe a few URLs to test) and will update this post once we learn more.
+
+ADVERTISEMENT
+ADVERTISEMENT
+Crunchbase
+Android
+DESCRIPTION
+Android is a software platform for mobile devices based on the Linux operating system and developed by Google and the Open Handset
+WEBSITE
+http://code.google.com/android
+Full profile for Android
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Sprint Takes 33% Stake in Tidal | Crunch Report
+Watch More Episodes

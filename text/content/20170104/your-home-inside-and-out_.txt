@@ -1,0 +1,40 @@
+Artificial Intelligence
+drones
+UAVs
+Alarm.com is building drones to monitor your home inside and out
+Posted 14 hours ago by Lora Kolodny (@lorakolodny)
+
+Next Story
+At CES on Tuesday, Alarm.com revealed that it is developing a smart home security drone alongside its other IoT devices and software.
+The idea is that if you hear something go bump in the night, you can just grab your smartphone and watch a live video stream of what’s happening because your drone has automatically gone to check things out.
+Lots of companies — like Y Combinator graduates Sunflower Labs, Eighty Nine Robotics in Chicago, Secom Co. in Japan and drone behemoth DJI — offer drones or drone-based services that can monitor the perimeter of a home or commercial site from on high. But most aren’t building them to fly indoors.
+Alarm.com is developing a system that enables drones to fly wherever unusual people or activities are detected, inside or outdoors, according to Chief Product Officer Dan Kerzner.
+The company has begun development of both software and hardware, specifically a quadcopter, using Qualcomm’s Snapdragon Flight platform. But it hasn’t yet finalized a name for its product.
+Alarm.com, which went public in June 2015, builds systems that let home or business owners remotely control and gather data and insights from internet-connected systems like lights, cameras, locks and other devices.
+The Washington, D.C.-based company distributes its technology through professional installers. That means it doesn’t rely on crowdfunding campaigns or retail distribution to get its systems into millions of homes or into light commercial applications like at offices or apartment buildings.
+Contractors may have other favorite devices they’ll recommend to homeowners and building managers, though. So even though Alarm.com builds plenty of its own hardware, it also creates its software to integrate with, and manage, other companies’ devices.
+That’s what it has done with smart home devices on the ground, like Yale locks, LiftMaster garage door openers and other Z-wave devices, Kerzner said. And that’s what the company plans to do with drones, and other autonomously operating robots in the future.
+Rather than constantly patrolling a home, the Alarm.com drones will only respond and fly when another system is triggered, for example a motion sensor that’s attached to the lights.
+Using some data from other smart home devices, the drones will know where to go investigate and record or live stream a video to a user’s mobile phone. When they fly, they will use cameras and other on-board sensors to see around a room and avoid collisions.
+Kerzner declined to get into great detail about each drone component, as the product is only in its fledgling design stages. But he emphasized that using Qualcomm Snapdragon Flight will give the drones the ability to do indoor and outdoor navigation from the start.
+“Indoor drones don’t have easy access to GPS, so they rely on computer vision for collision avoidance,” he noted. Computer vision takes a great deal of processing of videos, imagery and other data, obviously.
+Alarm.com is targeting a launch for their drone service at the end of 2017.
+At CES, the company also officially launched something it quietly released a few months ago, called the Insights Engine.
+Insights Engine is software that enables smart home devices of any kind, including drones in the future, to automatically learn what’s normal in and around a home or work site, and send alerts to users when there’s an intrusion or weird activity, with no manual rule writing required.
+FEATURED IMAGE: ALARM.COM
+
+ADVERTISEMENT
+ADVERTISEMENT
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Intel Buys 15% of Here Mapping Business | Crunch Report
+Watch More Episodes

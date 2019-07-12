@@ -1,0 +1,51 @@
+Virtual Reality
+virtual reality filmmaking
+Music
+CRUNCH NETWORK
+For dramatic VR to succeed, music must become the director
+Posted 1 hour ago by Elias Constantopedos
+
+Next Story
+Elias Constantopedos
+CRUNCH NETWORK CONTRIBUTOR
+Elias Constantopedos is co-founder of Melyo.
+How to join the network
+We’ve all experienced music’s power to change our mood or drum up feelings of nostalgia, fear or excitement. And beyond entertainment, numerous studies have proven that music can inspire action and actually impact change.
+Retailers have used music to drive shoppers to higher price points and casinos have played music to encourage more gambling, to name just a couple of examples. It’s this use of music — not as a background mood enhancer, but actually as a director of sorts, that will be critical as virtual reality and augmented reality content creators struggle with how to direct the viewer’s gaze in 360 environments.
+Figuring out music’s role will be key to the mainstream adoption of VR dramatic content. But so far music is still being relegated to a background mood feature. This needs to change, and it needs to start with a mind shift in how we think about music.
+A paradigm shift
+The use of music in film historically has been confined to on-screen music (a piano player in a bar) or off-screen music (a full 90-piece orchestra accompanying a love scene). But in VR films, the lines between on-screen and off-screen music have blurred. The on-screen gramophone in the virtual reality storyteller Kismet fills the room with an evocative gypsy violin melody, but when you progress, it enters the backing soundtrack in an orchestral arrangement. Because we are immersed in the world, it’s almost as if the music is “playing inside our head,” linking the scenes to each other with a familiar mnemonic.
+How we use music in VR film now must be thought of a little differently, as we are no longer the passive observer but a participant, perhaps even the protagonist. This is a paradigm shift in the storytelling dynamic not experienced since the advent of video games. In VR, the user can make decisions that impact the story and choose where to look to the point they could miss crucial story elements. The challenge here is keeping the audience focused on what we want them to see, and music’s power to draw our attention or subtly influence our behavior can be used to this end.
+Game technology will lead the way
+Truly the biggest barrier to this happening now is our mindset, because the technology is here and improving every day to enable storytellers to use music to direct the viewer’s gaze. Video game audio engines like Audiokinetic’s Wwise are leading the VR music revolution, and new technology is emerging to push the boundaries of spatial audio to produce a true to life experience.
+As the VR film world matures and we are able to guide our own journey through the story, music and sound in VR will take the shape of game music on steroids. The technology we use to make this happen will have to not only adapt to the speed in which a user interacts with the experience and evolve based on the changes in order, but it will have to do this seamlessly and without drawing attention to itself, as if it had been composed for that moment.
+Music needs to become an invisible puppet master doing the job film editors and directors used to do.
+We are seeing this in VR horror experiences like VRWERX’s Paranormal Activity, where the user can navigate the experience at their own pace, and sound and music jump up at certain moments to scare, add suspense or misdirect. Here, music is used to lead you in what to do next. Because of learned behaviors from horror films, we know what specific audio cues mean. Sudden silence looking down a dark hallway? A creepy onscreen music box playing a childlike melody? A low ominous tone? I found myself compelled to move through the experience in part driven by music and sound triggers, unlike a traditional horror film where you are hand-held by the director to achieve the desired effect. Music needs to become an invisible puppet master doing the job film editors and directors used to do.
+Baby steps
+Early VR film, such as Chris Milk’s Clouds Over Sidra, have changed the very nature of storytelling by placing the audience into a series of 360 vignettes in a refugee camp tied together by a voice-over narration and emotional piano soundtrack.
+You are compelled to look around in each scene and are thrust into the life of Sidra, a 12-year-old Syrian refugee, and her friends. The voice-over and sound directs your attention and guides you through the story. The music serves as an emotional underscore playing “inside your head,” guiding how you feel and linking the vignettes together in an emotional arc.
+Here, the music’s role is to focus your attention on the interactions between the children in these scenes, the faces of the refugees and their lives. You “see” what the director wants you to see as the music plays to a specific side of our emotional bias. In this way, the music gently directs your attention within a 360 environment to the human story and keeps you focused.
+Content creators need to work together to implement music into VR
+We are being held back from moving VR storytelling forward by an outdated concept of how we use music in film. We need to work together to look at the stories as music and look at the music as stories.
+Related Articles
+Rhapsody brings music to your face with VR experience
+Apple Shows Off Its First-Ever Piece Of Virtual Reality Content With U2 Music Video
+Dynamic music is an option now for storytelling, and content creators need to realize the power of music as a tool to not only enhance the emotion in a story but to shape an audience’s perception of every element of their experience, directing their gaze to the desired story arc, placing them in a time, location and aesthetic, and opening their eyes to the meaning in an often confusing experience.
+VR directors working together with interactive music composers and implementors can begin to pull back the veil on what is possible in interactive music design, treating music as the wordless narrator that guides us through virtual worlds and glues the narrative together.
+FEATURED IMAGE: RAINER MOOK / EYEEM/GETTY IMAGES
+
+ADVERTISEMENT
+ADVERTISEMENT
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Apple Suing Qualcomm for $1 Billion | Crunch Report
+Watch More Episodes

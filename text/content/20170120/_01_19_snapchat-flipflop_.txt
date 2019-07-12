@@ -1,0 +1,54 @@
+Advertising Tech
+Snapchat
+targeted ads
+Snapchat embraces offline purchase ad targeting its CEO called “creepy”
+Posted 1 hour ago by Josh Constine (@joshconstine)
+
+Next Story
+Snap Inc.’s quest to earn enough money to IPO sees it flip-flopping after pledging not to use “creepy” ad targeting. Snap will now allow advertisers to use Oracle’s Data Cloud (formerly Datalogix) third-party data about what users buy offline to target ads on Snapchat, according to The Wall Street Journal. Snap tells TechCrunch that this rolled out over the last few weeks, and will allow targeting to 100 different customer demographics like “cosmetics shopper” or “consumer tech shopper.”
+That’s a 180 from what VentureBeat reported Snap CEO Evan Spiegel said in June 2015 at the Cannes Lions marketing festival. “I got an ad this morning for something I was thinking about buying yesterday, and it’s really annoying,” Spiegel declared. “We care about not being creepy. That’s something that’s really important to us.”
+Yet the ad targeting based on what people buy at the grocery store that Snapchat is now offering fits that bill. Spiegel was talking about retargeted ads for specific products you looked at online. But offline purchase targeting will also produce ads that have users wondering, “How did they know I buy that?”
+SAN FRANCISCO, CA – SEPTEMBER 9: Evan Spiegel of Snapchat attends TechCrunch Disrupt SF 2013 at San Francisco Design Center on September 9, 2013 in San Francisco, California. (Photo by Steve Jennings/Getty Images for TechCrunch)
+That’s the kind of experience people are used to on Facebook, Google and Twitter. But Snapchat positioned itself as different. It touted its non-personalized Snap ads for things like movies with a wide-enough appeal that it didn’t need invasive targeting. But for Snap Inc. to convince Wall Street its stock is a good buy when it’s expected to go public in March, it needs the flexibility to serve a wide range of advertisers, and the targeting and conversion rates to earn more per view.
+Today’s change follows an update in September when Snapchat opened Snap Audience Match, which let advertisers upload their own lists of customer email addresses or mobile IDs and then target them with ads. But at least that was advertisers using their own information, not what’s collected by third-party data brokers.
+At least Snap does allow you to opt out of all ad targeting based on data from its partners with one switch. To opt out, go into Snapchat, pull down to see your profile, hit the gear in the top right to open Settings, go to Manage Preferences, select Ad Preferences and uncheck the Snap Audience Match option.
+How Snap’s new ad targeting works
+First, Oracle Data Cloud collects data from retail stores about what you buy. Normally the company offers thousands of different demographic profiles and even specific brand buyers that businesses can target, but Snapchat has whittled that down to 100. These include “men’s clothing buyer” or “car shopper.” All uploaded user IDs and email addresses are hashed for privacy, encrypted and anonymized, and Snap matches them to its users.
+Snapchat advertisers can then ask to target one of these segments of users and measure their impact on offline purchases, and they buy the ads through an auction or directly from Snap. It’s currently testing the targeting system with brands like Honda, Kia and The Honest Company.
+There are creepier things Snapchat could do that it isn’t, at least not yet. It won’t let businesses target just users who bought a certain product, and instead only lets them target a wider group of buyers of similar products. And it doesn’t track ethnicity, sexual orientation, faith or other extremely sensitive personal data. But today’s change will strike some more privacy-conscious users as a double-cross.
+Internet business as usual
+This isn’t to say this kind of ad targeting is inherently bad. Advertising is the lifeblood of the free consumer internet. It pays for the services we enjoy. North American and European users who command higher ad rates subsidize these services for those in the rest of the world who could afford even a tiny subscription fee that people often suggest these apps should charge.
+And, in the end, if you’re going to see ads anyways, it makes sense for them to at least be relevant — then, rather than just being annoying and useless, you might occasionally hear about something you actually want.
+Deeper ad targeting might actually make Snapchat better. Businesses are going to great lengths to create entertaining custom ads for the app, and now you might see ones about the stuff you already buy, or their competitors.
+Still, Snapchat users were led to believe the app was taking a much more pro-privacy approach to making money that was cool, unlike Facebook. Technically this change is allowed by the app’s terms of service. But so far Snap hasn’t made any formal announcements to users that its approach and business are changing, and they can opt out if they want. It should.
+
+ADVERTISEMENT
+ADVERTISEMENT
+Crunchbase
+Snap Inc.
+FOUNDED
+2011
+OVERVIEW
+Snap, formerly Snapchat Inc, is a privately owned multinational camera company. The company announce the rebranding on September 24, 2016 as it introduces its new product called Spectacles.
+LOCATION
+Venice, CA
+CATEGORIES
+Photography, File Sharing, Messaging, Apps, Mobile
+FOUNDERS
+Evan Spiegel
+WEBSITE
+https://www.snap.com/en-US/
+Full profile for Snap Inc.
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Theranos' last blood lab closed after failing inspection | Crunch Report
+Watch More Episodes

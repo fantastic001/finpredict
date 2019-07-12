@@ -1,0 +1,72 @@
+Health
+data science
+genomics
+CRUNCH NETWORK
+The genomics intelligence revolution
+Posted yesterday by Mahni Ghorashi, Gaurav Garg
+
+Next Story
+Mahni Ghorashi
+CRUNCH NETWORK CONTRIBUTOR
+Mahni Ghorashi is the co-founder of Clear Labs, where he leads commercial activities including strategy, marketing and business development.
+How to join the network
+Gaurav Garg
+CRUNCH NETWORK CONTRIBUTOR
+Gaurav Garg is a founding partner of Wing Venture Capital.
+How to join the network
+We’ve entered a new phase in the history of whole genome sequencing (WGS). Consider that researchers at University of Toronto just launched a massive project to sequence the whole genomes of 10,000 people per year. This is truly astounding when you recall that it took 13 years and $3 billion to sequence the first human genome, and that as recently as 2012 there were only 69 whole human genomes that had ever been sequenced.
+We’ve been using WGS to personalize medicine since 2010, when WGS was first used to inform the treatment of a patient.
+Now, as our public and private reference databases grow and we have access to more genomic data than ever, we’ll begin to rely heavily on machine learning to realize the full potential of WGS. Increased access to machine-learning capabilities and processing power is fueling not only genetic research but also the broad application of genomics across a number of industries. We’re just beginning to see cutting-edge WGS technologies like next-generation sequencing (NGS) leveraged in other industries like agriculture and food safety.
+To better understand the importance of WGS as an applied science and to better imagine how WGS will rapidly transform a variety of industries in the next few years — especially as we combine it with technical treatments like machine learning — it’s helpful to understand how fundamental processes of sequencing and analysis have evolved over time.
+A brief history of WGS
+It’s become commonplace to associate WGS with the study of human DNA, but of course, WGS is a laboratory process that can be used to reveal the complete DNA sequence of any organism. The first organism to have its whole genome sequenced was, in fact, Haemophilus influenzae, a bacterium that resides in the human respiratory tract. This breakthrough came in 1995. It wasn’t until 2000, a full five years later, when researchers sequenced the whole genome of the fruit fly, Drosophila melanogaster.
+Just three years passed before the Human Genome Project published the whole sequence of a human genome in 2003. This momentous breakthrough — among the most important in the history of science — required a 13-year-long Herculean effort that cost approximately $3 billion dollars.
+The commercial viability of WGS remained very much in doubt until the introduction of next-generation sequencing (NGS) in 2005. NGS is something of a catch-all term describing a variety of sequencing technologies that have largely replaced Sanger sequencing.
+The spectrum of possibility for WGS has implications for the way we handle human health.
+These technologies, developed at Illumina, Roche, Life Technologies and a number of other firms, have greatly reduced the time and cost of DNA and RNA sequencing, revolutionizing both the study and application of genomics and molecular biology. For the last year or so, we’ve been on the verge of achieving the $1,000 whole human genome. In fact, Veritas Genetics has been hailed as the first company to be able to sequence, analyze and interpret the human genome for less than $1,000.
+Source: National Human Genome Research Institute
+The $1,000 figure has always been an arbitrary goal, of course. What really matters is that we can now sequence the human genome quickly and affordably to build the massive reference databases researchers need, like the one being built at University of Toronto, to better understand complex diseases, how genes interact with each other and how genes respond to environmental changes.
+Sequencing is just the first step: The role of data science in modern genomics
+Since the introduction of NGS, reducing the time and cost of WGS has largely been a computer engineering problem. Converting the raw data of the human genome into medically useful and understandable information has historically been a huge technical bottleneck, but over the course of the last decade, advances in compute, rather than laboratory processes, have driven the most dramatic time and cost reductions associated with WGS. Moore’s Law might be dead; however, optical computing continues to improve genomic processing.
+For example, in the course of conducting a 2015 study on the emergency management of genetic diseases, Children’s Mercy Hospital in Kansas City detailed their use of full genome sequencing, including full analysis. Using Illumina HiSeq machines, an Edico Genome DRAGEN Processor and customized software packages, the team at Children’s Mercy sequenced and analyzed a whole human genome in just 26 hours. The DRAGEN Processor alone brought the analysis time down from 15 hours to 40 minutes.
+So what do we mean by analysis? To begin with, we differentiate between primary, secondary and tertiary analysis. Today’s modern sequencers perform the raw chemistry and the initial conversion of a physical sample into raw sequence data. We refer to that initial conversion process as primary analysis.
+We’ve captured the data — it’s the insights that are elusive.
+Secondary analysis is the process by which we assemble a genome. Think of it as putting together a puzzle with a billion pieces. The sequencer gives you all of the base pairs, but they’re not in the correct order. As you can imagine, this is a compute-intensive process. The end result of secondary analysis is the data correlating to a whole genome.
+Extracting meaning from genetic data — matching mutations with certain diseases, for example — requires tertiary analysis. This is where the applied science of genomics begins. It’s also a big data problem with a limitless number of software solutions.
+Some of the most fertile ground for future innovation is in devising new methods and workflows for extracting meaning from whole genomes. We’ve captured the data — it’s the insights that are elusive.
+The future of WGS in health
+WGS has major implications for the future of human wellness, both in terms of how the healthcare system operates and the way in which consumers interact with their own health.
+At the institutional level, the power of genomics will play an interesting role in helping payers and providers improve population health. Most healthcare providers still exclusively rely on historical medical information that resides in claims data and electronic medical records. These records tell us about the 10-15 percent of population that have already developed preventable chronic diseases, but they don’t help predict who among the remaining population are most at risk for developing those conditions. Genomics can help paint that picture by helping to identify patients who are high-risk for developing certain diseases, and intervening early.
+Downstream, at the consumer level, personalized medicine will continue to be a major focus for WGS. There’s still an incredible amount of work to be done, especially when you consider that the majority of human genetic variations remain uninterpreted. We can extract meaning from an individual’s genetic data by comparing it to other reference genomes, and the more reference genomes we have to work with the better our software and our processes can become. This is why plans to build giant databases of genetic data are fundamental to the future of this work.
+There are other applications to healthcare that this research opens up, as well. One of the most interesting is precision nutrition, based on an understanding of our individual microbiome compositions. Probiotics (and even prebiotics) can have a major impact on individuals based on their unique microbiome profile. Just as personalized medicine is emerging from existing NGS methods, so too can we soon expect new experimental NGS methods for analyzing the human microbiome to support the development of personalized and optimized nutrition.
+The spectrum of possibility for WGS has implications for the way we handle human health, from the doctor’s office to at-home care.
+Beyond health
+Related Articles
+Is enterprise genomics good enough yet?
+Illumina wants to sequence your whole genome for $100
+Genetics startup Genos wants to pay you for your DNA data
+At-Home Full Genome-Sequencing Is Now Just A Spit Tube Away
+For less than $1,000 you can now pull up your entire genome on your smartphone
+As NGS and innovations in high-performance computing continue to drive down the costs of whole genome sequencing, we’re also going to see genomic data and insights transform industries outside of healthcare and pharmaceuticals.
+Agrigenomics is one emerging market being powered by new innovations in sequencing and analysis. De novo sequencing, for example, is an innovation of NGS that makes it possible to sequence a novel genome even when there’s no reference sequence available for alignment. Agrigenomics researchers are already using genomes assembled with de novo sequencing to discover genetic variations and to reveal the genetic underpinnings of a plant’s or animal’s functions and its interaction with the environment.
+Researchers are also beginning to experiment with using DNA for storing data. Earlier this year Microsoft and University of Washington researchers encoded 200MB of data onto synthetic DNA and then retrieved it. DNA is the ultimate storage medium. It’s durable and it’s compact: Some experts believe all the world’s data could be encoded within a kilogram of DNA.
+The intelligence revolution
+The promise of genomics is just beginning to be revealed. We are at the leading edge of an intelligence revolution, powered by sequencing and analysis technologies.
+WGS has opened the door to understanding our entire world at the molecular level. Endowed with this intelligence, we’ll not only be able to understand but also influence and optimize the way we interact with ourselves and our natural world.
+FEATURED IMAGE: PASIEKA/SCIENCE PHOTO LIBRARY/GETTY IMAGES
+
+ADVERTISEMENT
+ADVERTISEMENT
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Apple Suing Qualcomm for $1 Billion | Crunch Report
+Watch More Episodes

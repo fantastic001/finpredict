@@ -1,0 +1,55 @@
+Cloud
+Salesforce
+Salesforce Einstein
+Salesforce opens engineering office in Microsoft’s and Amazon’s backyards
+Posted 4 hours ago by Ron Miller (@ron_miller)
+
+Next Story
+Salesforce announced today that it plans to open an engineering and innovation hub in the Seattle area, greatly expanding its presence there.
+Company co-founder Parker Harris says the office, which is located in the Nine Two Nine Office Tower in Bellevue, will be dedicated mostly to supporting the company’s artificial intelligence initiative, introduced last Fall, which was dubbed Einstein.
+Harris indicated that the Bellevue office, which currently has 250 employees will double in size in the coming months as they hire more engineers and support personnel to fill out the office. While the team is based in Bellevue, it will work closely with the Einstein development teams in San Francisco.
+Related Articles
+Salesforce asserted itself in 2016
+Salesforce serves as training ground for SaaS startup execs
+Salesforce looks surprisingly good headed into the end of the year with a strong Q3
+Salesforce looks to the future with Einstein artificial intelligence
+It’s just a practical matter, according to Harris. It’s getting increasingly difficult to find engineering talent in the Bay Area, and the company is growing rapidly, making it even more challenging. At its most recent earnings report, Salesforce indicated it was on a $10 billion run rate, making it one of the fastest growing enterprise software companies in the world.
+Salesforce bought a number of companies in 2016 including MetaMind, which it acquired last April for $32.8 million. With that purchase, artificial intelligence researcher and MetaMind CEO Richard Socher, became the company’s Chief Scientist after the acquisition. Harris says Socher will have a big role when it comes to staffing the Bellevue office and will work with the teams there from his home base in San Francisco.
+Photo: Salesforce
+The company is not just offering these engineers the chance to work on the company’s artificial intelligence platform. They are also hoping to lure them to a comfortable workspace with mindfulness areas and large lounges, designed to promote collaboration and creativity among the Bellevue engineering teams.
+Of course, it’s probably not a coincidence that the Seattle/Bellevue area is also home to Amazon and Microsoft, two Salesforce frenemies. While the cloud CRM giant partners with each of these companies, it also competes with them too in a complex relationship. Harris admitted that it’s possible they will be able to attract employees from the two big Seattle tech behemoths, but plans to recruit from a variety of sources including the local universities.
+For now, the company claims that it’s nothing more than trying to gain a bigger foothold in the area, as it faces a talent shortage at home in San Francisco. That it allows them to plant a stake in the ground in the backyards of two tech rivals is also probably a nice bonus.
+FindTheCompany | Graphiq
+FEATURED IMAGE: SALESFORCE.COM
+
+ADVERTISEMENT
+ADVERTISEMENT
+Crunchbase
+Salesforce
+FOUNDED
+1999
+OVERVIEW
+Salesforce is a global cloud computing company that provides business software on a subscription basis. It is best known for its on-demand customer relationship management (CRM) solutions. It offers users with a customer community, partner community, developer community, and an app exchange marketplace. Salesforce provides its products and services to various industries, including healthcare, finance, …
+LOCATION
+San Francisco, CA
+CATEGORIES
+CRM, SaaS, Cloud Computing, Enterprise Software
+FOUNDERS
+Parker Harris
+WEBSITE
+https://www.salesforce.com
+Full profile for Salesforce
+Salesforce Ventures
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Chelsea Manning to Be Freed in May | Crunch Report
+Watch More Episodes

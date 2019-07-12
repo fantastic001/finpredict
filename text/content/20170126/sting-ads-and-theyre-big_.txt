@@ -1,0 +1,45 @@
+Advertising Tech
+Facebook
+Ads
+Messenger
+Facebook Messenger begins testing ads…and they’re big
+Posted 7 hours ago by Sarah Perez (@sarahintampa)
+
+Next Story
+Facebook today is beginning to test integrating ads into its mobile messaging app’s user interface. The company says it will launch what it characterizes as a “very small test” in Australia and Thailand, which will allow businesses to place an ad on the Messenger home screen. These fairly prominent card-style ads include image thumbnails accompanied by text and a link. They appear below your recent conversations, says Facebook.
+The link in question can direct users to take different actions, like clicking to learn more about the business or signing up for a service, among other things. This is similar to how Facebook Pages for businesses today can direct users to take a specific action, like shopping their site, or starting a chat, for example.
+The ads currently take up a lot of screen space on the homescreen, where they sit below your Favorites and above the Active Now section, which shows you which friends are online. This seems to make Messenger less user-friendly, as you have to scroll past these large, hard-to-ignore ads, just to use other key Messenger features.
+Facebook at least promises that ads will not appear in conversations, unless the user chooses to click on the ad or start a chat with the brand.
+“Businesses have long been telling us that they are very excited about the potential of the Messenger platform to reach their customers and help them to drive sales, build brand awareness and increase customer satisfaction,” writes Facebook Product Manager Eddie Zhang, in an announcement detailing the new ads.
+Sure, businesses are excited. Users, however, less so.
+At present, Facebook already provides other ways for businesses to reach customers via Messenger, including News Feed ads that take users into a chat session and sponsored messages.
+Messenger today has over a billion monthly users which could be reached through advertisements like this. The company also notes that people are sending over 1 billion messages to brands per month – a stat it highlights as if it’s some indication that people will want to see ads like this in Messenger.
+But the truth is, people like to reach out to businesses via Messenger because it’s a more efficient ways of asking questions or getting customer service compared with calling the business or shooting an email. That doesn’t mean that they want the user interface of one of their main messaging apps cluttered with advertisements.
+Of course, this is still just a test for now. If interaction between these ads and Messenger users is low, Facebook may rethink how the implementation will be handled.
+In addition, the company notes that users can hide and report specific ads using the dropdown menu in their Messenger.
+It’s long been rumored that Facebook would further monetize Messenger via ads, though previous leaks had pointed to plans that would allow businesses to start chats containing ads with users who had initiated chat threads with the business before. This later turned into sponsored messages. But those type of ads are more interruptive, and could make people less likely to open organic messages, because they come to think of messages in the app as being spam.
+The new ads, on the other hand, seem to more closely resemble the banners in News Feed that you scroll past.
+Facebook says the ads will roll out to a test group of people in Thailand and Australia in the coming weeks.
+
+ADVERTISEMENT
+ADVERTISEMENT
+Crunchbase
+Messenger
+DESCRIPTION
+Messenger is a Facebook messaging app that allows users to message Facebook friends and people in their phone book.
+WEBSITE
+https://www.messenger.com/
+Full profile for Messenger
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Chan Zuckerberg Initiative Acquires Meta Search | Crunch Report
+Watch More Episodes

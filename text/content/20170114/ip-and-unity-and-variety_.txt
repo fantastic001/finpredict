@@ -1,0 +1,48 @@
+Apps
+Unity&Variety
+Quip
+Saleforce’s Quip acquires ex-Facebook designer studio Unity&Variety
+Posted 3 hours ago by Josh Constine (@joshconstine)
+
+Next Story
+Some ex-Facebook designers will be adding extra pizzazz to Salesforce’s word processing company Quip, which today acquired Unity&Variety. Founded in 2015 by Joey Flynn and Drew Hamlin after several years designing products at Facebook, Unity&Variety released a cute mobile game called Pinchworm last year. Terms of the deal weren’t disclosed, but we’re awaiting comment from both companies’ execs.
+Flynn, Hamlin and employee Andy Chung posted a short note on their website today saying “Here at Unity&Variety we’ve been cranking on some new productivity tools. We’re hyped to announce that starting today we’ll be continuing our work with our talented friends over at Quip, a Salesforce company.”
+[Update: Quip CEO Bret Taylor tells TechCrunch “The team is three people and was working on a compelling productivity tool, so we are buying their IP and team. They are going to work on their existing tool and contribute to Quip broadly.”]
+Unity&Variety founders (from left) Drew Hamlin and Joey Flynn
+It might seem a bit strange to go from building a game about a jumping inchworm to working for Salesforce. But while at Facebook, Flynn and Hamlin worked on the massively succesful 2014 redesign of Messenger, and the standalone Snapchat competitor Slingshot that flopped but pioneered creative tools like variable brush sizes that Facebook later integrated elsewhere. Meanwhile, Chung has been developing a sleek iPad design tool called Pattern for rapid prototyping of interface ideas.
+Together, their ability to reimagine classic functionality for mobile could be a big help to Quip.
+Logo for Unity&Variety game Pinchworm
+Quip CEO and fellow former Facebooker Bret Taylor wrote that “Kevin and I are beyond excited to announce that the incredible design team at Unity&Variety is joining Quip to help us build the next generation of productivity tools. I am psyched to have the opportunity to work with Joey and Drew again. Some of the best product designers I have ever worked with. I can’t wait to see how they transform Quip.”
+It seems that after Pinchworm, Unity&Variety had focused its design prowess on a more utilitarian product that seemed promising to Quip. The team could give Quip the style it needs to keep attracting users to its “Microsoft Word for the mobile era.”
+Quip
+
+ADVERTISEMENT
+ADVERTISEMENT
+Crunchbase
+Quip
+FOUNDED
+2012
+OVERVIEW
+Quip is a living document platform that combines docs, spreadsheets, and communication all in one to help teams get work done faster and smarter. Enabling a frictionless workflow for creating and iterating on living documents, Quip was built for the way people work today -- across a variety of devices and locations. Quip's simple interface combines documents and messages into a single chat-like "thread" …
+LOCATION
+San Francisco, CA
+CATEGORIES
+Collaboration, Mobile Devices, Enterprise Software, Mobile
+FOUNDERS
+Bret Taylor
+WEBSITE
+http://quip.com
+Full profile for Quip
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Fitbit Acquires Vector Smartwatch | Crunch Report
+Watch More Episodes

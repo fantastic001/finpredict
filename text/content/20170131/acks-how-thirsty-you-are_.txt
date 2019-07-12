@@ -1,0 +1,31 @@
+Gadgets
+Dehydration
+medicine
+biology
+Hydration
+Researchers create a wireless hydration sensor that tracks how thirsty you are
+Posted 1 hour ago by John Biggs (@johnbiggs)
+
+Next Story
+A wearable wireless hydration sensor from North Carolina State University will be able to tell how thirsty you are via a chest patch or wrist-worn device.
+The device is designed to tell you when you might be facing heat stress due to dehydration.
+“It’s difficult to measure a person’s hydration quantitatively, which is relevant for everyone from military personnel to athletes to firefighters, who are at risk of health problems related to heat stress when training or in the field,” said researcher John Muth.
+The device tracks “an individual’s skin hydration in real time” and can improve athletic performance or even track levels in older people who might not be able to get to water in time to prevent dehydration.
+“It can even be used to tell how effective skin moisturizers are for cosmetics,” said researcher Yong Zhu.
+The sensor uses silver nanowire to sense the electric properties of skin. The small sensors they created are on par with the larger, more complex sensors currently used to sense hydration. These commercial models cost $8,000 but this new sensor will cost about one dollar, making it a massive step up in hydration sensing and opening the potential use cases to more informal sensing jobs.
+
+ADVERTISEMENT
+ADVERTISEMENT
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Galaxy S8 Coming in March | Crunch Report
+Watch More Episodes

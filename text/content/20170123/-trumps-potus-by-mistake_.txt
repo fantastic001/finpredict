@@ -1,0 +1,65 @@
+Government
+Twitter
+Politics
+A Twitter glitch autofollowed some users to Trump’s @POTUS by mistake
+Posted Jan 20, 2017 by Sarah Perez (@sarahintampa)
+
+Next Story
+A number of Twitter users tonight are claiming their accounts have somehow automatically followed the Twitter accounts, @POTUS, @FLOTUS and @VP – now in the hands of the Trump administration – even though they had never followed the White House accounts, had unfollowed these accounts before the transition, or had the accounts blocked.
+This appears to be a glitch related to the handoff of the official White House Twitter accounts to the Trump administration.
+As reported earlier, all the tweets from Obama’s term as president were archived under the new Twitter account, @POTUS44, and his then 13 million-plus followers were also migrated. (The account is up to over 14 million at the time of writing.) In addition, Obama’s followers were also set to automatically follow the new @POTUS account, now operated by the Trump team.
+The same process took place for the @FLOTUS and @VP accounts, which were archived to @FLOTUS44 and @VP44, respectively.
+It’s possible that some of the Twitter complaints are related to a misunderstanding about how this transition process works. They may not have been aware that they were going to be auto-followed to Trump’s @POTUS account when he took office.
+What’s odd, though, is that some users are claiming they had never followed the @POTUS account, even during Obama’s term.
+In other cases, they’re saying they had unfollowed the account ahead of Trump’s ownership, in order to not be migrated. Some even said they had blocked the account – a clear indication they didn’t want to see Trump’s tweets going forward.
+But for whatever reason, their account automatically followed the @POTUS account anyway. (People seem less upset about being autofollowed to @FLOTUS and @VP accounts, but those are also mentioned in a number of tweets.)
+Of course, it’s also possible that a handful of these users have a faulty memory. But there were too many complaints about the glitch for it to be a coincidence. It definitely looks like some kind of Twitter goof.
+Here’s a sample:
+@xfsista @Amy_Marie97 Holy shit, I just checked — Twitter autofollowed the Cheeto for me! (I made a DEFINITE point of unfollowing last nt!)
+— Jose Molina (@JoseMolinaTV) January 21, 2017
+Check your feed. Twitter autofollowed @potus after I blocked/reported the account today. Seems like it's happening to several people.
+— Punch All Nazis (@PhilMQuinn) January 21, 2017
+@loosenuptrees blocking won't work. I had POTUS blocked and it still autofollowed.
+— amber treadway (@dervogelfamber) January 21, 2017
+@Dylanhayden I didn't follow the old one, and had BLOCKED this one and it STILL AUTOFOLLOWED
+— amber treadway (@dervogelfamber) January 21, 2017
+Me, too. I have never followed that account. What the hell, @twitter? https://t.co/oKZvISEbYo
+— Kiersten White (@kierstenwhite) January 21, 2017
+Fair to say, many are angry about the issue or even accusing Twitter of doing Trump’s bidding. A more reasonable explanation is a glitch – after all, migrating millions of followers and thousands of tweets is no small matter.
+If you’ve been automatically followed to any of the White House accounts, a single click will unfollow you.
+We reached out to Twitter for more information, but given the hour, we didn’t expect an immediate response.
+However, just ahead of publication, Twitter CEO Jack Dorsey began responding to some complaints about this, saying that the company is now looking into what happened:
+  Shortly thereafter, Twitter’s support account also confirmed the issue, and is investigating:
+Update, 1/21/17, 8 AM ET:  It appears that part of the issue was how the transition process was handled from a technical standpoint. One Twitter user correctly guessed the problem, and @jack confirmed:
+Twitter has not yet been able to confirm that some people who were never following @POTUS may have been autofollowed to the new Trump account. But @jack did say that shouldn’t have happened:
+Update, 1/22/17: Twitter says the problem, which affected over half a million users, has been resolved. More on that here.
+FEATURED IMAGE: JOE RAEDLE/GETTY IMAGES
+
+ADVERTISEMENT
+ADVERTISEMENT
+Crunchbase
+Twitter
+FOUNDED
+2006
+OVERVIEW
+Twitter is a global social networking platform that allows its users to send and read 140-character messages known as “tweets”. It enables registered users to read and post their tweets through the web, short message service (SMS), and mobile applications. As a global real-time communications platform, Twitter has more than 400 million monthly visitors and 255 million monthly active users around …
+LOCATION
+San Francisco, CA
+CATEGORIES
+SMS, Blogging Platforms, Social Media, Messaging
+WEBSITE
+http://www.twitter.com/
+Full profile for Twitter
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Apple Suing Qualcomm for $1 Billion | Crunch Report
+Watch More Episodes

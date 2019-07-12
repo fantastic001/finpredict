@@ -1,0 +1,42 @@
+Artificial Intelligence
+Hadoop
+incubator
+computing
+MXNet accepted to the Apache Incubator
+Posted 1 hour ago by John Mannes (@JohnMannes)
+
+Next Story
+MXNet, Amazon Web Services’ preferred deep learning framework, was accepted to the Apache Incubator today. Admission to the incubator is the first step necessary for the open-source initiative to officially become part of the Apache Software Foundation.
+The Apache Software Foundation supports the efforts of thousands of developers maintaining open-source projects around the world. The ASF will help MXNet to adopt its tried and true open-source processes. MXNet will also benefit from access to the Apache community.
+MXNet is one of many frameworks to help developers build deep learning models without having to reinvent the wheel for every use case. Above other machine learning methodologies, deep learning has become particularly attractive for mining patterns from large data sets.
+One differentiating capability of MXNet is its relative language agnosticism. Developers can use mainstays like C++ and Python in addition to languages like R, Scala, MATLAB and JavaScript.
+Another thing MXNet has going for it is its ability to scale. Late last year when Amazon endorsed the framework, it noted that MXNet’s throughput was faster than other libraries when increasing the number of GPUs supporting an image analysis algorithm. Amazon also noted that MXNet’s throughput increased with 85 percent efficiency when these GPUs were added.
+But in the broader machine learning community, MXNet’s usage lags behind peers like TensorFlow. Amazon’s intent with making MXNet its framework of choice was, in part, to generate interest from developers. AWS is contributing code and documentation to make MXNet more attractive to the ecosystem. A closer relationship with the Apache Software Foundation can only help to advance these goals.
+Blue: TensorFlow, Yellow: Theano, Red: MXNet, Green: DL4J
+FEATURED IMAGE: KTSDESIGN/SCIENCE PHOTO LIBRARY/GETTY IMAGES
+
+ADVERTISEMENT
+ADVERTISEMENT
+Crunchbase
+Hadoop
+FOUNDED
+2009
+OVERVIEW
+The Apache:tm: Hadoop:registered: project develops open-source software for reliable, scalable, distributed computing. The Apache Hadoop software library is a framework that allows for the distributed processing of large data sets across clusters of computers using simple programming models. It is designed to scale up from single servers to thousands of machines, each offering local computation …
+CATEGORIES
+Software, Open Source
+Full profile for Hadoop
+Amazon Web Services
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Galaxy S8 Coming in March | Crunch Report
+Watch More Episodes

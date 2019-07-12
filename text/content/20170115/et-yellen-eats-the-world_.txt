@@ -1,0 +1,65 @@
+Finance
+interest rates
+inflation
+The Fed
+federal reserve
+CRUNCH NETWORK
+Janet Yellen eats the world
+Posted 3 hours ago by Faisal Khan
+
+Next Story
+Faisal Khan
+CRUNCH NETWORK CONTRIBUTOR
+Faisal Khan covers private company research for late-stage technology companies with Manhattan Venture Partners.
+How to join the network
+Marc Andreessen’s quote that “software will eat the world” has long been famous — with doomsday predictions about Amazon Go and the “end of jobs” making his quote seem more and more prescient. Meanwhile, economists and political leaders around the world continue to hail tech as the key sector for future economic and employment growth.
+Could it be that these two visions are at odds?
+The Fed has been using low interest rates since the Great Recession to spur the economy, and the benefits to Silicon Valley have been clear, with blockbuster valuations repeatedly called a “bubble.” But interest rates and tech might have a more interesting connection — through inflation, which is rarely discussed. Indeed; the word “disrupt” appeared in the Fed’s minutes for the first time (based on a search of the Fed minutes in recent years, in which I found no references to “disrupt” in a technology context).
+Why is inflation important? Currently under the leadership of Janet Yellen, the Federal Reserve (the Fed) watches this stat closely to gauge whether the economy is “heating up” — although it has been flat for years, despite pumping trillions into the system. But more and more it seems to be the case that as technology advances, it is actually lowering prices for so many goods and services — beyond just hardware and software — that it might actually be causing deflation and ruining the Fed’s policy.
+But the more money the Fed pumps in, the more seems to go to tech, and the more startups seem to be breaking different industry models. And only recently has the Fed actually discussed the possible risk of such “disruption deflation.”
+Sector-level secularism and the search for yield
+Macroeconomists typically think about the economy, without too much focus for specific sectors –measuring in terms of the aggregate “price level” (inflation), unemployment, demand and supply (GDP). Low interest rates are meant to stimulate the economy by making it easier for companies to borrow and then invest that money in new equipment. Meanwhile, the low yields around the world — from Japan to Europe to the U.S. — have driven more and more investors into the arms of venture capital, and the technology sector in particular.
+At the time Andreessen penned his famous column, he wrote that the “market hates technology,” based off conservative valuations for big companies like Apple and Google. Five years later, it seems most investors have changed their tune. Software has always had very high financial appeal in concept because it can be so easily re-sold to many users.
+In a cloud-based world, the latest app can scale easily from one user to a billion, driving huge margins on an initial investment. There is no shortage of documentation that low interest rates has driven big names like Goldman and Fidelity into the venture capital sector — mostly making late-stage investments in “unicorns.”
+Creating asset efficiency is an easy value-add for many technologies.
+Rich valuations, of course, factor hugely into where funding goes in the startup world, and the bigger the potential market, the bigger the valuation. Moreover, venture valuation in general tends to be based on total revenue — rather than profitability. A startup founder can likely get rich by setting their sights on the biggest possible industry to disrupt. Hence, tourism and transportation — two of the world’s biggest industries by revenue — gave birth to its two biggest private companies, Uber and Airbnb.
+According to the minutes of the Federal Open Market Committee from early November, 2016, “Participants continued to expect economic activity in the coming quarters to be supported by a pickup in business investment. Recent increases in oil and gas drilling activity in response to higher energy prices were seen as a positive development for the investment outlook; however, a few participants reported that uncertainty about prospects for government policy, shorter investment time horizons for businesses, or the potential for advances in technology to disrupt existing business models were likely weighing on capital spending plans.”
+Although brief, this momentary acknowledgement is highly unusual for a data-driven entity like the Fed. Ideas like disruption and emerging technologies are too fluffy for a set of governors focused solely on hard measurements like labor force participation. The quantitative and mental models of supply and demand they rely on likewise leave little room for such considerations.
+Killer unicorns and “disruption deflation”
+Policymakers may have finally woken up and started to consider the effects of technology on their economic models. But the full effects of tech on the macroeconomy are still to be explored.
+Most software creates value through two means — by increasing efficiency, such as through better utilization of existing assets, or by increasing transparency, such as allowing customers to shop among many potential stores at once. Both of these means however, are likely to drive down prices.
+Creating asset efficiency is an easy value-add for many technologies — Uber and Airbnb make use of existing cars and homes to build asset-light platforms that drive huge revenues. If you could make a ton of money without investing in any assets, why would you not do it? But with better utilization, demand for those actual assets — cars, homes and everything else — goes way down. And, of course, without demand, prices are likely to reset — like the way hotel RevPARs (revenue per room) seem to have slowed significantly because of lower occupancy. And have you looked at stocks for car companies lately?
+The other lever for value — transparency — can be thought of as the Amazon effect. When every seller is presented on the same page, it can only be so long before prices converge to the lowest one. A major economic factor of the past — locally based monopolies — is dead. You could only buy power tools from Sears and TVs from Best Buy, but even the big-box stores see online as their savior. Retail in particular has suffered over the last few years because of excess discounting. Online sales have hit mall traffic, forcing stores like Macy’s to use repeated promotions and clearance sales to bring in consumers.
+But even less obvious effects are likely coming for transparency-based pressures. The cable industry has been mourning cord cutters for years, but has managed to avoid the “great unbundling” that would allow consumers to pick and choose the actual channels they want. So now, content providers are skirting these dinosaurs by providing the NFL (via Twitter) and HBO GO via direct subscriptions — a concept anathema to them years ago.
+What sectors are next? Food, though traditionally not sexy, is still the world’s biggest industry and is ripe for new changes — and already is experiencing wide-scale deflation. Prices for coffee, sugar, corn, meat and other major commodities have been falling thanks to lower oil prices and excess supply of many commodities.
+Raising rates too high could also be dangerous — the deflation effects from technology are likely to continue anyway.
+These changes have likely only begun. IoT technologies and big data solutions have begun to make headway in boosting yields, with “smart farms” likely to further drive down the prices of all foods. Tyson Foods has just announced a major venture capital investment fund for the industry, joining other producers with more than $1 billion in corporate VC funding for food and agriculture in the last two years. Meanwhile, upcoming technologies like moisture sensors can water crops at precise times, reducing cost and ecological impact.
+Oil prices have shown how the low yield environment can further drive falling prices. Although not very popular with venture capital investors because of the large fixed costs, private equity investors were largely behind the massive expansion in U.S. shale from 2010 to 2014. Record inflows to the PE industry, like VC, drove higher-risk investments, and kept alive many oil companies on the brink of bankruptcy as oil prices plummeted. Thanks to new imaging technologies and chemicals, the shale industry worldwide rapidly increased total worldwide oil supply and broke the industry, driving prices to unseen levels that may likely never recover.
+The feedback loop
+So what’s a central banker to do? It seems with technology driving down prices, central banks are likely to just keep rates relatively low. Even if the Fed plans to raise rates, it is limited because Japan and Europe are actually using negative rates, and too big a difference could significantly distort the world economy. Raising rates too high could also be dangerous — the deflation effects from technology are likely to continue anyway.
+Outside of thinking about specific sectors, technology-based deflation can be thought of in two ways. Economists generally agree that there are two pressures that lead to higher inflation — higher wages, leading people to spend more and creating demand “pull” inflation — and higher prices for goods, through commodities or assets.
+Related Articles
+Here's what that new Fed rate increase means for venture-backed startups
+Will the Bubble Burst? Ask Your Cabbie
+VC Venky Ganesan on interest rates, diamonds, and quietly imploding startups
+The first channel, wages, has been long thought to be dead, as wages have been stagnating for decades. Automation, such as kiosk-based ordering in restaurants and chatbot-based customer service, is likely to only worsen the trend by reducing the number of actual humans needed to provide service.
+The second, prices for goods, has been monitored closely by the Fed. CPI — the Consumer Price Index — has actually picked up to a meager range 1-2 percent in the last year, giving the Fed some encouragement. But pulling that number apart shows most inflation is coming from rising rent — which really only benefits the property owners in the economy, and eating more into everyone else’s paychecks. Like GDP ignores sector, using the economy-wide inflation number hides the deflationary impacts from other sectors.
+The reality is monetary policy might simply not be the answer. With more goods available at lower price, the slow growth of the world economy might actually be, as economists like Paul Krugman keep saying, a demand problem. We are likely already stuck in a feedback loop of falling prices, low demand and hamstrung monetary policy.
+Policy solutions like a higher minimum wage, universal basic income and others that give consumers means to access all these cheap goods will likely become more and more important. But with the current toolkit of monitoring high-level aggregate trends, the Fed will likely remain blind to the real changes going on in the world around us and continue down a path unknown.
+FEATURED IMAGE: THOMASVOGEL/GETTY IMAGES
+
+ADVERTISEMENT
+ADVERTISEMENT
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Nintendo Switch Hits the Market on March 3 | Crunch Report
+Watch More Episodes

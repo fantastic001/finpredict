@@ -1,0 +1,33 @@
+Government
+HTTPS
+All new executive branch .gov domains will ditch HTTP, enforce HTTPS
+Posted 5 hours ago by Taylor Hatmaker (@tayhatmaker)
+
+Next Story
+Government websites just took a serious step toward robust security. Today, the Federal Chief Information Officers (CIO) Council announced that all new executive branch domains moving forward will use HTTPS, the secure, encrypted alternative to HTTP. The change is expected to go into effect in spring of this year.
+Since 2015, the government has been working to migrate all of its sites and services to HTTPS, a browser protocol widely considered to be one of the central pillars of online security. Notably, the new .gov initiative will mark the first time a top-level domain (TLD) has enforced HTTPS across subdomains.
+Organizers hope that the .gov TLD can set the example for other government domains, potentially spreading default HTTPS into other branches and eventually into state and local government sites too. For now, the change will apply solely to new executive branch .gov domains, as the legislative and judicial branches aren’t yet implementing a similar policy.
+As General Services Administration digital agency 18F, a proponent of the safer standard, stated about the 2015 policy:
+“As an HTTPS-only technology shop, 18F has been an enthusiastic supporter of this initiative. As we’ve said before, every .gov website, no matter how small, should give its visitors a secure, private connection. We’re thrilled to see HTTPS become the new baseline for federal web services.”
+As a direct result of the Office of Management and Budget’s 2015 policy, federal adoption of HTTPS now significantly outpaces HTTPS adoption in the private sector.
+The reasons to switch to HTTPS are myriad, though plenty of resistance to the secure standard remains, mostly due to the inconvenience of implementing a technical change. With HTTPS awareness on the rise, the benefits to anyone serving a site or browsing one are increasingly clear.
+As TechCrunch explained when we switched over to HTTPS last year:
+“When visiting a site served by HTTP, you don’t know for sure that the site you’re accessing is really the site you think you’re accessing, that the content on that site has not been altered by a third party, or that your browsing history is not being tracked by an outside observer. When you visit a site served via HTTPS, you are protected against these concerns.”
+Seeing the federal government outstrip the web at large on a security standard is a somewhat unusual change of pace, but hopefully the new policy will help inspire a shift well beyond the parameters of .gov.
+FEATURED IMAGE: TEK IMAGE/SCIENCE PHOTO LIBRARY/GETTY IMAGES
+
+ADVERTISEMENT
+ADVERTISEMENT
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Zoom CEO Eric Yuan Raised $100 Millon | Crunch Report
+Watch More Episodes

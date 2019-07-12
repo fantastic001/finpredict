@@ -1,0 +1,49 @@
+Social
+Twitter
+pictures
+Mobile
+Twitter’s latest feature prompts you to tweet your updated profile picture
+Posted 5 hours ago by Sarah Perez (@sarahintampa)
+
+Next Story
+Twitter is rolling out a new feature designed to increase the amount of visual content in users’ timelines and encourage more tweets and replies: it’s prompting users who have just updated their profile picture to post a hashtagged tweet about the change. The tweet will be appended with #NewProfilePic, which can then be seen by all the users’ Twitter followers.
+TechCrunch noticed that tweets about #NewProfilePic first appeared back in December, with some referencing the fact that this appears to be a new Twitter feature.
+A Twitter spokesperson has confirmed the rollout and timeframe, saying that users will be prompted to tweet with the autofilled hashtag, but the tweets are not sent out automatically. The tweet can also be edited to say whatever the user wants.
+The addition first launched on Android, where it’s now available to all users. A small percentage of iOS users can also use the feature, but the full rollout on that platform is still weeks out, Twitter tells us.
+Though a minor change to the Twitter experience, it’s one that can be used to increase user engagement.
+Facebook, as a point of comparison, makes profile picture updates public. These almost always get likes and comments, though other photo uploads don’t necessarily receive the same attention. Plus, over the past couple of years, Facebook has expanded upon profile picture updates with a variety of features, allowing users to do things like set temporary profile pictures, use videos instead of static images, add decorative frames, and use third-party apps (as well as its own MSQRD app) to create profile videos.
+Twitter, by comparison, is starting off much smaller. It’s not forcing users to tweet, only suggesting they do. And profile pictures are still just regular, uploaded photos.
+That being said, for a particular younger Twitter demographic, swapping out pictures is a form of self-expression. By noting this activity in a tweet, Twitter may be subtly encouraging them to do it more.
+However, not all users are as enthusiastic. Some seem to be expressing more confusion or dismissal, even referring to the feature as weird and stupid at times.
+But Twitter tests a lot of minor user interface changes, not all of which go live. The fact that this one has made the cut indicates the feature is seeing enough usage that the company believes it will have a measurable impact on engagement.
+
+
+
+ADVERTISEMENT
+ADVERTISEMENT
+Crunchbase
+Twitter
+FOUNDED
+2006
+OVERVIEW
+Twitter is a global social networking platform that allows its users to send and read 140-character messages known as “tweets”. It enables registered users to read and post their tweets through the web, short message service (SMS), and mobile applications. As a global real-time communications platform, Twitter has more than 400 million monthly visitors and 255 million monthly active users around …
+LOCATION
+San Francisco, CA
+CATEGORIES
+SMS, Blogging Platforms, Social Media, Messaging
+WEBSITE
+http://www.twitter.com/
+Full profile for Twitter
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Nintendo Switch Hits the Market on March 3 | Crunch Report
+Watch More Episodes

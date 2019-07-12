@@ -1,0 +1,47 @@
+GreenTech
+Solar Power
+infrastructure
+CRUNCH NETWORK
+Most pressing infrastructure needs do not require federal money or approval
+Posted 5 hours ago by Kevin Gluba (@kevingluba)
+
+Next Story
+Kevin Gluba
+CRUNCH NETWORK CONTRIBUTOR
+Kevin Gluba is the executive director of the Alliance for Innovation and Infrastructure.
+How to join the network
+President-elect Trump has called for a trillion dollars in infrastructure investment, but he wants the private sector to play a critical role. Fortunately, one of our nation’s immediate infrastructure needs will not have to rely on the federal government at all.
+Private sector investment in a smarter grid will allow for better integration of distributed energy resources (DER), like rooftop solar, while strengthening reliability and making power systems more resilient. And it can all be done without a dime from Congress.
+Regardless of one’s views on rooftop solar or net metering policies, encouraging early investment in infrastructure and technology — based on good planning and forecasting — is the most immediate way to capitalize on the benefits of this growing resource and improve electric reliability simultaneously.
+Each power system is unique, meaning the investment needs of a particular system are dependent upon the interaction of multiple variables, including the size of the system, the load profile (e.g. residential, commercial, industrial), generation portfolio, geographic location and the age and “state of infrastructure” of the existing system. With so many variables, even a small number of solar-equipped homes acting as mini power plants can impact the operational integrity of a system, which could put local and even regional reliability at risk absent appropriate planning.
+Yet many rooftop proponents suggest that integrating increasing amounts of rooftop solar onto the grid is a relatively simple, straightforward task. Utilities in turn argue for hefty solar surcharges to maintain the reliability and affordability of the system. The truth is somewhere in between, in that rooftop solar can indeed be integrated successfully, cost-effectively and with maintained reliability.
+A wait and see approach puts all ratepayers at risk of black-outs, brown-outs or unplanned maintenance issues.
+But make no mistake, there is nothing simple or straightforward about converting what was designed decades ago as a unidirectional system into a bidirectional system to allow homes to produce and export power back to the grid.
+Consider, for example, your garden-variety garden hose. Turn the spigot and water flows through, courtesy of your local water provider. Now imagine reversing the flow. Pumping water back into a system that wasn’t originally designed to provide a two-way flow is going to have some impact on the existing infrastructure — pipes, pumps, valves and tanks, etc. The same holds true for the electric grid: Reversing the direction of electricity on a system that was designed primarily to deliver power — not absorb it — is having an impact on existing infrastructure — power lines, transformers, substations, control systems, etc.
+Another difficulty is that solar power is a variable resource, which makes it unpredictable and difficult to forecast consistently in most regions. Moreover, as with any “behind the meter” resource, the system operator lacks adequate visibility into when, where and how much these resources are producing. With potentially hundreds and thousands of rooftop solar-equipped homes locally — and millions of homes nationally — acting as individual generators, each home becomes a critical but variable and potentially “invisible” component of the grid. Such a combination of intermittency and lack of resource visibility could seriously undermine reliability.
+Related Articles
+New leaf-like nano surface could boost solar panel efficiency
+Platio turns sidewalks into solar collectors
+Tesla and SolarCity made this whole island solar-powered in under a year
+These are Tesla's stunning new solar roof tiles for homes
+This holds true for the bulk-power system, as well. Any problems at the local distribution level could cascade “upstream” to the bulk power system, putting additional stress on regional grids. At a Reliability Technical Conference hosted by the Federal Energy Regulatory Commission last summer, both the PJM Interconnection and the California Independent System Operator — the grid operators for millions of Americans in the eastern U.S. and California, respectively — stressed the need to improve DER visibility and forecasting, address variability and ramping concerns and enhance communication between system operators and DER resources.
+The issues mentioned herein — bidirectional flow, intermittency, visibility and communication — are not insurmountable, and demonstrate exactly why utilities, based on the needs of their respective systems, should be planning for and making appropriate investment decisions now. From upgrading wires and poles to smart power inverters to synchrophasors and sensors to updated communications and data gathering systems to advanced energy analytics software, there are numerous technologies currently available and capable of being deployed that warrant utility consideration.
+A wait and see approach puts all ratepayers at risk of black-outs, brown-outs or unplanned maintenance issues, and fails to fully recognize the value of rooftop solar and other promising distributed resources, such as energy storage.
+The more sensible approach is to encourage utilities to begin identifying, planning for and making the necessary infrastructure investments to reliably integrate rooftop solar into their systems. Such an approach will identify and resolve reliability issues earlier, ease the rooftop solar transition in the long term and best realize the full reliability and economic and environmental benefits that rooftop solar can offer.
+FEATURED IMAGE: SORBETTO/GETTY IMAGES (IMAGE HAS BEEN MODIFIED)
+
+ADVERTISEMENT
+ADVERTISEMENT
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Chelsea Manning to Be Freed in May | Crunch Report
+Watch More Episodes

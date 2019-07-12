@@ -1,0 +1,53 @@
+Hardware
+CES
+snapdragon 835
+snapdragon
+Qualcomm
+Snapdragon 835 promises better battery, more security and added AR and VR support
+Posted 17 hours ago by Brian Heater (@bheater)
+
+Next Story
+When Qualcomm first teased the latest version of its near ubiquitous Snapdragon line back in mid-November, it was fairly light on the details. At the time, it offered some vague promises of performance enhancements, lowered power consumption and a Quick Charge speed bump baked into a 10-nanometer designed built with manufacturing partner, Samsung.
+As promised, the San Diego-based component manufacturer has a lot more information to offer up on its new flagship chip this week at CES. From the looks of it, Qualcomm has managed to cram an awful lot onto the chip, which comes in at 35-percent smaller than the Snapdragon 820 line.
+The company breaks the device’s feature set up into five pillars – battery life, immersion (VR/AR), capture (camera), connectivity (WiFi/LTE) and security – so let’s do the same here, for the sake of simplicity.
+Battery life: Like other aspect of the chip, the battery life was built to withstand the increased processing demands of VR and AR, along with gaming, 4K streaming and the like. You know, all the stuff we’re going to demand our next generation of phones handle.
+Qualcomm is promising an added 2.5 hours of battery life, courtesy of a 25-percent decrease in power consumption. And the smaller size means, potentially, more room for batteries. The latest verson of Quick Charge (4) also promises five hours of talk time in five minutes – and, of course, compliance with Android’s newly cemented fast charging standards.
+Immersion: Here you’ve got added support for improved video and audio quality, coupled with reduced latency down to 15-milliseconds and added support for eye and hand tracking. And, naturally, support for Google Daydream, along with Qualcomm’s own Snapdragon VR reference design.
+Capture: As for cameras, zoom and image stabilization support is said to be improved, along with autofocus and low light shots, echoing a lot of the customized work the company did to improve image quality processing found on the Google Pixel.
+Security: This one benefits from the improvements offered on the Galaxy Note 7 (RIP), with support for eye and face-based biometrics along with voice print and the standard fingerprint reading. Security has been upped for mobile payments as well as mobile banking.
+The new chip is currently being produced by Qualcomm and is set to start arriving in the first half of the year.
+Latest from CES 2017
+Garmin makes a multisport watch for
+Nemonic is like Post-It notes with IoT smarts
+Lego targets pre-Mindstorms minds with its
+Airthings wants you to measure the Radon in
+
+ADVERTISEMENT
+ADVERTISEMENT
+Crunchbase
+Qualcomm Incorporated
+FOUNDED
+1985
+OVERVIEW
+Qualcomm is an American fabless semiconductor company that designs, manufactures, and markets digital wireless telecommunications products and services. It produces processors and connectivity solutions, displays, software, and charging products. The company is focused on various industries: automotive, education, healthcare, Internet of Everything, mobile computing, networking, smart cities, smart …
+LOCATION
+San Diego, CA
+CATEGORIES
+Wireless, Telecommunications, Manufacturing, Mobile
+WEBSITE
+http://www.qualcomm.com
+Full profile for Qualcomm Incorporated
+SnapDragon
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Intel Buys 15% of Here Mapping Business | Crunch Report
+Watch More Episodes

@@ -1,0 +1,26 @@
+Gadgets
+Existing Nvidia Shield TV owners can now update to get 4K HDR streaming
+Posted 1 hour ago by Darrell Etherington (@etherington)
+
+Next Story
+Nvidia announced a new Shield TV that provides 4K HDR streaming, and boosts its existing gaming capabilities considerably. Now, though, many of the benefits of the updated hardware are available on the original Shield TV, thanks to a free over-the-air software available now.
+The update delivers 4K HDR streaming via sources like Netflix and Amazon Prime Video, as well as 4K movie support for Google Play content, and other sources. It adds more game features, too, including support for upgraded GeForce Now game streaming, and the new Nvidia Games app which centralizes all the various gaming endpoints (including GeForce Now, GameStream and Android native games) in one place.
+Plus, this sets up older Shield TVs to become smart home devices once those features go live, which will come in future software updates. This does include a new hardware requirement, however – the controller that ships with the second-generation Shield TV has a built-in microphone which will able to work ambiently in the future, letting you command Google Assistant with just your voice. Upgrading that piece will require purchase of a new Shield Controller, which is a $60 cost; still better than buying a new Shield at $200.
+Shield will eventually work with Nvidia’s Spot, too, a plug-in ambient microphone you can place at outlets throughout your house to get voice-powered assistant and smart home features wherever you happen to be. A software update will also add SmartThings’ smart home hub capabilities to the mix, letting you command lights, cameras, thermostats and more.
+Nvidia’s essentially rewarding first-generation device owners with all the benefits of newer hardware, which is pretty unique in the consumer electronics industry. Grab the update now if you’re a first generation device owner.
+
+ADVERTISEMENT
+ADVERTISEMENT
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+AppDynamics Acquired for $3.7 Billion | Crunch Report
+Watch More Episodes

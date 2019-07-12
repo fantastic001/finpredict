@@ -1,0 +1,32 @@
+Automotive
+National Highway Traffic Safety Administration
+technology
+electric vehicles
+electric vehicle
+Arkamys creates space-age safety sounds for EVs
+Posted 1 hour ago by Kristen Hall-Geisler (@kristenhg)
+
+Next Story
+In 2014, the National Highway Traffic Safety Administration established the very cool-sounding “Minimum Sound Requirements for Hybrid and Electric Vehicles,” which does exactly what it says. It requires that 100 percent of all EVs and hybrids make some noise at low speeds by 2019. If a vehicle can move forward or in reverse without engaging an internal combustion engine, it needs to make some kind of noise that blind and visually impaired pedestrians can identify as coming from a moving vehicle.
+French company Arkamys tunes automotive audio for car interiors, whether that’s optimizing a sound system or making the speech functions of in-car electronics more intelligible. Now it has partnered with South Korean automotive hardware supplier MHE to create the sounds required by the NHTSA (and its European counterpart) to let pedestrians know there’s an EV creeping up on them.
+The system, which will be ready for mass production in 2017, uses small, lightweight, but tough speakers mounted behind the bumpers and connected to the car’s electronics. The system receives speed information so that it can start making sound when the vehicle is traveling 25 mph or less. (NHTSA requires it to engage at 18 mph or less.) As the car speeds up or slows down, the pitch changes appropriately. And if the car is in reverse, the sound is slightly different so pedestrians know that too.
+The Arkamys/MHE system works with the vehicle’s pedestrian sensors, if it has them, to emit sound from the speaker closest to the pedestrian. The sound is transmitted inside the car too, with the relevant speaker making a noise to let the driver know to look out for a pedestrian.
+Arkamys/MHE is supplying the system directly to manufacturers, so you can’t bolt it on as an aftermarket upgrade. But Arkamys is using its expertise in audio tuning and customizing to create branded sounds for auto makers. It can create spacey, Jetsons-like sounds, engine-like revs, a neutral whir or anything that fits the car and meets the requirements.
+You might wonder why 18 mph is the magic number. NHTSA found that to be the “crossover speed” — any faster than that and even an EV makes enough tire and wind noise to be noticeable. Less than 18 mph (30 kph), though, and EVs are silent, sneaky little things.
+FEATURED IMAGE: ARKAMYS
+
+ADVERTISEMENT
+ADVERTISEMENT
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Galaxy S8 Coming in March | Crunch Report
+Watch More Episodes

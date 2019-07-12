@@ -1,0 +1,25 @@
+Space
+SpaceX targets January 8 launch as explosion investigation ends
+Posted 22 hours ago by Darrell Etherington (@etherington)
+
+Next Story
+SpaceX has concluded its investigation into the cause of an accident on a Cape Canaveral launchpad during which one of its rockets exploded, the company reported Monday. The investigation, conducted in partnership with federal safety and space agencies including the FAA and NASA, involved closely reviewing all recorded materials and data, as well as running tests at SpaceX’s facilities in Hawthorne, CA and McGregor, TX.
+The results of the investigation point to the issue that caused a Falcon 9 rocket to explode in September during pre-launch fueling. SpaceX’s investigation team found that there was a failure of a pressure vessel found inside a tank used to store liquid oxygen for the rocket’s second stage fuel burn. The problem in this case was that oxygen built up between the liner and overwrap of the vessel, which was probably made worse by loading helium so cold it turned the pooled oxygen from liquid to solid. SpaceX says it will enact both short- and long-term fixes to address these problems and is confident they will ensure a safe fueling process both immediately and in the future.
+Now that the investigation is concluded, SpaceX hopes to get back to flying on January 8, the target date for its launch with client Iridium satellites. SpaceX will use a Falcon 9 to deliver a payload of 10 Iridium satellites to orbit, which the telecommunications network is using to create a voice and data network. The satellites from Iridium are already loaded into the Falcon 9’s transport capsule.
+If SpaceX does indeed meet their launch window and successfully return to active mission status, their turnaround time between the September accident and getting back to launches will be unprecedented, and would go a long way toward returning full confidence to the other clients on its launch manifest.
+
+ADVERTISEMENT
+ADVERTISEMENT
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Happy New Year from Crunch Report!
+Watch More Episodes

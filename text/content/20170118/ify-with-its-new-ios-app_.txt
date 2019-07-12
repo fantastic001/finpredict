@@ -1,0 +1,62 @@
+Apps
+Mobile
+Apps
+Notes
+Evernote
+Evernote attempts to simplify with its new iOS app
+Posted 6 hours ago by Sarah Perez (@sarahintampa)
+
+Next Story
+Did anyone really love the Evernote mobile app? No? Well, good news then: the company is giving it another crack today, introducing what it hopes will be a simpler, more efficient tool to help you record your ideas, as well as search through and organize your Evernote content.
+As a reminder, the earlier app was a bit busy. Spread across the top of the screen were posting shortcuts – that is, buttons you could push to start a text note, add photos, create a list, make an audio note, or set a reminder. Below that was a customizable home screen where you could add or remove sections like those for your Notes, Notebooks, Work Chat, Tags, Places, and other shortcuts.
+In the new version, which Evernote says was built from scratch, the entire layout and navigation has been redesigned.
+The app now features a more standard row of bottom navigation buttons which take you to sections like Notes, Search, Shortcuts, and your Account.
+A simple green plus (“+”) button is all you need to push to start your next note. And a long press on this button lets you start an audio, photo or reminder with another tap.
+Work Chat – Evernote’s attempt at making its notes platform a more social, collaborative experience – is getting a bit of a downgrade this time around, as it’s now tucked away in the Account section.
+Meanwhile, the app starts you right in your most recently updated notes, instead of the old homescreen. This makes it easier to continue where you last left off, the company explains.
+You can also more quickly move between your notebooks, thanks to the drop-down tab at the top of the screen.
+To find the notes you need, the note previews have been redesigned, too. You can now change the size from small to medium or large, and images in the notes appear in the preview so you can visually spot the note you want. Filtering options let you find notes by tags or reminders, and you can search across your account or within a single notebook.
+Even writing notes got an upgrade, as you can now adjust your text size (small, medium, or large) or change text color.
+    Overall, the experience – at least, initially – seems to be an improvement over Evernote’s prior, more cumbersome application. However, though the app may be simpler, it’s not necessarily simplified.
+The design still has elements of clutter – like the little tag and reminder icons lets to the search box on the Notes main screen. And why is there a search box here anyway, when Search now has its own dedicated tab?
+And if you’re going to put a subtle three-dot dropdown menu on the top right of the home screen, why use this for customization options on one screen, then change its functionality on others? Why not pack in all the extraneous features here under a standard settings gear icon instead? That way your Account screen and Work Chat could be available with a tap, alongside a “customize” section and a “configure your shortcuts” option.
+It’s also unclear why Shortcuts – a feature some, but not all Evernote users utilize – is given its own dedicated button. As you can now more easily switch between notebooks from the dropdown, only those people with a very large collection of notebooks or who need to return to the same notes time and again would need a separate screen just for accessing their favorites.
+Also, why aren’t we calling this section “favorites?”
+And why not make it possible to switch to your favorites from an option in the All Notes dropdown menu instead? After all, Reminders gets its own section in there. (And then Evernote could just remember that you switched to your Favorites section the last time you used it, and open right to that screen on the next launch. No need for an entire dedicated section.)
+Yes, these are some off-the-cuff thoughts about the redesign, and arguably those that won’t make sense for everyone’s workflow.
+But productivity apps can be difficult to slim down, especially when they’re configurable, because everyone develops their own systems. Just look at Gmail, for example. When Google wanted to make over the inbox, it just left Gmail entirely and began work on an entirely new email app, Inbox.
+For Evernote, however, the updated app comes at a time when the company has been struggling to grow its business. It has faced continued competition from Microsoft’s OneNote, management shakeups, and decisions that sparked controversy – like when it updated its privacy policy to allow staff to read users’ private content. (It quickly reversed this, following an outcry).
+The company definitely needs to make its app useful and easy, to keep its current users from abandoning ship. And while it’s now taken a step toward that goal, it may still have some work to do.
+The new app, Evernote 8.0, is out now for iPhone, iPad and iPod touch.
+
+ADVERTISEMENT
+ADVERTISEMENT
+Crunchbase
+Evernote
+FOUNDED
+2007
+OVERVIEW
+Evernote builds apps and products that are defining the way individuals and teams work today. As one workspace that lives across people's phone, tablet and computer, Evernote is the place people write free from distraction, collect information, find what they need and present their ideas to the world. Whatever peole are working toward, Evernote’s job is to make sure they get there. Evernote is …
+LOCATION
+Redwood City, CA
+CATEGORIES
+iOS, Software, Information Technology, Mobile, Information Services
+FOUNDERS
+Stepan Pachikov
+WEBSITE
+http://www.evernote.com
+Full profile for Evernote
+iOS Apps
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Samsung Leader Bribery Charges | Crunch Report
+Watch More Episodes

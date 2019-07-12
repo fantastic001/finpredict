@@ -1,0 +1,44 @@
+Federal Trade Commission
+Qualcomm
+Qualcomm faces FTC charges over monopolistic ‘no license, no chips’ claim
+Posted 2 hours ago by Brian Heater (@bheater)
+
+Next Story
+After facing similar charges around the world, Qualcomm is getting some major pushback on its home turf. The U.S. Federal Trade Commission has filed charges against the company, accusing the San Diego-based Snapdragon-maker of anticompetitive tactics in an attempt to maintain a monopoly in its chip business.
+The commission issued a statement today detailing the allegations in what it’s deemed a “no license, no chips” policy that charges the company of elevating licensing fees for patents, and in turn, forcing phone makers to pay more for using a competitor’s chip.
+According to the FTC:
+“No license, no chips” is a condition that other suppliers of semiconductor devices do not impose. The risk of losing access to Qualcomm baseband processors is too great for a cell phone manufacturer to bear because it would preclude the manufacturer from selling phones for use on important cellular networks.
+The complaint officially cites Apple in its list of anticompetitive practices, effectively accusing Qualcomm of shutting other chip makers out of competing for the iPhone maker’s business, due to the high-profile media windfall of striking a deal with the company.
+The filing seeks to, “order Qualcomm to cease its anticompetitive conduct and take actions to restore competitive conditions.”
+The FTC complaint is the latest in a long string of anticompetitive complaints levied around the world against Qualcomm, which have resulted in large fines in South Korea ($854 million) and China ($975 million), along with scrutiny in the EU.
+FEATURED IMAGE: JUSTIN SULLIVAN/GETTY IMAGES
+
+ADVERTISEMENT
+ADVERTISEMENT
+Crunchbase
+Qualcomm Incorporated
+FOUNDED
+1985
+OVERVIEW
+Qualcomm is an American fabless semiconductor company that designs, manufactures, and markets digital wireless telecommunications products and services. It produces processors and connectivity solutions, displays, software, and charging products. The company is focused on various industries: automotive, education, healthcare, Internet of Everything, mobile computing, networking, smart cities, smart …
+LOCATION
+San Diego, CA
+CATEGORIES
+Wireless, Telecommunications, Manufacturing, Mobile
+WEBSITE
+http://www.qualcomm.com
+Full profile for Qualcomm Incorporated
+FTC
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Samsung Leader Bribery Charges | Crunch Report
+Watch More Episodes

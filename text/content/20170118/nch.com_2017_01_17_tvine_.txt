@@ -1,0 +1,47 @@
+Apps
+Twitter
+vine
+Twitter Video
+Twitter loops all videos under 6.5 seconds as Vine shrivels into a camera
+Posted 6 hours ago by Josh Constine (@joshconstine)
+
+Next Story
+Twitter itself will take Vine’s place as a social network for short videos. To prep for tomorrow’s Vine shutdown and rebirth as Vine Camera, Twitter now automatically loops all videos shorter than 6.5 seconds. That’s not just clips posted from Vine Camera, but any tiny video, including ones saved from other apps like Snapchat.
+[Update: Vine has now turned off sharing and released the Vine Camera update]
+Twitter confirms to me that looping started rolling out last week. It had noted in an FAQ that this change would come some time in January. TechCrunch reader @IamCornelias first pointed out the change to us.
+Here’s an example of a short video, apparently saved from Snapchat, that now loops on Twitter:
+Though Vine was said to shut down today, it has received a short stay of execution. Twitter is giving users one final chance to download their videos, with the switch-over happening tomorrow. We reported that Twitter explored the possibility of selling Vine, and received several bids, but it seems it has decided there were too many risks and not enough benefits to giving another company control.
+Even without Vine, Twitter still has a chance to be a hub for quick videos. The platform’s real-time nature and largely unsorted feed make it a natural place for clips you wouldn’t necessarily want to navigate to a full YouTube page to watch (with possible pre-rolls ads) and that might not survive well on Facebook’s algorithmically curated News Feed.
+Making Vines and other sub-6.5-second videos loop correctly could also provide an alternative place for them beyond Instagram, where many creators said they’d be sharing after Vine went away.
+Looping was at the core of some of Vine’s best art and comedy. It unlocked the potential for swirling, near-psychedelic content where it wasn’t clear when a clip started or ended. And the sudden cut-off and restart set up comedic timing, so punch lines and surprise endings hit hard and disappeared instead of lingering and fading out.
+If this looping format is Vine’s legacy, at least it will live on in a Twitter product and not just the competitors it inspired.
+
+ADVERTISEMENT
+ADVERTISEMENT
+Crunchbase
+Twitter
+FOUNDED
+2006
+OVERVIEW
+Twitter is a global social networking platform that allows its users to send and read 140-character messages known as “tweets”. It enables registered users to read and post their tweets through the web, short message service (SMS), and mobile applications. As a global real-time communications platform, Twitter has more than 400 million monthly visitors and 255 million monthly active users around …
+LOCATION
+San Francisco, CA
+CATEGORIES
+SMS, Blogging Platforms, Social Media, Messaging
+WEBSITE
+http://www.twitter.com/
+Full profile for Twitter
+Vine
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Samsung Leader Bribery Charges | Crunch Report
+Watch More Episodes

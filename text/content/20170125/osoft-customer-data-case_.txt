@@ -1,0 +1,44 @@
+Government
+Microsoft
+business
+computing
+technology
+Court won’t reconsider DOJ argument in Microsoft customer data case
+Posted 11 hours ago by Kate Conger (@kateconger)
+
+Next Story
+Microsoft won a narrow victory in the Second Circuit Court of Appeals today, as the court split 4-4 on whether to rehear arguments from the Department of Justice about why it wants to access Microsoft customer data stored on servers in Ireland.
+The Justice Department and Microsoft have grappled over the issue since 2013, when a New York judge issued a warrant demanding that Microsoft turn over customer emails related to a drug case. However, Microsoft argued that the warrant did not apply because the data was stored internationally and said that the DoJ should instead approach the Irish government through an existing mutual legal assistance treaty to access the data.
+Microsoft won its case in the Second Circuit last July, and the split decision today means that the court will not reconsider its decision. It’s possible that the Justice Department will appeal to the Supreme Court.
+However, Judge Susan L. Carney suggested that the issue of whether American law enforcement agencies should be able to access data stored overseas with a warrant was best left to Congress rather than the courts. “We recognize at the same time that in many ways the [Stored Communications Act] has been left behind by technology. It is overdue for a congressional revision that would continue to protect privacy but would more effectively balance concerns of international comity with law enforcement needs and service provider obligations in the global context in which this case arose,” Carney wrote.
+Brad Smith, Microsoft’s president and chief legal officer, echoed the judge’s remarks. “We welcome today’s decision. We need Congress to modernize the law both to keep people safe and ensure that governments everywhere respect each other’s borders. This decision puts the focus where it belongs, on Congress passing a law for the future rather than litigation about an outdated statute from the past,” Smith said in a statement.
+Microsoft has made a habit of challenging the U.S. government on data collection and surveillance — its lawsuit over gag orders issued by law enforcement to prevent companies from telling their customers when their data has been requested is being heard in court this week.
+
+ADVERTISEMENT
+ADVERTISEMENT
+Crunchbase
+Microsoft
+FOUNDED
+1974
+OVERVIEW
+Microsoft is an American multinational corporation that develops, manufactures, licenses, supports, and sells a range of software products and services. Microsoft’s devices and consumer (D&C) licensing segment licenses Windows operating system and related software; Microsoft Office for consumers; and Windows Phone operating system. The company’s computing and gaming hardware segment provides Xbox …
+LOCATION
+Redmond, WA
+CATEGORIES
+Collaboration, Developer Tools, Cloud Computing, Software, Enterprise Software, Operating Systems
+WEBSITE
+http://www.microsoft.com
+Full profile for Microsoft
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Chan Zuckerberg Initiative Acquires Meta Search | Crunch Report
+Watch More Episodes

@@ -1,0 +1,38 @@
+Mobile
+Android
+Microsoft
+Cortana
+Microsoft is beta testing a feature that brings Cortana to Android’s lock screen
+Posted 5 hours ago by Brian Heater (@bheater)
+
+Next Story
+If you’re enrolled in the beta version of the Cortana app for Android, you’ve already got access to one of its more interesting updates in recent memory. As spotted by MSPoweruser, Microsoft has introduced a feature that brings its AI assistant front and center on Google’s mobile OS.
+Enabling “Add Cortana to my lock screen” will add a shortcut to the app directly on top of a user’s existing lock screen – similar to what many Android manufacturers have implemented for their own camera apps. In its current form, at least, the shortcut appears accessible to anyone who picks up the handset, whether they know the password or not.
+The play here for Microsoft is pretty straightforward – finding a new mobile avenue for the proliferation of its assistant as it continues to struggle to find a way forward with its own mobile operating system ambitions. By bringing Cortana to the front, the company is no doubt hoping some users will opt into its offering over Google Assistant.
+It seems like a long shot for most users, given how deeply engrained Assistant is into Android, but hey, anyone who already installed Cortana on their Android handset was likely on the lookout for an alternative, or, at very least, a way to better integrate their mobile device with their Windows PC.
+For its part, Microsoft also issued a pretty large upgrade to its Cortana app for Android and iOS just last month. No word on whether the feature is planned for the latter, but it’s easy to imagine pushback from Apple, should Microsoft get more aggressive with its personal assistant.
+
+ADVERTISEMENT
+ADVERTISEMENT
+Crunchbase
+Android
+DESCRIPTION
+Android is a software platform for mobile devices based on the Linux operating system and developed by Google and the Open Handset
+WEBSITE
+http://code.google.com/android
+Full profile for Android
+Microsoft
+Cortana
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Chelsea Manning to Be Freed in May | Crunch Report
+Watch More Episodes

@@ -1,0 +1,31 @@
+Europe
+Apple has allegedly begun removing Iranian iOS apps from the App store
+Posted 14 hours ago by Mike Butcher (@mikebutcher)
+
+Next Story
+Reports coming out of Iran suggest that Apple has allegedly started removing iOS apps originating from the country’s startups and developers. Prior to this, Apple had, in a limited manner, opened up its App Store to Iranians in September 2016 and appeared to be gradually lifting some of the limitations, periodically, since then.
+According to credible tech news site Techrasa, the biggest Iranian e-commerce service, Digikala, which has millions of users, had its app removed from the App Store just a few days ago.
+While there is no official App Store available for the territory of Iran, many companies registered their apps as being outside of Iran to be able to get onto the store.
+Digikala uses the Shaparak payment system which is completely isolated from international systems, so would in theory not contravene Apple’s T&Cs.
+In addition, several banks in Iran have apps for the iOS platform which are often side-loaded onto phones.
+Iranians are ‘gadget-mad’, with an estimated 40M smartphones in the country, of which there are an estimated 6M iPhones. The population is around 82 million, with an average age of under 30 years old. Reportedly, around 100,000 iPhones are smuggled into the country every month. Obviously this leads to an equally large market for after-sale services and accessories. In other words, if Apple could fully engage with the market, they would find it a highly lucrative one.
+However the Iranian Transactions and Sanctions Regulations issued by the U.S. Department of the Treasury puts blocks on this market. According to Techrasa, Apple has sent the following to Iranian startups attempting to upload apps:
+“Unfortunately, there is no App Store available for the territory of Iran. Additionally, apps facilitating transactions for businesses or entities based in Iran may not comply with the Iranian Transactions Sanctions Regulations (31CFR Part 560) when hosted on the App Store. For these reasons, we are unable to accept your application at this time. We encourage you to resubmit your application once international trade laws are revised to allow this functionality.”
+TechCrunch has reached out to Apple for comment and will update this post if we get a response.
+FEATURED IMAGE: BLONDINRIKARD FRÖBERG/FLICKR UNDER A CC BY 2.0 LICENSE
+
+ADVERTISEMENT
+ADVERTISEMENT
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Galaxy S8 Coming in March | Crunch Report
+Watch More Episodes

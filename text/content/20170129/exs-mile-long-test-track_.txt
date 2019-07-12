@@ -1,0 +1,34 @@
+Gadgets
+hyperloop
+Amateur Hyperloop designers face off this weekend on SpaceX’s mile-long test track
+Posted 35 minutes ago by Devin Coldewey
+
+Next Story
+SpaceX may not be interested in actually designing and making a real Hyperloop — it’s hard to tell how serious anyone is about the idea — but it is happy to promote plucky young engineers who’d like to try their hand at this interesting engineering problem. This weekend is a major event in the Hyperloop Pod Competition in which 30 teams from all over the world will test scale models of their pods in a mile-long test track in California.
+The competition started in 2015, and 1200 teams entered initially. That was whittled down to 120 pod designs evaluated in early 2016, and of those, 30 were selected to come to the test track this weekend.
+One of the top 30 is a student-run team from the University of Washington, which unveiled their quarter-scale pod at an event in Seattle last week. A series of excited engineers and designers explained the process by which they had arrived at various features of the pod.
+Lacking a large budget but not wanting for leadership and friendly industry sponsors, the team is something of an underdog. The current prototype costs under $27,000, much less than many competitors, but it’s anything but cut-rate. A carefully sculpted carbon composite faring covers the chassis, which sports compact permanent magnet levitation, acceleration, braking, and safety measures. I was particularly impressed with a clever passive mechanism for keeping everything on-axis.
+    The 30 teams have a wide variety of approaches, though: some are wheeled, some magnetic, some bigger, some smaller, some tubular, some car-like. Business Insider collected them all on one page, if you’re curious.
+Related Articles
+Hyperloop One has settled the lawsuit with former co-founder Brogan BamBrogan
+Hyperloop Transportation Technologies claims more than $100 million in total investment
+Hyperloop Transportation Technologies to open up facility in Toulouse, France
+During the competition, pods will be accelerated along an aluminum I-beam by a SpaceX boost car, then released to continue on their own power — hopefully to accelerate or maintain velocity, then come to a controlled stop. It’s not full-scale by a long shot — but we’re still talking 100+ MPH here and pods weighing hundreds of pounds, so it’s no joke either.
+The UW team members I talked to were just happy to have made the top 30, and in true engineer style, mainly just wanted everything to work as designed regardless of how they place. They cited the team from the University of Wisconsin, Madison as a potential tough customer, as well as the Netherlands’ TU Delft, a heavyweight in this sort of engineering.
+We’ll keep an eye out for any interesting developments at the competition. The fun isn’t done after this weekend, though: this summer there will be another competition, this one focused strictly on top speed. You can bet that’ll be one to watch.
+
+ADVERTISEMENT
+ADVERTISEMENT
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Galaxy S8 Coming in March | Crunch Report
+Watch More Episodes

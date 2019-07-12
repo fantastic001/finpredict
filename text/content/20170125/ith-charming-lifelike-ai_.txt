@@ -1,0 +1,52 @@
+Augmented Reality
+Kickstarter
+toys
+robotics
+artificial intelligence
+Bots_alive kit imbues toy robots with charming, lifelike AI
+Posted 35 minutes ago by Devin Coldewey
+
+Next Story
+There was no shortage of gadgets at CES, and there will be no shortage at Toy Fair next month, of robots and gadgets promising artificial intelligence — and generally falling short. But a more modest approach from an actual AI researcher has produced a clever and accessible way to create lifelike behavior through a simple and elegant modification of a popular existing robot.
+The kit is called bots_alive, and it’s looking for a mere $15,000 on Kickstarter. I talked with creator Brad Knox about the tech at CES, and came away pleased with the simplicity of the design at a time when overbearing, talking, dancing robot toys seem to be the norm.
+It works like this: you start with a Hexbug Spider, a remote control legged toy robot you can buy for $25. They’re normally operated with a tiny infrared controller. All you need to do to smarten one up is attach a marker to its head, stick the included IR blaster into the headphone port of your phone (see, this is what I was talking about), and launch the app.
+The app uses a computer vision system to track the robot’s position and that of the blocks also included in the kit. It also acts as the robot’s brain, telling it how to move and where to go. The rules are straightforward: the robot likes blue blocks and avoids red ones. It’s one of those things where simple pieces make for less-than-simple play. You can make little mazes, cause it to follow a trail of breadcrumbs, or if you have two bots, make them meet and fight.
+But the behaviors and movements appear much more complex and natural thanks to Knox’s team frontloading a lot of biomimetic patterns through another clever process. And yes, it involves machine learning.
+In order to build the bots’ AI, Knox, who worked for years on this kind of thing at MIT’s Media Lab, decided to base it on the behavior of real animals — humans, specifically. The team had the computer vision system watch as a human navigated a bot through a variety of scenarios — blue block behind red block, maze of red blocks, two blue blocks equidistant, etc.
+It recorded not just simple stuff like vectors to travel on, but little things like mistakes, hesitations, blunders into obstacles, and so on. They’d then process all this with a machine learning system and produce a model, then put it in charge and see how it did, what still needed tweaking or personality. More details on the process are available at a blog post by Knox published today.
+The result is bots that behave erratically, go the wrong direction for a bit, stop and look around, and retrace their steps — in short, just like a real little critter might. It’s quite charming in person, and the little quirks of personality don’t appear scripted or artificial.
+It’s an interesting statement on how the illusion of life is created. A humanoid robot making stiff, pre-recorded dance moves is offputting — but these buglike, plastic things manage to endear through subtler cues, little things.
+Further features are planned, like the ability for the bots to “learn” through reinforcement of certain behaviors, and future development could allow more explicit control over the way they work.
+The bots_alive kit ships to Kickstarter backers at $35, or $60 if you want a Hexbug included in the box. Once the crowdfunding is over, you’ll be able to follow and likely order kits at the bots_alive site.
+
+ADVERTISEMENT
+ADVERTISEMENT
+Crunchbase
+Kickstarter
+FOUNDED
+2009
+OVERVIEW
+Based in New York, Kickstarter is an online crowdfunding platform and community that enables artists, musicians, filmmakers, designers, and other creators to raise funds for various community projects focused on movies, music, art, theater, games, comics, technology, fashion, food, design, and photography. Individuals who back these projects are offered tangible rewards and one-of-a-kind experiences …
+LOCATION
+Brooklyn, NY
+CATEGORIES
+Crowdsourcing, Crowdfunding, Finance, FinTech
+FOUNDERS
+Perry Chen
+WEBSITE
+https://www.kickstarter.com/
+Full profile for Kickstarter
+LMCable
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Sprint Takes 33% Stake in Tidal | Crunch Report
+Watch More Episodes

@@ -1,0 +1,49 @@
+Automotive
+Elon Musk
+self-driving cars
+Autopilot
+Tesla
+Tesla begins rolling out much-anticipated Autopilot update for its newest cars
+Posted 16 hours ago by Jon Russell (@jonrussell)
+
+Next Story
+Tesla CEO Elon Musk has bold plans for self-driving cars in 2017, and his company took a step towards that goal after it began rolling out a much-anticipated Autopilot update to owners of its newer vehicles.
+Unlike older Teslas, vehicles built after October — known as hardware 2, “HW2” — were released initially without the full suite of Autopilot features, which provide advanced semi-autonomous driving for use on highway. That’s because they shipped with different (new) software and hardware which, in the long run, will enable them to be fully self-driving. In the short term, though, this new update, announced by Musk on Twitter on New Year’s Eve, will add a number of a number Autopilot features to the vehicles to get them near on par with older Tesla models.
+But, there’s a catch, and the update is only live an initial 1,000 cars. Most owners will need to wait for a wider rollout that Musk said is due within a week.
+Musk didn’t go into details of the update, but Electrek reported that the release notes include Autopilot’s Traffic Aware Cruise Control feature, Forward Collision Warning, and Autosteer, although the latter is only enabled at “low-speed.”
+Owners of newer the Model S and Model X have had to wait a little, but there’s huge upside to that since their vehicles come with all the sensors and computing power onboard needed to achieve full self-driving once the software is ready. That explains the delay of these Autopilot features too — it’s actually different from the original Autopilot system, and takes advantage of the new on-board computer vision capabilities made possible by the upgraded sensor and computer hardware.
+Musk has said that he believes Tesla will be in a position to field test full autonomy by the end of 2017. What we’ve seen of Tesla’s tests have looked impressive so far, and the newer cars will sit near the front of the queue as that technology matures and becomes available to drivers on the road.
+But it has been a challenging 2016 for Tesla. An owner died in an accident in May whilst using the Autopilot feature. The company said the “tragic loss” of Tesla owner Joshua D. Brown was down to “extremely rare circumstances.” Following the incident, Tesla split with self-driving tech partner Mobileye and the new imaging system in HW2 was developed by Tesla itself.
+We did see the safety features offered by Autopilot make a positive difference in real-world conditions last year. A video of a Tesla owner in the Netherlands avoiding a seemingly-inevitable pile-up thanks to his Forward Collision Warning system went viral last week, while another recent clip showed a Model S P85D using instant acceleration to escape a likely crash.
+FEATURED IMAGE: JOE RAEDLE / STAFF/GETTY IMAGES
+
+ADVERTISEMENT
+ADVERTISEMENT
+Crunchbase
+Tesla Motors
+FOUNDED
+2003
+OVERVIEW
+Tesla Motors was started by a group of Silicon Valley entrepreneurs and strives to create a revolution and accelerate the world’s transition to electric mobility with a full range of increasingly affordable electric cars. Tesla vehicles are EVs (electric vehicles), which are transforming the way people drive and move. Tesla has gone public as of June 29, 2010 and has a market cap of $2.47 billion …
+LOCATION
+Palo Alto, CA
+CATEGORIES
+Automotive, Electronics, Innovation Management
+WEBSITE
+https://www.tesla.com/
+Full profile for Tesla Motors
+Elon Musk
+Autopilot
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Happy New Year from Crunch Report!
+Watch More Episodes

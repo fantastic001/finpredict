@@ -1,0 +1,42 @@
+Gaming
+Android
+Nintendo
+iOS
+Super Mario Run will come to Android in March
+Posted 1 hour ago by Greg Kumparak (@grg)
+
+Next Story
+As we’ve known for a while, Super Mario Run is coming to Android after an exclusive stint on iOS.
+It’s… going to be a while, though.
+According to a tweet from Nintendo’s Japanese Twitter account, Mario won’t auto-run his way across Android screens until sometime in March.
+Here’s the tweet:
+Which translates, roughly, into:
+The Android version of “Super Mario Run” will be delivered in March 2017. Currently, Google Play is accepting signups to inform you of when delivery begins. Please sign up.
+So, why the delays?
+It’s likely more of a contractual thing than a technical one. Super Mario Run was built on Unity, a game engine that’s built with relatively simple platform-to-platform porting in mind. While porting always introduces plenty of challenges, it’s not like they’re rebuilding the game from scratch here. Meanwhile, a launch window of March would mean Mario Run was on iOS exclusively for roughly 3 months.
+But before you toss out your Android device in order to get all of Nintendo’s mobile wares first, a heads up: it looks like Nintendo is trying to spread the love a bit. Its new Fire Emblem title, for example, will hit Android first.
+
+ADVERTISEMENT
+ADVERTISEMENT
+Crunchbase
+iOS
+DESCRIPTION
+iOS is Apple's operating system for their mobile devices. It debuted in 2007 with the release of the first iPhone, but has since been
+WEBSITE
+http://www.apple.com/ios
+Full profile for iOS
+Android
+Nintendo
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Chelsea Manning to Be Freed in May | Crunch Report
+Watch More Episodes

@@ -1,0 +1,40 @@
+Artificial Intelligence
+Peter Thiel
+FLYR raised $8 million to change the way we buy plane tickets
+Posted yesterday by Lora Kolodny (@lorakolodny)
+
+Next Story
+Travel tech startup FLYR raised $8 million in Series A funding for technology that predicts the price of airfare by applying artificial intelligence to a database of both open industry data and a proprietary collection of years of past prices and fluctuations.
+The funding round was led by a Peter Thiel fund, and, according to an SEC filing, Thiel Capital principal Phin Upham was involved in the deal. The new round brings FLYR’s total capital raised to $13 million. (Its earlier seed funding came in two tranches totaling $4 million.)
+FLYR, which rhymes with “fire,” is best known for its flagship product, FareKeep, which lets travelers lock in the price of a ticket for a week, for a fee of $20 or more. The concept is tantamount to airfare insurance. If the price of a ticket drops by more than the locking fee, FLYR alerts the traveler of the better price, and they can either book through at that lower price, or get a refund for the difference within a day or so of completing the purchase.
+While some airlines had offered a similar feature on their own, online travel agencies and metasearch sites, including TripAdvisor, are now using FLYR to give their customers the ability to lock a fare. The company also seeks to work with credit card companies.
+FLYR faces competition from apps like Hopper, which tells users when is the best time to find and buy a ticket, or Options Away, which is a more direct competitor that enables airlines and other travel businesses to fire up fare locking on their platforms.
+Co-founders CEO Jean Tripier and CTO Alexander Mans tell TechCrunch that FLYR intends to use their new funding to release new products, including a solution for companies whose employees need to book a lot of business travel.
+“We’ll go from having one commercial product to a portfolio of several solutions which will apply at every stage of the booking process,” Tripier said. Mans added, “Beyond predicting demand and pricing we’ll focus on predicting behavior, so we can provide better experiences to our clients’ customers past booking.”
+One such product they will soon roll out is something like a layaway plan for tickets, allowing travelers to pay for a ticket in installments instead of one lump sum, no extra fees or cost. FLYR already has robust coverage of flights in and between the U.S. and Europe. It will also use its funding to expand in other parts of the world, especially Latin America, the co-founders said.
+Alongside Peter Thiel’s fund, investors in FLYR’s Series A round included: JetBlue Technology Ventures, Streamlined Ventures, AXA Strategic Investors, Amadeus, Western Technology Investment, Plug and Play and Chasm Capital Management.
+Streamlined Ventures’ founder Ullas Naik said, “Underlying everything, FLYR’s strength is in its ability to predict prices accurately up to a month out. You can hang a lot on top of that, which will bring value to different players in the market but also to consumers. Ultimately this kind of AI-related stuff will increase the market, because it makes it possible for people to confidently buy airline tickets.”
+Naik said he expects the company, in its next stage, to invest in new product development, but also land “right next to the buy button” on partners’ sites and apps around the world.
+FEATURED IMAGE: IPOPBA/ISTOCK/GETTY IMAGES
+
+ADVERTISEMENT
+ADVERTISEMENT
+Crunchbase
+Peter Thiel
+BIO
+Peter Thiel is a technology entrepreneur and investor.He first gained attention for innovations in banking and startup finance. Today he is known as the mentor of the PayPal mafia of entrepreneurs, as well as for his warnings of a coming technology deficit with severe economic consequences. He works to accelerate innovation to prevent such a crisis by identifying and funding promising technology ideas …
+Full profile for Peter Thiel
+Streamlined Ventures
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Apple Suing Qualcomm for $1 Billion | Crunch Report
+Watch More Episodes

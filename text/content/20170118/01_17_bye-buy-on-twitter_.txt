@@ -1,0 +1,51 @@
+Social
+Twitter
+Twitter is phasing out the “Buy” button, will continue to offer donations
+Posted 1 hour ago by Ingrid Lunden (@ingridlunden)
+
+Next Story
+There have been rumors for a while about Twitter preparing to retire its commerce operation. Now it looks like the company has finally started to wind down its partnerships in confirmation of that fact. Customers of e-commerce platform Shopify are receiving notices informing them that the Twitter sales channel is getting shut down “as a result of the Twitter team pivoting way from their ecommerce focus.” We have confirmed the note as legitimate. The short message, shared by TC reader Brody Berson, is at the bottom of this post.
+From what we understand, Twitter is now gradually winding down the “Buy” button, and with it the partnerships that it forged to bring in retailers and other businesses to use them. At the same time, Twitter will continue to offer a “Donate” button to give to charitable causes and other nonprofits, which Twitter will offer directly.
+Other links to Buy information, such as this information page on Twitter’s Business site, will also slowly now start to disappear, as the products are no longer being offered.
+None of this should come as a surprise, apart from the fact that it’s taken so long.
+The moves to wind down the Buy button come about eight months after a report noted that Twitter was ceasing product development of its Buy button and was disbanding its commerce team. Nathan Hubbard, the executive who was leading that team, left the company a day later. A few months after that, Twitter announced a new focus on its website conversions product, which is where it is now channeling interest in action-based marketing on the platform.
+The Buy button made its first official appearance in September 2014 in partnership with Stripe, Gumroad, Musictoday and Fancy. That was after Twitter quietly began to work on the product earlier in the year. But the rollout was slow: It took a whole year before Twitter expanded the service to a network of partners that included Shopify (along with BigCommerce, Demandware and Best Buy).
+But the Buy feature and Twitter’s wider commerce efforts never managed to get much traction, neither from consumers and brands who didn’t seem that interested in transacting in Twitter’s stream, nor from Twitter itself.
+The last time management referred to the Buy buttons and its commerce efforts in an earnings call, in fact, seems to be all the way back in July, 2015, when, in answer to a question from an analyst about how the company’s commerce efforts were going, CEO Jack Dorsey replied:
+“It’s still super early for this project,” he said somewhat prophetically. “But a lot of our focus has been around making tweets more relevant and delivering more relevant tweets faster to people, and as we do that, everything within the action, within the tweet action benefits, including something like commerce.”
+Perhaps it’s still super early. Twitter — which currently has 317 million monthly active users — is searching for a more stable and quicker path to audience and revenue growth amid many management changes and rumors about its future. For now, the company plans to report its next quarterly earnings on February 9.
+Letter below:
+Dear XXX
+Starting February 1st the Twitter sales channel will no longer be available as a result of the Twitter team pivoting away from their ecommerce focus.
+Saying goodbye is never easy, but you can choose between many other sales channels to sell on including: Facebook Shop, Pinterest, Messenger, Amazon and more.
+Email the Shopify support team at support@shopify.com if you have any questions.
+FEATURED IMAGE: ERIC RISBERG/AP
+
+ADVERTISEMENT
+ADVERTISEMENT
+Crunchbase
+Twitter
+FOUNDED
+2006
+OVERVIEW
+Twitter is a global social networking platform that allows its users to send and read 140-character messages known as “tweets”. It enables registered users to read and post their tweets through the web, short message service (SMS), and mobile applications. As a global real-time communications platform, Twitter has more than 400 million monthly visitors and 255 million monthly active users around …
+LOCATION
+San Francisco, CA
+CATEGORIES
+SMS, Blogging Platforms, Social Media, Messaging
+WEBSITE
+http://www.twitter.com/
+Full profile for Twitter
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Samsung Leader Bribery Charges | Crunch Report
+Watch More Episodes

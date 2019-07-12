@@ -1,0 +1,28 @@
+Hardware
+Google
+google home
+Google Home builds out its ecosystem with Honeywell and Belkin WeMo support
+Posted 11 hours ago by Brian Heater (@bheater)
+
+Next Story
+Google was a bit late to the connected home party. Its Amazon Echo competitor, Home, officially launched in November of last year, and slowly but surely, the company has been adding some key partners to help expand its reach.
+Last year, Nest, Philips Hue and Samsung SmartThings all were added to Google’s burgeoning connected home ecosystem, and today the company’s got a pair of new partners.
+First up is Honeywell, bringing the 111-year-old conglomerate’s connected thermostats into the fold, with commands like, “Ok Google, turn the temperature up downstairs.” The company also struck a deal with Belkin for its WeMo line of home automation switches and plugs. They can be connected to home as of this week, with commands like, “Ok Google, did I leave the bedroom lights on?”
+While the selection of official partners is still relatively sparse, the company handily points out that users can add even more commands via IFTTT.
+Perhaps even more compelling is the fact that Google’s also bringing home automation to its popular Pixel handset at some point in the near future, in an attempt to create a more consistent Home experience across its ecosystem of devices.
+
+ADVERTISEMENT
+ADVERTISEMENT
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Chan Zuckerberg Initiative Acquires Meta Search | Crunch Report
+Watch More Episodes

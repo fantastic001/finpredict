@@ -1,0 +1,50 @@
+Government
+Twitter
+security
+Trump team’s Twitter accounts used private emails, among other security lapses
+Posted 1 hour ago by Devin Coldewey
+
+Next Story
+An embarrassing collection of poor choices in account security by the Trump administration created a stir this week, worrying those who already doubt the team’s expertise in cybersecurity. There were already risks to having a Twittering President, and these oversights confirm them.
+The most serious lapse by far is the use of private Gmail addresses for the Twitter accounts of senior officials in the administration, including the President, Vice President, and Press Secretary. While a handful of email addresses and phones are standard issue for people in such elevated positions, the private ones are not supposed to be attached to official outlets like the @POTUS account.
+Related Articles
+The risky business of Trump the twittering president
+Twitter recommends Trump in searches for "asshole," "tiny hands" and more
+Trump Press Secretary Sean Spicer may have just tweeted his password
+It’s not the same thing as using a private email server to handle classified documents, but it does imply a laxity in security that is not reassuring for someone entering office in an age of cyber warfare.
+There were reports that the Twitter accounts also did not have two-factor authentication enabled — but the way Twitter operates 2FA makes it nearly impossible to tell that.
+The 2FA message is only sent after the user has clicked on the password recovery link in the email sent by Twitter, which means to know whether the feature was enabled, we would have to have access to the person’s email to begin with. So the two-factor allegation is unproven — although we wouldn’t be surprised.
+More provable was the lack of a simple security layer that asks anyone trying to reset an account’s password for a piece of personal information: email address or phone number, for instance. (You should enable this.)
+The accounts had not enabled this either earlier this week, which meant that anyone could ask to reset an account and be rewarded with the first two letters of the account’s associated email, and the domain if it was a common one. Which it was.
+The risk here is that, armed with an email address (often easily guessable based on a few clues like these), and sans two-factor authentication, an attacker has a pretty decent chance of getting into that account and getting access to the Presidential Twitter. This, by the way, is also Twitter’s fault: revealing even partly redacted account information to anyone who asks for it is very poor practice.
+Lastly, in perhaps the most face-palmingly ridiculous security stumble of all, Press Secretary Sean Spicer appears to have tweeted his own password, although it may also have been a pocket tweet, since no one managed to log in with it.
+All in all not a good start for an administration ostensibly serious about the cyber, although the gaps in the fence all appear to have been fixed at this point.
+
+ADVERTISEMENT
+ADVERTISEMENT
+Crunchbase
+Twitter
+FOUNDED
+2006
+OVERVIEW
+Twitter is a global social networking platform that allows its users to send and read 140-character messages known as “tweets”. It enables registered users to read and post their tweets through the web, short message service (SMS), and mobile applications. As a global real-time communications platform, Twitter has more than 400 million monthly visitors and 255 million monthly active users around …
+LOCATION
+San Francisco, CA
+CATEGORIES
+SMS, Blogging Platforms, Social Media, Messaging
+WEBSITE
+http://www.twitter.com/
+Full profile for Twitter
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+AppDynamics Acquired for $3.7 Billion | Crunch Report
+Watch More Episodes

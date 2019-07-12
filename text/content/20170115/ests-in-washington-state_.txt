@@ -1,0 +1,42 @@
+eCommerce
+Amazon Prime Air
+Amazon seeks to run wireless tests in Washington state
+Posted 21 hours ago by Lora Kolodny (@lorakolodny)
+
+Next Story
+According to documents unearthed by Business Insider, Amazon Corporate has sought permission from the FCC to run tests of wireless technology prototypes in and around one of its facilities in Seattle, and outdoors in Kennewick, Washington, for unspecified purposes. The person who filed the request on behalf of the e-commerce and IT giant, Neil Woodward, is a former NASA astronaut, now a senior manager in charge of flight test and certification for Amazon Prime Air.
+The wireless test request could be related to Amazon’s preparations to start drone deliveries in the U.S. Or they could indicate that Amazon is building new communications systems for use in physical security, or data gathering from the company’s considerable infrastructure. Woodward was involved in other infrastructure and security projects during his earlier years at Amazon.
+That said, Amazon has already embarked on drone deliveries in England. U.K. regulations were sorted ahead of U.S. regulations where commercial drone flights were concerned, which helped to make that possible. Since the U.S. established its own Part 107 rules governing the use of small, unmanned aerial systems for commercial and industrial purposes domestically, back in August, companies have been making moves.
+Amazon’s competitor Wal-Mart plans to use drones to monitor warehouse inventory in the U.S. this quarter. And recently, 7-Eleven started on-demand drone delivery from stores to homes in Reno, Nevada, using the services of Flirtey, a venture-backed drone delivery startup. The companies are expanding their partnership this year. On another front, Facebook is working to make safety improvements to its internet-beaming, solar drone, the Aquila.
+The FCC application from Amazon states:
+“The proposed operations will be limited in scope. Temporary base stations will typically transmit on average for only 5 minutes per hour per day per week on any specific channel or band. The power level of the operations at the Seattle locations will be [low]…The tests in Seattle will be conducted within a building and the operational area for the outdoor tests at Kennewick, Washington, will be limited to a 5 km radius of any temporary fixed site.”
+We reached out to Amazon Prime Air for any further details they can offer.
+
+ADVERTISEMENT
+ADVERTISEMENT
+Crunchbase
+Federal Communications Commission (FCC)
+FOUNDED
+1934
+OVERVIEW
+Federal Communications Commission is an independent United States agency regulating interstate and international communications by radio, television, wire, satellite, and cable in all 50 states, the District of Columbia, and the U.S. territories. The commission is the United States' primary authority for communications law, regulation, and technological innovation. Federal Communications Commission …
+LOCATION
+Washington, DC
+CATEGORIES
+Politics, Government, Privacy
+WEBSITE
+http://fcc.gov
+Full profile for Federal Communications Commission (FCC)
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Nintendo Switch Hits the Market on March 3 | Crunch Report
+Watch More Episodes

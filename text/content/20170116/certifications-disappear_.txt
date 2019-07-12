@@ -1,0 +1,36 @@
+Cloud
+Education
+MOOCs
+MOOC enrollment drops at HarvardX and MITx after free certifications disappear
+Posted yesterday by Devin Coldewey, Contributor
+
+Next Story
+An internal study of the massive open online courses (MOOCs) offered by Harvard and MIT shows a serious decline in the number of students choosing to enroll and certify via these internet-accessible classrooms. 2016 only saw around half the participants as the previous year — likely due to the programs’ discontinuance of free certification.
+The study, by MIT’s Isaac Chuang and Harvard’s Andrew Ho, is part of an ongoing series of yearly reports that document how many students sign up, how many finish courses, where they’re from, and so on. July of 2012 is when the two institutions begin their tracking, and this report adds the fourth complete year of courses (ending in fall quarter of 2016) to the data set.
+There’s a lot of interesting demographic data to pore through if you’re curious; being a global classroom does produce quite a variety of students:
+However, this last year saw enrollment tumble: although 40 new courses were added to the selection, making for a total of 132 between the institutions, far fewer people are choosing to take them, and even fewer make it to the certification stage.
+Related Articles
+Firefly takes $5.6M Series A for its online learning tool for schools
+Coursera's new monthly subscriptions could monetize procrastination
+AWS moves into IT training and job placement with re:Start, a UK cloud skills program
+In 2015, each university saw about 800,000 participants all told, a peak for both. This year those numbers dropped precipitously, to about 540,000 at HarvardX and 670,000 at MIT.
+Combined with an increase in the number of courses, this meant the number of participants per course hit record lows. Certifications per course also dropped to the lowest numbers ever, though the total certified in 2016 did manage to beat the first year’s numbers.
+It’s worth nothing also that the proportion of people certifying, versus auditing or otherwise not completing, is still healthy compared with previous years. And the additional courses may simply not be as attractive as the initial ones — these are still experimental programs, of course.
+The leveling off of interest probably has a lot to do with the schools’ choice early in 2016 to no longer offer certain certifications for free — a choice those in charge almost certainly knew must negatively impact enrollment. But even so, these numbers are likely discouraging. I’ve reached out to one of the study’s authors for comment.
+You can download the full report for yourself here.
+
+ADVERTISEMENT
+ADVERTISEMENT
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Nintendo Switch Hits the Market on March 3 | Crunch Report
+Watch More Episodes

@@ -1,0 +1,37 @@
+Gadgets
+iOS
+AirPods
+Apple releases first iOS 10.3 beta with “Find My AirPods”
+Posted 11 hours ago by Romain Dillet (@romaindillet)
+
+Next Story
+The ultimate first world problem is finally solved. Apple just released the first beta of iOS 10.3 to developers. Among other changes, the beta includes a way to find your lost AirPods in the Find My iPhone app.
+As you know, Apple’s AirPods only have tiny W1 chips in each earbud. These chips only support Bluetooth — there’s no Wi-Fi, there’s no GPS and, of course, there’s no cell connection. So what happens exactly if you lose a poor tiny little AirPod?
+The most likely scenario is that your AirPod is sitting on a table below a stack of magazines and you can’t find it. If it’s in range of your iPhone, you can open the Find My iPhone app and play an alarm sound. While the sound shouldn’t be as loud as your iPhone’s alarm sound, it should be enough to find your AirPod.
+If you left your AirPods at home, you can see them on a map if they’re within range of an iOS device at home. And if you’re really unlucky and you left your AirPods at a coffee shop, then Find My iPhone will try to show you the last location and time that you had your AirPods on you.
+It’s not a perfect solution, but it should be good enough if you tend to misplace things in your home.
+In other news, iOS 10.3 will add cricket scores in Siri for the Indian Premier League, CarPlay refinements and small improvements here and there. My favorite update is a new 3D Touch shortcut on the weather app icon in the corner of the Maps app. You can get hourly forecasts without launching the dedicated Weather app.
+iOS 10.3 is going to be in beta for a month or two. You can expect to download the final version with these improvements after the beta period ends.
+   
+ADVERTISEMENT
+ADVERTISEMENT
+Crunchbase
+iOS
+DESCRIPTION
+iOS is Apple's operating system for their mobile devices. It debuted in 2007 with the release of the first iPhone, but has since been
+WEBSITE
+http://www.apple.com/ios
+Full profile for iOS
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Chan Zuckerberg Initiative Acquires Meta Search | Crunch Report
+Watch More Episodes

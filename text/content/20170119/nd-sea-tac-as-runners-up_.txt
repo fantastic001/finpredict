@@ -1,0 +1,36 @@
+speedtest
+airports
+Denver takes fastest airport Wi-Fi crown, with Philly and Sea-Tac as runners-up
+Posted 1 hour ago by Devin Coldewey, Contributor
+
+Next Story
+Bragging rights for the fastest airport Wi-Fi go to Denver by a long shot, according to Speedtest.net’s latest data, although Philadelphia, Sea-Tac, and Dallas Fort Worth bringing up the rear. But mobile speeds, particularly in Detroit and San Francisco, may soon have them all beat.
+The data come from users checking in with Speedtest while at those airports, both on mobile networks and via the official Wi-Fi (no gigabit connections from the Admiral’s Club or the like allowed).
+As you can see in this lovely chart, speeds differ wildly, from way more than you need to stream multiple HD movies at once to so slow that you should watch out for 56k warnings. (2.71 megabits in Atlanta. Sad!)
+Click to make kind of readable
+DFW gets a special prize for having an absurd 75 megabit upload rate, well above even Denver’s. If you want to seed torrents on your layover, go to Texas.
+Mobile networks are catching up, but with great download speeds come data caps, and who wants to waste their data on a video call for work? Perhaps carriers can zero-rate traffic originating from airports and save us the trouble of logging into whatever weird ad-supported system the Wi-Fi is sitting behind.
+You can read the details over at Ookla’s post, complete with airport-shaming comparison stats showing some locations, like Detroit and Charlotte, actually lost speed over the last year.
+
+ADVERTISEMENT
+ADVERTISEMENT
+Crunchbase
+Airport
+DESCRIPTION
+Airport is a business simulator, tycoon. The player owns an airport and develops its infrastructure. His aim is to build the best airport
+WEBSITE
+http://en.i-jet.ru/social-games/_66
+Full profile for Airport
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Chelsea Manning to Be Freed in May | Crunch Report
+Watch More Episodes

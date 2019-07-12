@@ -1,0 +1,46 @@
+Apps
+Apple
+app-store
+developers
+Apps
+Apple will finally let developers respond to App Store reviews
+Posted 6 hours ago by Sarah Perez (@sarahintampa)
+
+Next Story
+Apple is finally going to give its developers a way to respond to customer reviews on its App Store and Mac App Store – a feature that’s long been available to Android developers on Google Play, much to the chagrin of the Apple developer community. According to developer documentation for the iOS 10.3 beta, when this version of Apple’s mobile operating ships, developers will also be able to ask for reviews in new ways, in addition to responding to those posted publicly on the App Store.
+Apple’s ratings and reviews system has felt antiquated, and has been a source of frustration for developers and users alike. When a customer leaves a negative review, developers couldn’t respond to the criticism – which is sometimes unwarranted – in a way that other App Store customers could see. For example, a customer may be misunderstanding a feature, or may have complained about a bug that’s been fixed in a later release.
+Being able to quickly clarify the situation in a public manner could help to encourage other potential customers to give the app a try.
+In addition, these public comments stand as sort of a record of sorts – something that’s helpful for customers who want to know if the developer actively supports the application and considers user feedback. This serves as another signal that the app is worth the download or the purchase price, especially in an ecosystem where so many apps had been abandoned that Apple had to purge its App Store of outdated applications late last year.
+While this is one of the most welcome changes that’s shipping in the new release from a developer perspective, it’s not alone.
+Related to this, Apple says it will also introduce a new way to solicit reviews in iOS 10.3. With the introduction of a new API, developers can ask users to rate or review the app while they’re using it, without being redirected to the App Store. This will go a long way towards reducing the nag screens in today’s current crop of applications – some of which bug you to rate the app upon nearly every open.
+Positive ratings help apps maintain a good rank and encourage downloads, which is why they’re so critical to developers. But for users, having to rate apps has been a poor experience. You’re often interrupted in the middle of trying to use the app, and then asked to exit to the App Store, where you have to sign in to your Apple account, rate, then type your review.
+With the API, developers can now determine when they want to prompt users to review their app, and then users can complete this process without as much disruption.
+According to a report from Jim Dalrymple of The Loop, developers will be only be able to nag users for reviews three time per year, and once the consumer leaves a review, they can’t be prompted again. Additionally, he says that you’ll be able to switch off notifications for app reviews from the iOS settings.
+Beyond app ratings, another major developer-facing feature spotted in the beta is the rollout of the new Apple File System, APFS, which first arrived in the Sierra 10.12 beta. Meant to replace HFS+, APFS is optimized for devices with solid state storage, supports 64-bit file IDs, offers strong encryption, is more efficient at managing a hard drive’s free space, improves latency, and more. 
+For consumers, the new iOS includes a number of changes, too, like a ‘Find my AirPods’ option, cricket scores, HomeKit improvements, further Siri integration into apps, and other enhancements. 
+iOS 10.3 will likely be in beta for a month or two, before being released to the public via an over-the-air update.
+
+ADVERTISEMENT
+ADVERTISEMENT
+Crunchbase
+iOS Apps
+DESCRIPTION
+Native mobile application that allow entrepreneurs to connect with their prospective co founders within or outside their vicinity.
+WEBSITE
+http://www.cofoundersdating.com
+Full profile for iOS Apps
+App Store
+iOS
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Sprint Takes 33% Stake in Tidal | Crunch Report
+Watch More Episodes

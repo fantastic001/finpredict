@@ -1,0 +1,54 @@
+Government
+donald trump
+Politics
+dashboard
+trump
+“Track Trump” will compare Trump’s promises to policy changes in the first 100 days
+Posted 5 hours ago by Sarah Perez (@sarahintampa)
+
+Next Story
+A new website called Track Trump has launched to monitor the progress President Trump makes on fulfilling his promises for his first 100 days in office. At the end of October, Trump released a plan called “Donald Trump’s Contract With The American Voter,” which focuses on cleaning up Washington, protecting American workers, and restoring the rule of law. The plan’s action items will now be tracked on the new website, in an effort to hold the incoming administration accountable the promises it has made.
+The site was designed, developed and launched over the past few weeks, according to Y Combinator president Sam Altman, who is one of the creators of the new, online dashboard.
+Along with Altman, Track Trump was built with help from Alec Baum, who previously worked on Hillary Clinton 2016 presidential campaign; doctoral student in public administration Peter Federman; and developer Gregory Koberger, founder of ReadMe and a former Mozilla Corp. employee. Baum and Federman are working full-time on Track Trump, with salaries funded by Altman personally, not YC.
+According to the Track Trump homepage, the site’s creators felt it was important for citizens to be able to understand and follow in real-time the policy changes that will impact their lives, the introductory message explains.
+“Part of the impetus for this is that I think a lot of people have been trying to figure out how they should spend their time and resources in face of the administration because it’s so unclear what they’re actually going to do,” says Altman. “We just wanted a way to monitor. And if you look at a dashboard every day, you often begin to notice trends,” he adds.
+Beyond simply holding the new administration accountable, Track Trump also aims to separate out the actual policy changes from “rhetoric and political theater.”
+Trump, as we all know, makes a number of blustering statements on Twitter about what needs to change and what he plans to do, but the process of putting those words into policy will likely be more challenging.
+Track Trump will avoid covering these tweets and other public statements, in favor of focusing on the policy changes that actually take place as compared to Trump’s documented promises.
+The progress can then be followed via a simple online dashboard.
+“I’ve always liked the dashboard model for evaluating startups or something else,” explains Altman, noting that other models, like a news feed, had also been considered.
+On the site’s homepage, there are eight icons representing the policy categories Track Trump aims to monitor, including immigration, trade, energy and climate, federal government, economic policy, education, healthcare, and safety.
+Within each section, are the individual action items cited in Trump’s 100-day plan. There isn’t much rewording of these statements, either – they’re practically copied and pasted from Trump’s own words, and in some cases, quoted directly.
+As progress takes place in each of these areas, a tracker next to the specific promise will be updated from gray (no action), to yellow (steps taken), to green (policy implemented.) If the policy fails to be implemented, or it’s changed in an official capacity, it will be changed to red.
+You can also click on each individual item to see the current updates in a pop-up window.
+As we’ve only just witnessed Trump’s inauguration this morning, all the items are set to gray at the start.
+Going forward, the updates and other general policy news will be summarized in a daily blog post on Track-Trump.com.
+Though the site’s founders’ political positions lean left, the site itself doesn’t leave much room for bias in its reporting, the way a news media outlet’s coverage of a particular policy change could. Instead, Track Trump simply will note if steps are being made, if a policy is enacted or if it’s cancelled. That means it’s watching for executive orders and laws that are passed, specifically.
+“We hope to build a resource that is useful to all people, regardless of political viewpoint, who are interested in monitoring the accomplishments of the incoming administration in an unfiltered manner,” the site notes.
+Already, a number of news organizations have asked if they can cite the dashboard in their coverage, which is notable given that Track Trump just launched today. If that level of interest continues, Altman says the site may continue beyond the first 100 days.
+At that point, Track Trump may look to other promises made in speeches and written documents, says Altman.
+And the tweets?
+“We’re going to try to avoid the tweets. Let’s not talk about those,” Altman says with a laugh.
+
+ADVERTISEMENT
+ADVERTISEMENT
+Crunchbase
+Donald J. Trump
+BIO
+Donald John Trump (born June 14, 1946) is an American business magnate, investor, author, television personality and the newly elected President of the United States in the 2016 presidential election. He is the chairman and president of The Trump Organization, and the founder of Trump Entertainment Resorts. Trump's career, branding efforts, lifestyle and outspoken manner helped make him a celebrity, …
+Full profile for Donald J. Trump
+Government
+Sam Altman
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Zoom CEO Eric Yuan Raised $100 Millon | Crunch Report
+Watch More Episodes

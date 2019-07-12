@@ -1,0 +1,33 @@
+P2P car marketplace Shift pauses DC operations, lays off 10% of staff
+Posted 1 hour ago by Ingrid Lunden (@ingridlunden)
+
+Next Story
+After Beepi shut down its service and transferred its operations to stealth Fair.com, its closest competitor Shift is facing some downsizing, too — a measure of the challenges of the peer-to-peer car selling business model that both had been trying to establish.
+TechCrunch has learned and confirmed that Shift has laid off just under 10 percent of all its staff, or 25 people, and it has also temporarily “paused” operations in the Washington, DC, region while it works on getting a dealer license to fill out a new role as a reseller for car rental giant Hertz.
+Existing operations in Los Angeles and San Francisco are not being affected. (Other markets listed on Shift.com for Orange County, San Diego and Sacramento do not appear to be actively selling yet.)
+In December, Shift — which has raised $74 million from investors such as Goldman Sachs, Draper Fisher Jurvetson, and Highland Capital Partners — announced a strategic partnership with car rental company Hertz. Under the deal, Shift will sell cars from Hertz’s inventory on its platform.
+“Over the past five years, Hertz has implemented a robust retail car sales strategy and become a prominent retail used car seller in the U.S.,” said Jeff Adams, VP, vehicle remarketing at Hertz, in a statement. “We are excited to partner with innovative companies like Shift to leverage their technology and bring a seamless, hassle-free purchase experience to our car buyers.”
+Shift said the transition to Hertz’s inventory and away from the P2P model is related to the decision to cut staff in existing markets.
+“We made a decision to make some changes to our employment model, which has resulted in some staff reductions,” said a spokesperson. The Hertz sales agreement was piloted in Los Angeles and San Francisco, and Minnie Ingersoll, Shift’s COO, said that the plan will be to have up to 20% of all inventory on Shift.com come from Hertz, with the rest from P2P.
+The Hertz deal will also be used as a way to cut costs in how Shift expands.
+“Moving forward, we are going to launch markets with Hertz inventory before we start P2P,” a spokesperson said “One of the most expensive parts of launching a new market is acquiring cars, so this partnership is honestly a game changer for us. We’ll have access to instant inventory and be able to scale more quickly and economically.”
+When Beepi hit the rocks, Shift found itself in a position as a potential buyer of the company, according to an internal memo put out by CEO George Arison after Beepi’s situation became public. But he also claimed that Beepi’s loss was Shift.com’s win, with Shift’s conversions on Google ads going up and customer acquisition costs dropping as Beepi wound down. (No surprise, as there was less competition in the market.)
+But even with the Hertz deal in hand, it seems, there are still more tweaks to come to the business model of P2P selling, which in Shift’s case involves providing a platform for getting an estimate for the car you want to sell, getting that car completely inspected by a Shift mechanic, finding a car you want to buy, and getting that car delivered to you for a test drive, and Shift handling the paperwork and potentially financing for the whole process.
+Shift believes that the Hertz deal and the fundamentals of what Shift is providing are more sound longer term and do not compare with Beepi’s rise and subsequent fall.
+“Beepi’s model was actually the model that I first came up with in 2012,” Shift’s CEO George Arison told me in an email. “But after that I spent a year learning about the auto market, and realized that if you do not have a local business model, you cannot be successful (because people do not buy cars nationally). We then refined our vision for Shift (before launching the company) to be much more local (with test drive delivery), which had little in common with our old model or Beepi’s model. It took Beepi $150M and three years to figure this out… Their business model was fundamentally different than ours and simply not working (as we figured out before we spent any capital).”
+
+ADVERTISEMENT
+ADVERTISEMENT
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Chan Zuckerberg Initiative Acquires Meta Search | Crunch Report
+Watch More Episodes

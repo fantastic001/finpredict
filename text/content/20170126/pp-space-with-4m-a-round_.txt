@@ -1,0 +1,60 @@
+Education
+YCombinator
+Education
+edtech
+Oohlala aims to school the university-specific app space with a $4M Series A
+Posted 50 minutes ago by Devin Coldewey
+
+Next Story
+There’s an app for everything these days, including attending college, but that doesn’t mean it’s a good app. Oohlala has changed that for hundreds of schools so far with its custom university-specific apps for students, and it’s looking to expand with a $4 million Series A round it announced today.
+The attraction for both students and administrators is understandable, especially if you’ve had to navigate the labyrinths of overlapping websites, services, and apps that often form the online portion of the university experience. Register classes at this site, but schedule them here, but that doesn’t work with the official app, and announcements hit Twitter an hour earlier anyway: that sort of thing.
+“It’s very complex and fragmented from the student perspective,” said Oohlala founder and CEO Danial Jameel in an interview with TechCrunch.
+Related Articles
+Microsoft launches Intune for Education to counter Google's Chromebooks in schools
+MOOC enrollment drops at HarvardX and MITx after free certifications disappear
+Daniel Gross of Apple leaves to become Y Combinator's newest partner
+During his time at the University of Toronto, he worked in the Student Life department, trying to wrangle resources for some 15,000 incoming freshmen. The problems one faces in that situation are obvious, especially if there’s no single convenient platform aimed directly at students.
+Some solutions, like those for handling financials or homework and professor feedback, aren’t worth reinventing just now. But what about everything else students do, from networking to finding a place to eat to checking the lost and found?
+Originally Oohlala focused on the social side of things, but it soon became clear that there was much more to help with.
+“If you think about it, for these 4 years, it’s a unique user behavior,” Jameel said. “Pretty much your whole life revolves around school.”
+Not only that, but nearly every student — 95 to 98 percent — has a smartphone, and they’re already using it to carve their life into categories: broader friends and family on Facebook, close friends on WhatsApp or Snapchat, dating on Tinder, etc. Oohlala aimed at being the app that fills that role for student life, and it’s found a great deal of success.
+Each app, tailored for each university, includes things like moderated message boards for students, faculty contacts, class info and locations, safety information and alerts, and plenty more that used to be found on half a dozen websites, apps, and third-party services. I for one would have been glad to have it when I was in school. And of course IT and administration get lots of useful data to play around with.
+With more than 200 customers in 8 countries, the company is already profitable. It tripled in size last year and two thirds of its customers signed on for three years up front. So why raise?
+“I think we’re in a good position to be the market leader in the space — we have the numbers, we’ve been doing this profitably, and the YC partners suggested ‘you know, maybe it’s time for you guys to step up,'” said Jameel.
+The $4M figure isn’t an accident — Jameel suggested the company could have raised significantly more, but they considered that they’ve always done well with the bare minimum money necessary, and furthermore they’d like to retain as much equity as possible.
+He’s proud of the company’s start in Toronto, where VC money is comparatively scarce but living expenses are low: “We lived like cockroaches. There isn’t a lot of capital, so we had to build a business model to survive.”
+“Honestly the reason we took the funding is the people we took it from,” he continued. “Relationships matter too.” University Ventures led the round, alongside Joe Montana’s Liquid 2 fund and Chegg founder Osman Rashid. Oohlala also gained a board member from Macmillan’s M&A department — handy if you’re in the edtech space.
+A major part of the value the investors see, however, isn’t just in letting students interact with one another or check their schedule easily.
+“One of the biggest challenges in education is efficacy,” said Jameel. “Does your product actually tie into student outcomes?”
+Universities measure this in terms of engagement, retention, things like that. Oohlala did a study with a dean’s office, looking semester by semester at people using the app versus not using the app (with controls — I asked) and found that users of the app had significantly lower dropout rates.
+“We’re not saying that just because you use the app, you’re not going to leave,” Jameel said, “but we’re providing them with the tools and support they need. This generation is mobile first, that’s how they operate.”
+With little in the way of downsides (conceivably the university might be wary of engaging yet another third party to manage its students) and an execution that puts student welfare on equal footing with improved user experience and ease of adoption, Oohlala looks to have hit the nail on the head. This funding should help offer more students the modern, mobile-first university companion app they expect — and deserve.
+
+ADVERTISEMENT
+ADVERTISEMENT
+Crunchbase
+Y Combinator
+FOUNDED
+2005
+OVERVIEW
+Y Combinator is a startup accelerator based in Mountain View, CA. In 2005, Y Combinator developed a new model of startup funding. Twice a year they invest a small amount of money ($120K) in a large number of startups (most recently 68). The startups move to Silicon Valley for 3 months. The YC partners work closely with each company to get them into the best possible shape and refine their pitch …
+LOCATION
+Mountain View, CA
+CATEGORIES
+Finance, Venture Capital, Consulting
+WEBSITE
+http://www.ycombinator.com
+Full profile for Y Combinator
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Chan Zuckerberg Initiative Acquires Meta Search | Crunch Report
+Watch More Episodes

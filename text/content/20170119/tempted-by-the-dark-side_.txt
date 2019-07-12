@@ -1,0 +1,37 @@
+Hack
+hacking
+botnet
+Mirai
+Mirai botnet creator unmasked as DDOS protection developer tempted by the dark side
+Posted 4 hours ago by Devin Coldewey, Contributor
+
+Next Story
+Mirai, the botnet that subverted thousands of poorly secured internet of things devices and set them to work on denial of service attacks, has been revealed to be the creation of a young developer who found that the black hat fit better than the white.
+This long and fascinating investigation by Brian Krebs, the security researcher whose site was taken down by Mirai at its strongest, follows a seemingly endless series of breadcrumbs to identity the hacker known as Anna-senpai. If you’re interested at all in what goes into pinning down the author of cyber attacks such as this major DDOS system, it’s more than worth the time to read.
+But for those of you who just want to skip to the end, here’s the executive summary. Anna-senpai appears to be one of perhaps a dozen aliases for one Paras Jha, founder of DDOS protection service ProTraf. ProTraf was in fierce competition over the lucrative Minecraft server market, and seems to have resorted to underhanded tactics in order to drive customers away from other hosts.
+Part of Krebs’ investigative documents, a tangled web of interconnected online identities.
+Several ProTraf employees — perhaps all of them, in fact — seem in various online conversations indirectly attributable to them to threaten, create, and execute DDOS attacks on competitors and for hire — $100 in bitcoin for every five minutes of attack time.
+Related Articles
+The Mirai botnet’s internet takedown opens up a new market for attackers and defenders
+Hackers release source code for a powerful DDoS app called Mirai
+This security camera was infected by malware 98 seconds after it was plugged in
+Jha looks to have been undone by the compulsive need of hackers operating in the shadows to claim credit for their work. Various personas linked to Jha and his colleagues take responsibility for numerous attacks, the creation of the Mirai code, and extorting service providers worldwide.
+Slips here and there (identical coding skills between two online identities, for instance, or an attack utilizing data only certain people could know) allowed the dots to be connected by Krebs, who understandably took the September takedown of his own site as something of a personal affront.
+I’ve asked Krebs for a bit more detail on what’s next in the investigation and will update this post if I hear back.
+FEATURED IMAGE: BRYCE DURBIN/TECHCRUNCH
+
+ADVERTISEMENT
+ADVERTISEMENT
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Chelsea Manning to Be Freed in May | Crunch Report
+Watch More Episodes

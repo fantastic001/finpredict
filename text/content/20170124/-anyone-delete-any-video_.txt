@@ -1,0 +1,32 @@
+Facebook bug would’ve let anyone delete any video
+Posted 7 hours ago by Greg Kumparak (@grg)
+
+Next Story
+Welcome to another episode of “Bug Bounties Work and Are Good!”.
+Remember that bug from a while back that would’ve let anyone delete your Facebook photos? Turns out a similar bug was lurking for videos.
+Security researcher Dan Melamed discovered the now-fixed bug lurking in the way Facebook was handling videos attached to events, and walked away with a cool ten grand for his discovery.
+The short version of how things would go down:
+The would-be deleter creates a Facebook event
+They would then go that event’s page and start to upload a video
+As the video upload is finishing, they’d use a browser tool like Fiddler to modify the request — specifically, they’d swap out the Video ID of their just-uploaded video with the one they want to hijack and delete, then send the request on its way.
+Once the modified request goes through, they’d just hit the “Delete Post” button on the resulting event post — and tada! Both their event post and the original video would be deleted.
+It’s a relatively simple bug — but, with a codebase as big and complicated as Facebook’s, it’s exactly the kind of bug that can go unnoticed for ages, and the kind of bug that bounty programs can help unearth before too much damage is done. Dig this kind of stuff? Check out Kate Conger’s dive into how the Department of Defense is embracing bug bounty programs.
+The same bug would’ve let the ne’er-do-well quietly switch off a video’s comments, leaving the uploader wondering why the heck things suddenly went silent.
+Before you panic and start endlessly refreshing your videos to make sure they’re all still there: this bug has been fixed. Melamed says he reported the bug in June 29th of 2016, and Facebook had paid him a $10,000 bounty just a few weeks later. Facebook confirmed to me that this bug was fixed in July.
+[Via Gizmodo]
+
+ADVERTISEMENT
+ADVERTISEMENT
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Sprint Takes 33% Stake in Tidal | Crunch Report
+Watch More Episodes

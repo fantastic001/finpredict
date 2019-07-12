@@ -1,0 +1,48 @@
+Automotive
+Chevrolet
+electric vehicle
+automotive industry
+transport
+Here’s how Chevrolet built a practical electric vehicle with the 2017 Bolt EV
+Posted 1 hour ago by Darrell Etherington (@etherington)
+
+Next Story
+Chevrolet said it was going to bring an affordable, long-range electric vehicle to market – and it did, with the 2017 Bolt EV. I visited Palo Alto to find out more about the Bolt EV, and the tech behind it, speaking to the car’s lead engineers and designers.
+The Bolt itself was present, too, of course, an impressive car currently shipping to customers that offers an equally impressive drive (more on that in a forthcoming post). Also strangely present in absentia was Tesla, which is the company that has yet to make good on a similar promise to deliver affordability and range in an EV package.
+Chevrolet was quick to point out than in Canada at least, it’s outselling Tesla two to one when it comes to electrified vehicles, before the Volt has even launched. That’s if you count the Volt, Chevy’s hybrid electric with a 53-mile pure electric range and gas-powered extend range of 420 miles total. “We are the leader in the electrification of vehicles,” a spokesperson told a room of journalists at the Bolt first drive event.
+The Bolt EV does feel like a vehicle capable of leading the industry; the car’s 238-mile range from its 60 kWh battery is better than the 210 mile EPA rating on Tesla’s 60 kWh Model S (though the 75, 90 and 100 kWh options all offer better estimates than the Bolt), and it costs less than half the price of the lowest-specced Tesla. So how did Chevrolet get here?
+The Bolt EV is the product of a lengthy design process that involved Chevrolet rethinking car construction and power supply from the ground up, according to Bolt Vehicle Chief Engineer Mike Lelli. He walked us through the car’s use of materials, which balances structural rigidity where it needs it most, with flexibility and weight savings where it can afford it, to help maximize interior space without compromising on battery mileage.
+That battery is also uniquely designed, with continuous rectilinear shape that undergirds the vehicle, making it possible to have a low, flat continues floor throughout the car while distributing battery weight evenly and helping create a low center of gravity.
+Lelli says that all the hard word that went into designing the Bolt EV as a vehicle tailor-made for balancing range and comfort has paid off, and the evidence is the shipping car itself, which manages to sneak under the $30,000 threshold in the U.S. with incentives (and only just exceeds $30,000 in my home province of Ontario after credits and incentives).
+The motor, too, is an exercise in elegant simplicity. It actually only has one physically engaged “gear,” so to speak: Park. There’s a latch that will ensure it can’t move when in park, but otherwise speed is adjusted by changing the rotational velocity of the axle within the motor.
+Here’s the thing: Chevrolet has succeeded at its initial goal, but the Bolt EV is still going to face a big test in terms of its ability to appeal to general consumers. Other automakers will be watching closely to see if the Bolt does well, and that’ll inform their own decisions to pursue a similar path twitch models of their own. GM, too, will likely change its strategy regarding EVs considerably depending on the outcome of the bolt.
+Leaving aside the tech within, and the stakes, however, Bolt is also just a fun car to drive: Stay tuned for a deeper drive into how it performs in practice coming up shortly on TechCrunch.
+
+ADVERTISEMENT
+ADVERTISEMENT
+Crunchbase
+Chevrolet
+FOUNDED
+1911
+OVERVIEW
+Chevrolet is leading the way with the most vehicles in its line up offering the available built-in OnStar 4G LTE Wi-Fi hotspot, allowing passengers the ability to seamlessly connect their smart devices and vehicles to the internet. The available OnStar 4G LTE Wi-Fi hotspot provides a better in-vehicle experience than your smartphone. The stronger signal delivers a fast, reliable connection. It’s …
+LOCATION
+Detroit, MI
+CATEGORIES
+Recreational Vehicles, Car Sharing, Automotive
+WEBSITE
+http://www.chevrolet.com
+Full profile for Chevrolet
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Sprint Takes 33% Stake in Tidal | Crunch Report
+Watch More Episodes

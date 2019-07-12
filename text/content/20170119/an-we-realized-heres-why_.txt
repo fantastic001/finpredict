@@ -1,0 +1,34 @@
+Facebook agreed to pay a lot more for Oculus than we realized; here’s why
+Posted 6 hours ago by Connie Loizos (@cookie)
+
+Next Story
+Facebook CEO Mark Zuckerberg testified in a Dallas court yesterday as part of a lawsuit claiming that Oculus VR, the startup Facebook acquired for roughly $2 billion, was based on stolen technology. Unsurprisingly, Zuckerberg defended Oculus and in the process revealed a number of new details about the negotiations involved in purchasing the company. Among them: that Facebook agreed to pay $700 million in employee retention bonuses for “key people.”
+It was news to the rest of us. When Facebook announced the deal back in 2014, it said it was paying a “total of approximately” $2 billion, including $400 million in cash and 23.1 million shares of Facebook. It said the agreement “also provides for an additional $300 million earn-out in cash and stock” based on Oculus meeting certain milestones. It said bupkis about that extra $700 million in retention bonuses.
+Was its own release “fake news?” It’s known that the actual price paid for a company and what the public sees in headlines is rarely the same, owing to factors like the fluctuating value of an acquirer’s stock. But a $700 million difference? Isn’t that notable?
+Actually, no, said some bankers, lawyers and analysts with whom we spoke yesterday. Here’s why. That original press release from Facebook addressed the price paid for Oculus to its former owners (including its founders, Andreessen Horowitz, Matrix Partners, and Spark Capital, among others). That’s the $2 billion, plus that $300 million earn-out component.
+Meanwhile, the $700 million that Zuckerberg referenced yesterday takes into account the ongoing costs following the close of the deal. Those costs — in the form of performance incentives — aren’t typically considered in the purchase price as they’re paid out over time, says Lori Smith, co-chair of the corporate and securities group at White and Williams in New York.
+“I don’t know the terms of the employment agreements” in this case, Smith says. But such employee incentives are “not typically considered [in the] purchase price, as [they are] paid over time for services to be provided to the buyer by those employees.”
+In short, the new employees have to work for that money.
+Tom Peters, cofounder of the San Francisco-based investment bank Inverness Advisors, largely agrees with Smith. As a former managing director at Montgomery & Co.,  Peters worked on the sale of MySpace to News Corp. in 2005, and says that while the deal is referred to this day as costing $580 million, it was really $630 million by the time every i was dotted and t was crossed. “The devil is always in the details,” he says.
+When it comes to this particular disparity, while it may seem “shockingly big,” he says the money that was set aside for compensation to certain Oculus employees for continuing to work at Facebook must have been separated out from purchase price, which is a “not uncommon” practice, he says. “It’s often viewed as in a different category, including because of accounting guidelines that tell you to account for things in different ways.” (He notes, for example, that tax treatments and tax consequences differ when it comes to purchase prices versus compensation.)
+In the end, “it was a judgement call,” says a San Francisco-based investment banker who asked not to be named. “Certainly, Facebook could have mentioned the possibility of additional payments at the time of the acquisition. Then again, does it want to be known for paying big retention bonuses and earn-outs? You can see the case [for leaving out that information].”
+“There’s no good reason for Facebook to lie,” adds Brian Wieser, an analyst with Pivotal Research. “It certainly earned the right to do things like [acquire Oculus].” The simplest explanation for not disclosing that $700 million in retention bonuses sooner, he says, is “the scenario they wanted to present to investors is that in the worst case, we’ve thrown away $2 billion.”
+Either way, it remains fascinating how much Facebook was willing to pay for Oculus, which has now provided between a 35x to 150x return to its shareholders depending on how long they’ve held on to their Facebook shares since. So says renowned L.A. banker and investor Jamie Montgomery, who was himself an Oculus shareholder before it was acquired.
+It might prove worth it, too, though its technology clearly won’t benefit Facebook as quickly as Facebook had once hoped. As Zuckerberg reportedly testified yesterday, “I don’t think that good virtual reality is fully there yet. It’s going to take five or 10 more years of development before we get to where we all want to go.”
+FEATURED IMAGE: FLICKR UNDER A CC BY 2.0 LICENSE
+
+ADVERTISEMENT
+ADVERTISEMENT
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Chelsea Manning to Be Freed in May | Crunch Report
+Watch More Episodes

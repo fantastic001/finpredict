@@ -1,0 +1,27 @@
+Baidu opens augmented reality lab, begins integrating AR into search
+Posted 3 hours ago by Lucas Matney (@lucas_matney)
+
+Next Story
+Chinese search giant Baidu is looking to further entrench itself in the world of augmented reality, announcing today that it is establishing an AR lab to research and build experiences that more tightly integrate the digital experiences we have on our devices with the world around us.
+The institution is the fourth such lab to be established under the Baidu Research division, joining the company’s Big Data Lab, Silicon Valley Lab and the Institute of Deep Learning, which the AR Lab is spinning out from. In September, the company unveiled a $200 million venture fund focused on making investments in companies focusing on artificial intelligence and augmented reality.
+The company launched its AR platform “DuSee” in August allowing users to view AR animations overlaid on real world environments. Since the platform was launched, Baidu has worked with companies like L’Oreal China, Lancôme and Mercedes-Benz to create customized AR experiences inside the search company’s central app.
+Baidu is already shipping AR experiences inside Mobile Baidu, Baidu Maps and its local services app, Baidu Nuomi. The AR features are growing increasingly visible to the more than 1 billion monthly users of these supported apps. In the Mobile Baidu app, for instance, when a user enters a search query, AR effects related to the keywords will appear onscreen. 
+While many companies in the augmented reality space are focusing their efforts on head-mounted systems like Microsoft’s HoloLens, Baidu is focusing solely on smartphone-based AR, something that makes a lot of sense given how far many of these smart glasses solutions seem from achieving mainstream adoption.
+Google launched its Tango smartphone AR system this past November, which equips select handsets with camera setups that allow detailed depth sensitivity which accurately survey user environments and produce overlays that are mapped to real world surfaces. Right now Baidu is focusing on grabbing the larger piece of the pie and is building their system to work with standard smartphone cameras, producing less impressive animations but ones that are ultimately more accessible.
+“AR allows us to synthesize the virtual world with the real world, and will transform how all of us perceive our surroundings.” said Zhongqin Wu, who is heading up the new lab. “We’ve already seen rapid growth in AR marketing, and expect other industries to follow.”
+
+ADVERTISEMENT
+ADVERTISEMENT
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Nintendo Switch Hits the Market on March 3 | Crunch Report
+Watch More Episodes

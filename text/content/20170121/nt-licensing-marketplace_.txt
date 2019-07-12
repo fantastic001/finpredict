@@ -1,0 +1,73 @@
+Artificial Intelligence
+licensing
+Lobster
+user generated content
+UGC
+Lobster nets £1M to scale its user-generated content licensing marketplace
+Posted 2 hours ago by Natasha Lomas (@riptari)
+
+Next Story
+U.K. startup Lobster is gearing up to scale its user-generated content licensing marketplace, as it closes a £1 million Series A. It’s expecting to have closed out the round next week, with 85 percent of the funding committed at this point and only its decision on the last few investors outstanding.
+Committed investors include KL10CH (aka “The Key”), a tech hub co-working space in Moscow, Russia where the startup’s dev team is currently based; and Nikolay Katorzhnov, the former CEO of Otkritie Capital, who is contributing £500,000; along with various other unnamed investors making smaller contributions. The remaining 20 percent of the round will be derived from U.K. and international angels, and follow-ons from investors in previous rounds.
+The London-based startup, which was one of the 2014 battlefield finalists at TechCrunch Disrupt Europe, has previously raised around $700,000 in seed funding, including from Wayra UK, U.K. angels and via a crowdfunding route.
+It’s built a licensing platform with the pitch to its target brands/ad agency customers being to simplify legal use of user-generated content in their marketing materials — by offering a low-friction way for them to locate and license the more authentic visuals being shared on social media platforms (versus using tired stock photography). The business model is a subscription, with various tiers offered, including a month free trial as a taster.
+For social media users — aka Lobster’s content contributors — the carrot is the chance to earn a little money on the side from their normal social media activity.
+Co-founder and CEO Olga Egorsheva says the Series A will be going toward expanding boots on the ground in other countries to drive marketing and partnership efforts overseas, with new offices planned for the U.S. and Asia. It will also be focusing resources on AI-powered search, which it launched last year, aiming to enhance content-ranking and show its customers more relevant content.
+“This is really the next step for us. It’s really that moment where we start scaling not only the contributor usage but the customer usage — and we need to put some money in, some fuel in, to really make it take off in the key markets,” she tells TechCrunch.
+“We have customers in the U.S., we have a few users in the U.S. and all over the world but we want to market more intensively in the U.S. — to businesses, to different agencies and media creatives, and through API integrations.”
+Lobster also launched its first API integration last week, with U.K. website builder Moonfruit, but is aiming to ramp up on this front too — targeting 10 more such integrations in Q1-Q2 — including talking to Adobe in the hopes of being able to plug Lobster into Photoshop in the future.
+On the content front, it currently supports integrations with Instagram, Flickr, Facebook, Vk, YouTube and Vimeo, as well as allowing users to make content available for licensing purposes via cloud storage providers such as Dropbox and Verizon Cloud.
+Users can choose to sync all their content automatically, or select specific photos and videos — or a particular folder — for licensing via Lobster. The platform then indexes the metadata to power its search function, pulling in info such as hashtags, geolocation, titles, resolutions and so on. Egorsheva says their tech will also automatically pull any new metadata that’s added to content in the future, meaning users don’t have to manually update any synced content.
+Lobster’s AI will also auto tag images to improve the quality of content tagging, as well as supporting other more powerful search features — such as the ability to filter content based on a particular color palette (i.e. to match brand livery), or to upload a photo to view similar images in search results.
+The AI can also identify faces, so customers can filter for images with or without people, for example, and perform even more specific searches, such as for different genders, ethnicities, ages and facial/emotional expressions.
+The AI-powered search also works for video content, though this is one of the areas Lobster is looking to enhance with the new funding — ideally by partnering with an AI-focused startup that has built dedicated video search tech.
+“Part of [our current] AI is based on Stanford’s technology which our tech team has adjusted to serve the social media field, and the database of social media that we have. The way forward as I see it is more in collaborating with industry players in AI,” says Egorsheva.
+Lobster now has around 17,000 people actively signed up to license their content from sites such as Instagram, Facebook, Flickr and YouTube, creating a pool of more than five million pieces of content that its customers can browse, search and license.
+The platform is not strictly limited to this opt-in pool, though, as it also (at higher pricing tiers) offers a route for brands to reach out to any public user of the various social media platforms it supports to ask them to license specific content — expanding its potential reach to some 30-40 billion photos and videos.
+It uses standard, non-exclusive agreements for the content it licenses, in order to — she says — keep things simple, though it has manually agreed to a handful of exclusive licenses, and Egorsheva adds it may look to include an option for that in the future if demand grows.
+Pricing for content is automated by the platform, based on factors such as the source, resolution and whether the image has already been featured somewhere or not. And there are two standard types of licenses: one for content that gets less than one million views/plays; and an extended (and more expensive) license if content garners more eyeballs.
+Lobster takes a 25 percent cut of any licensing revenue — passing 75 percent to the content creator. Payouts to users are done via PayPal.
+Another aspect of UGC licensing that the platform simplifies is around model release (i.e. getting consent for anyone in the photos to their image being licensed for commercial use). Instead of requiring paper or PDF forms to be signed and collected by the content creator, it lets users share a link with their Facebook friends to authorize the usage of their image.
+Its overall approach — of being an aggregator and enabler, rather than trying to command a content repository of its own — is its “strategic advantage,” reckons Egorsheva.
+“Instead of creating another place where you would go and have to upload posts again we’re trying to uncover all that multitude of content that people already create,” she says.
+“It also allows us as a platform to scale infinitely, almost,” she adds. “Because we don’t store those images — we pull the data, save the data and our search algorithm works with the data.”
+She also claims social platforms like the approach as it does not seek to draw their users’ activity elsewhere, and might even help them sustain users’ interest in posting to the social platforms if they are getting some financial recompense from their activity, too.
+“I’ve been offering revenue shares many times but the social networks and the clouds say that the engagement that they get — or envision to get — out of it is much more valuable for them.”
+At this point Lobster has around 30 customers, with clients including the likes of Hills Pets, Colgate Palmolive and their agency Red Fuse/WPP. (As you can imagine, Hills Pets was looking for cute photos of dogs.)
+And while it’s currently focused on licensing visual content, Egorsheva says it could look to move into other areas in the future — such as licensing user-generated music, via a platform like SoundCloud.
+How much can content contributors make from licensing their stuff? It sounds as if it’s most likely to be beer money (at least to social media users in the West), though Egorsheva says a user whose content style attracts the attention of an agency might be able to make a few hundred pounds (versus “a few pounds or tens of pounds” for others).
+Still, Lobster is intended to be “passive work,” given it’s piggybacking on content a person would probably be uploading anyway — so its real lure is the chance of “free money,” at least for anyone actively uploading multimedia content to social media.
+“It’s a good incentive that, by just connecting your accounts, and continuing to post as you usually do organically, you can earn for an extra cup of coffee or a beer,” argues Egorsheva.
+“What we see in developed countries, in Europe and the U.S., is that the bigger incentive is getting noticed and getting into some agency’s campaign and supporting the culture of not stealing or screenshotting images — but legally getting permission,” she adds.
+‘”It’s very different for users in, for example, India or Eastern Europe, because for them this money naturally is a bigger deal… So in them we see they are stimulated by earnings as well.”
+
+ADVERTISEMENT
+ADVERTISEMENT
+Crunchbase
+Lobster
+FOUNDED
+2013
+OVERVIEW
+Lobster is a user content marketplace to buy/license photos from Instagram, Flickr, audio, videos, and text. It is a marketplace for digital content created by social media users. It’s an ‘iTunes store’ for user- generated content. They believe that user generated content deserves to be treated in the same way as professional product, service or work of art. Their purpose is to build the platform …
+LOCATION
+London, H9
+CATEGORIES
+Crowdsourcing, Marketplace, Content Syndication
+FOUNDERS
+Maria Iontseva, Andrey Dmitriev, Olga Egorsheva
+WEBSITE
+http://lobster.media
+Full profile for Lobster
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Zoom CEO Eric Yuan Raised $100 Millon | Crunch Report
+Watch More Episodes

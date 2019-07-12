@@ -1,0 +1,32 @@
+Weekly Roundup: AppDynamics sells to Cisco ahead of IPO, CZI buys Meta
+Posted 4 hours ago by Anna Escher (@annaescher)
+
+Next Story
+This week saw numerous acquisitions, three major tech lawsuits and government agencies going rogue on Twitter. These are the biggest stories to catch you up on this week’s tech news.
+1. AppDynamics, which helps companies monitor application performance, was supposed to go public this week. But the IPO was called off in favor of a giant $3.7 billion acquisition from Cisco. The IPO would have valued AppDynamics at around $2 billion. While the acquisition was part of Cisco’s long-term focus on cloud software, at its core, the deal was actually a data play.
+2. Mark Zuckerberg and Priscilla Chan’s $45 billion philanthropy organization made its first acquisition. The Chan Zuckerberg Initiative bought up Meta, an AI-powered research search engine. Meta’s AI recognizes authors and citations between papers so it can surface the most important research instead of just what has the best SEO. It also provides free full-text access to 18,000 journals and literature sources.
+3. Donald Trump finished his first week as the president of the United States. Minutes after the inauguration, pages related to LGBT rights and all mentions of climate change were removed from the WhiteHouse.gov site. He signed an executive order that could jeopardize a six-month-old data transfer framework enabling EU citizens’ personal data to flow to the U.S. for processing.
+4. President Trump’s Twitter presence is like none other, but his behavior on the social network may prove riskier than initially expected. In addition to the unsecured Android phone he is still reportedly using to access his account, the typos, defamation and informal management of @realDonaldTrump make him an even larger target for hackers.
+5. The current administration’s efforts to censor science have already begun. A day after Trump’s inauguration, the National Park Service retweeted pictures of the crowd size at the event. This didn’t sit well with Trump, who reportedly demanded that all National Park bureaus stop tweeting altogether.
+6. Apple doesn’t do lawsuits lightly. Hot on the heels of a billion-dollar royalty suit against Qualcomm in the U.S., it’s taking the San Diego-based chipmaker to intellectual property court in Beijing.
+7. The lawsuit threatening the future of Facebook’s Oculus VR may have just gotten a lot more expensive. The case claims that Oculus VR stole core VR tech from a ZeniMax Media subsidiary. ZeniMax Media asked the jury to rule against Oculus VR and award $2 billion in compensation, as well as another $2 billion in punitive damages.
+8. Tesla has sued the former director of its Autopilot programs, Sterling Anderson. The suit alleges that Anderson tried to poach employees with the intent of starting his own autonomous driving company called Aurora, and of stealing proprietary information from Tesla.
+9. Airbnb may be about to acquire payments startup Tilt. The move makes sense, given Airbnb’s recent expansion into experiences. Acquiring Tilt would give Airbnb a leg up in the payments space, specifically payments around social gatherings and events.
+10. Alphabet reported mixed earnings for its fourth quarter, and it’s clear that the company’s bets like Play, Google Cloud and its hardware division beyond search are paying off. Microsoft also revealed financials. The company’s growth was led by its Office and cloud segments, which the company is betting on to fuel growth in the future. Verizon (which owns AOL which owns TechCrunch) fell short of analyst expectations and PayPal continued to see strong revenue growth through its Q4.
+11. Facebook launched yet another Snapchat clone called Facebook Stories in Ireland on iOS and Android, with plans to bring it to more countries in the coming months. The feature will sit right above the News Feed. The big question here is how Facebook will display this on desktop.
+
+ADVERTISEMENT
+ADVERTISEMENT
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+AppDynamics CEO Talks Cisco Acquisition | Crunch Report
+Watch More Episodes

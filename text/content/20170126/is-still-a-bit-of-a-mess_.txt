@@ -1,0 +1,49 @@
+Oculus
+Oculus room-scale VR tracking is still a bit of a mess
+Posted 51 minutes ago by Lucas Matney (@lucas_matney)
+
+Next Story
+When it comes to VR, a system is only as good as your tracking setup.
+A chief complaint for many regarding current high-end VR systems is that they’re just too damn complicated. When the HTC Vive came out in April, nearly everyone complained about the complexity of setting up the SteamVR sensors to track your movement. The sensor boxes had to be plugged into outlets and you needed to mount them high-up in the corners of your room. The criticisms were valid, when setting up hardware requires power tools something is probably amiss.
+At the time, Oculus’s solution seemed perfect. Its single sensor, which you just plopped down on your desk was dead simple and took care of tracking the headset. Things progressed smoothly until users realized how freeing room-scale was on the Vive. Eventually, the more hardcore users began demanding better tracked 360-degree environments for the Rift, especially when the Touch motion controllers were finally launched this past December.
+Alongside the launch, Oculus debuted something not many developers expected: officially supported room-scale tracking. While it was still billed as “experimental,” the feature gave users the option to purchase a third sensor for $79 and add more coverage to their VR play area.
+Here’s the thing, while two SteamVR sensors for the HTC Vive can deliver a tracked play space of up to 225 square feet, with two Constellation sensor cameras from Oculus, users are prompted to keep play spaces around 25 square feet; add a third camera and the recommended space goes up to 64 square feet.
+This has left users trying to stretch the boundaries, something that doesn’t work well for a setup that is still rather buggy to begin with. In the past few weeks, the amount of room-scale tracking issues encountered by Rift users has been pretty visible and the amount of assistance they’ve received in from Oculus in terms of troubleshooting has been insufficient. Today, the company began a four-part series in how to optimize the Rift sensor system for room-scale tracking and it’s still a little confusing.
+Here, go set up your sensors with these simple instructions (which I assume are also used to summon a demagorgan).
+What’s clear is that Oculus’s Constellation tracking system was never really meant to do room-scale simply. The company still wants all of its titles optimized for 180-degree two sensor setups, but the deeper experiences on the HTC Vive that developers are designing for don’t always translate well to the Rift and Oculus seems to be realizing that they can’t hide behind the “experimental” tag for long.
+What Oculus seems to be finding works best in terms of sensor setup is exactly what Valve recommended for the HTC Vive SteamVR sensors in the first place, mounting the sensors in the corners of a room pointed towards the center of the play space. While this delivers the best theoretical coverage, Oculus wants to keep things simple so they recommend keeping two of the sensors on a desk in front of the play space. This has its own problems as you really have to be a few feet away from the sensors to have your full body tracked.
+LeastConfusingInfographicEver.jpg
+Ultimately, all of this info serves another point to HTC and Valve for a tracking system that you can forget about once in place. Oculus had months worth of delays for the Touch controllers following the Rift’s launch, during which time they could have worked on streamlining some of these tracking issues, something they obviously did not do.
+There is supposedly an update in the works for some of the tracking issues that have been plaguing users, which is great to see, but for users like myself who have spent hours stuck between setup screens, it would have been nice to see Touch ship with a more consumer-ready solution that didn’t need a series of four blog posts to interpret. These sketch-up designs will help the people browsing subreddits for more info but like won’t help the average user that was hoping for a plug-and-play fix for improving the experience on their expensive VR rig.
+Constellation tracking really does not seem designed to scale well beyond two-sensor setups and if Oculus is truly looking to make ‘Santa Cruz’ its next release a couple years down the road, then being rid of this sensor setup in favor of a wireless inside-out setup will be a blessing to all users.
+
+ADVERTISEMENT
+ADVERTISEMENT
+Crunchbase
+Oculus
+FOUNDED
+2012
+OVERVIEW
+Oculus is enabling the world to experience anything, anywhere, with anyone through the power of virtual reality. The Oculus platform powers Rift and Samsung's Gear VR.
+LOCATION
+Menlo Park, CA
+CATEGORIES
+Consumer Electronics, Hardware, Software, Video Games, Virtualization, Virtual Reality
+FOUNDERS
+Nate Mitchell
+WEBSITE
+http://www.oculus.com
+Full profile for Oculus
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Chan Zuckerberg Initiative Acquires Meta Search | Crunch Report
+Watch More Episodes

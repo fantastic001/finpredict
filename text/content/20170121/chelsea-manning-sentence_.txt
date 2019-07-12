@@ -1,0 +1,35 @@
+Weekly Roundup: Zuckerberg defends Oculus in court, Obama commutes Chelsea Manning sentence
+Posted 4 hours ago by Anna Escher (@annaescher)
+
+Next Story
+President Trump is officially the 45th president of the United States. Minutes after the inauguration, the White House’s LGBT rights page disappeared, as well as any mention of the terms “climate change” and “global warming.” The @POTUS Twitter account has been handed over to Trump and the first thing he tweeted was a Facebook link.
+Tech politics aside, protests at Palantir over a supposed Muslim registry list occurred, Google acquired Fabric away from Twitter and Mark Zuckerberg appeared in a Dallas courtroom in defense of Oculus in an explosive $2 billion lawsuit. These are the most impactful tech stories of the week.
+1) Mark Zuckerberg suited up for court this week as he testified in a $2 billion Oculus lawsuit. The claim is that Oculus was built upon technology stolen from ZeniMax Media. The court analyzed the help that Oculus founder Palmer Luckey sought from the employee of ZeniMax-owned games company id Software, John Carmack, when he was building his initial VR headset product. The Facebook CEO remained defiant of the claims, telling the court that “Oculus products are based on Oculus technology.” Throughout the case, a few new details about the Facebook/Oculus deal were revealed. Among them, Facebook agreed to pay $700 million in employee retention bonuses for key people.
+2) Twitter is trying to slim down. Google has acquired the Fabric developer platform and team from the struggling social network platform this week. Twitter cutting non-essentials could be indicative of another attempt to prime itself for acquisition. Google will continue to operate Fabric and its tools.
+3) Former President Obama reduced the 35-year sentence of Chelsea Manning, the former Army intelligence analyst and whistleblower, which will see her freed in May of this year. Manning, a transgender woman, has twice attempted suicide during her incarceration in an all-male military prison.
+4) Facebook COO Sheryl Sandberg announced that Facebook will be one of Station F’s launch partners. Station F, based in Paris, is best known as the world’s biggest startup campus. Facebook will work with 10-15 startups in weekly workshops, and possibly scout potential acquisitions.
+5) Full findings on the investigation of last year’s fatal crash involving Tesla’s Autopilot feature were released by the U.S. National Highway Traffic Safety Administration. The report clears Tesla of fault and in fact praises the Autopilot safety system for a 40 percent crash-rate reduction.
+6) The French government is making moves to foster French startups. France has created a special visa for entrepreneurs, engineers and investors. Called the French Tech Visa, essentially it’s an easier way to get a four-year visa for yourself and your family.
+7) Forward, a futuristic new medical startup from former Googler and Wavii founder Adrian Aoun launched this week in San Francisco. Forward offers a brand new office with six exam rooms, the latest medical instruments and an onsite lab. The tech is backed by a proprietary AI meant to help doctors source medical backgrounds and patient heath data.
+8) Amid fears about political hacking and in the face of an uncertain Trump administration, the Army needs hackers on its side more than ever. Hack The Army is the Army’s first-ever bug bounty program, inviting security researchers to expose vulnerabilities.
+9) A breakthrough has occurred at the Allen Institute for AI, with a tech called XNOR.ai. Researchers are saying it has the potential to be transformative for the artificial intelligence industry. The tech is a bit of clever computer-native math that enables AI-like models for vision and speech recognition to run practically anywhere. You could also say it frees AI from the prison of the supercomputer. 
+10) A group of security researchers, including academic Zeynep Tufekci, have co-signed an open letter calling for the Guardian to retract a story it published claiming that WhatsApp contains a backdoor. WhatsApp also rejected the claim as false when contacted for comment last week, saying: “WhatsApp does not give governments a “backdoor” into its systems and would fight any government request to create a backdoor. The design decision referenced in the Guardian story prevents millions of messages from being lost, and WhatsApp offers people security notifications to alert them to potential security risks.” The Guardian stands by its reporting.
+11) Tech employees organized a protest at Palantir HQ in Palo Alto over fears it will build Trump’s Muslim registry. The 50 or so people from the tech community demanded the data mining startup take a firm stance against the makings of a Muslim registry. Concerns come from the notion that Palantir and its co-founder and Trump advisor Peter Thiel could profit off the makings of such a citizen database that could be used against those identified as followers of Islam in the U.S.
+12) Uber has brought on a high-profile hire. Amit Singhal, the former SVP of Search at Google and employee 176 at the search giant, will now serve as Uber’s new SVP of Engineering. Singhal will be heading up the Maps and Marketplace departments at Uber, while also advising CEO Travis Kalanick and Uber VP of Engineering Anthony Levandowski on their efforts to build out the company’s self-driving tech.
+FEATURED IMAGE: ALEX WONG/GETTY IMAGES
+
+ADVERTISEMENT
+ADVERTISEMENT
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Zoom CEO Eric Yuan Raised $100 Millon | Crunch Report
+Watch More Episodes

@@ -1,0 +1,45 @@
+Space
+SpaceX
+satellite internet
+SpaceX hopes satellite internet business will pad thin rocket launch margins
+Posted 4 hours ago by Darrell Etherington (@etherington)
+
+Next Story
+SpaceX is in the business of launching rockets, but it will look to supplement that business through other revenue opportunities; specifically, it anticipates a global satellite internet business will drive as much as $30 billion in revenue per year by 2025. That’s an ambitious target, but financials analyzed by The Wall Street Journal for the private company suggest that it’s a key ingredient to help SpaceX shore up thin margins in its rocket launch device.
+Those margins are feeling pressure from the pre-launch explosion of a Falcon 9 rocket on a launchpad in September, 2016. That explosion not only destroyed a functional Falcon 9, but also a payload containing Facebook’s $200 million satellite. SpaceX was already launching rockets at a fraction of the price of its competitors, which is why it’s been able to build up a $10 billion contract buffer in terms of scheduled future launches — but in doing so, it’s cutting pretty close to the quick in terms of profit potential.
+That explosion also led to a four-month stoppage of any launches, which, given SpaceX’s aggressive pace for sending things into space, has had a significant impact on its ability to make good on existing contracts and recoup revenue. And this follows a 2015 mid-flight explosion, which led to a  roughly $260 million loss for that year, and a 6 percent overall drop in revenue, after small operating profits recorded in both 2013 and 2014. In 2016, it launched only eight rockets, versus its projected 20, which is bound to have a significant impact on its revenue for this most recent full calendar year, too.
+SpaceX’s $60 million average launch cost is key to its ability to continue to land contracts and attract customers, and it’s also key to its larger goal of reaching Mars by 2024. That will require further cost reductions, which SpaceX hopes to achieve by reusing its rocket components and improving its manufacturing processes. But 2016 has definitely been a financial challenge, and it’s unlikely the company hit its forecasts of $1.8 billion in revenue, and $55 million in operating profit, thanks to setbacks.
+The plan the company has developed for launching satellite-based internet was revealed in more detail when SpaceX filed an application with the FCC to deploy 4,425 satellites in order to provide high-speed internet access world-wide. Each satellite is roughly the size of a sub-compact car. When completed, the network should be able to provide speeds of around 1 Gbps for subscribers on the ground, which is around the speed of current gigabit fiber optic networks, and much faster than most users with cable connections enjoy today.
+SpaceX received a $1 billion investment from Google and Fidelity in 2015, and Alphabet also recently shut down its own Titan drone-based global internet deployment project, so the backing of Musk’s plan might actually grow now that the Google parent is looking beyond its own drone project for ways to accomplish its goals of opening up global internet accessibility more broadly.
+Still, SpaceX’s financials, as revealed by The Wall Street Journal’s rare backstage look, place a lot of faith in the ability of this global internet service to not only be up and running by 2018, but to create a lot of profit only a few years after that. A lot is riding on the company’s planned return to active launch status on Saturday, but this puts those stakes in even starker relief.
+
+ADVERTISEMENT
+ADVERTISEMENT
+Crunchbase
+SpaceX
+FOUNDED
+2002
+OVERVIEW
+Space Exploration Technologies Corporation (SpaceX) is a space-transportation startup company founded by Elon Musk. It is developing the partially reusable launch vehicles Falcon 1 and Falcon 9. Originally based in El Segundo, SpaceX now operates out of Hawthorne, California, USA. SpaceX was founded in June 2002 by Musk who had invested $100 million of his own money in the company as of March 2006. …
+LOCATION
+Hawthorne, CA
+CATEGORIES
+Aerospace, Transportation, Space Travel
+FOUNDERS
+Elon Musk
+WEBSITE
+http://www.spacex.com
+Full profile for SpaceX
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Fitbit Acquires Vector Smartwatch | Crunch Report
+Watch More Episodes

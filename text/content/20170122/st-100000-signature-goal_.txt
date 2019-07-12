@@ -1,0 +1,32 @@
+govtech
+taxes
+Whitehouse.gov petition seeking Trump tax returns flies past 100,000 signature goal
+Posted 4 hours ago by Lora Kolodny (@lorakolodny)
+
+Next Story
+A Whitehouse.gov petition calling for President Donald Trump to immediately release his tax returns has surpassed the 100,000-signature threshold in under a day, garnering a Whitehouse response.
+It’s not clear that the current administration intends to follow the practice established under Former President Barack Obama, of accepting petitions online, reviewing and responding to them should they reach a threshold of 100,000 signatures and meet other terms and conditions. TechCrunch has reached out to the Whitehouse seeking information about any planned changes to the handling of petitions by the Trump administration.
+The petition page on Whitehouse.gov was created under the Obama administration. It survived the transition from the Obama to the Trump administration, unlike webpages showing presidential support for US military families, the LGBT community and problem solving around climate change.
+Entrepreneur and diversity advocate, Anil Dash, currently the CEO of Fog Creek Software, authored and promoted the petition across social media on the afternoon of Trump’s inauguration ceremony, Friday January 20th. Dash tells TechCrunch that the petition, entitled “Immediately release Donald Trump’s full tax returns, with all information needed to verify emoluments cause compliance,” was getting approximately 800 signatures per minute until it approached 30,000 signatures.
+At that point, he said, due to technical issues with the open government API’s and petitions page, he lost access to the real-time data he was able to assess earlier so he doesn’t exactly know when the petition crossed the 100,000 signatures mark. Within half a day, Twitter users were celebrating the petition having reached its goal of 100,000 signatures, however. Dash said the page became the second most popular federal webpage within 24-hours of its going live. It had racked up 150,892 signatures as of 6:00 p.m. Eastern on Saturday, the Petitions.Whitehouse.Gov page reflected.
+Dash, who previously served as an advisor to the office of digital strategy for the Obama administration, said he has very little expectation that Trump’s team will issue either a meaningful response to the petition or release any documentation around the newly appointed president’s taxes.  He said: “I wrote this petition because it’s nice for other people to see that they are not alone. Basic compliance with the Constitution is a bare minimum for our elected officials… But if we can’t get the information to verify that, we have no assurance that our President is following the law.”
+Dash also expressed concern for the tech employees who build and run the infrastructure for platforms like the federal petitions site working under Trump. He said, “I want them to have clarity on this. They will be powerless to get a meaningful response out of their new boss. Everyone under that hierarchy will see that they can do their best work with good intentions to listen to the American people but it won’t be heard.”
+While demonstrators marched in cities across the U.S. to protect the rights of women, immigrants and people of color, and to protest the incoming administration and its agenda, another petition was gaining steam on Whitehouse.gov calling for President Donald Trump to “Divest or put in a blind trust all of [his] business and financial assets.”
+  Updates: Comments from the author of the petition, Anil Dash, were added to this post.
+FEATURED IMAGE: CHIP SOMODEVILLA/GETTY IMAGES
+
+ADVERTISEMENT
+ADVERTISEMENT
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Apple Suing Qualcomm for $1 Billion | Crunch Report
+Watch More Episodes

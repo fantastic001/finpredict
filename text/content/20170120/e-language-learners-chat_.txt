@@ -1,0 +1,70 @@
+Apps
+community
+messaging apps
+language learning
+Tandem
+Tandem is a messaging app where language learners chat
+Posted 5 hours ago by Natasha Lomas (@riptari)
+
+Next Story
+Shortly after downloading the Tandem app I’m trying to explain the finer points of using the English auxiliary verb ‘will’ in a messaging chat with Juan, 35, from the Dominican Republic.
+I’ve already explained that the proliferation of Spanish past tenses aren’t easy for a native English speaker to grapple with. “A mi, mi pasar la mismo en Ingles,” he replies moments later, via audio message — before going on to confess his troubles with the pesky auxiliary.
+Welcome to Tandem: an app-based community where strangers from all over the world chat with each other, but absolutely not for dating purposes — even if it can feel a little Tinder-ish as you scroll through a bunch of age-badged photo profiles trying to decide who to strike up a conversation with, and how to start said chit-chat from nada.
+The point of the platform is to connect and match strangers so they can practice whatever language/s they each want to learn, with the app showing native speakers learners of their own language — so you can both help and be helped.
+Users are encouraged to put a few words on their profile about their interests, what language or aspect of language they want to learn, and what they want to speak about (or who they want to speak to). Uploading a selfie is also a requirement.
+And that’s about it — it’s basically a messaging app where you’re encouraged to connect with fellow language learners to practice through the digital spectrum of chat.
+Today’s language learners are of course hugely spoilt for choice when it comes to apps and services offering to take the strain out of mastering a foreign tongue. But Berlin-based Tandem reckons it’s found a relatively less well-ploughed niche by focusing on building a platform to enable peer-to-peer practice for free. The app supports text messaging, audio and video chatting.
+It’s officially launching on Android now, though it’s been soft launched there since September, and on iOS since February 2015. Work on Tandem originally started in fall 2014.
+Active users are 1.2 million at this point (off of 1.5M downloads), and co-founder Arnd Aschentrup says the platform currently supports 148 languages, including 11 sign languages — and a few less conventional (tongue-in-cheek) tongues, such as Emoji, Dothraki and Klingon.
+“Duolingo, Memrise, Babbel, Busuu etc are a great starting point for beginners to build vocabulary and make first steps. But it is impossible learn a new language properly without speaking it. Tandem is the only app where you can reach fluency for free,” Aschentrup argues, noting that the idea for Tandem is based on the eponymous language learning buddy method.
+“We designed the app to make it as easy as possible to start a conversation and improve — from linking people on their shared interests and language goals to providing ice breaker games.”
+“There are 11,026 different language pairs supported by Tandem (such as Norwegian for Swedish),” he adds. “Interestingly, the long tail of smaller language combos makes up over 50 per cent of our usage.”
+After spending a little time chatting with other Spanish speaker/English learner users on the app I’m inclined to agree Tandem is onto something. It certainly feels like a pretty charming language practice community, with lots of polite and enthusiastic comments left on people’s profiles as user reviews.
+Notably, though, profiles are moderated before a person is given access to the community and the ability to start messaging others (the app bills itself as “a members-only community for language learners”).
+And there are clear warnings during the onboarding process about the consequences of any misbehavior. These rules boil down to: be respectful, no flirting and no spamming — or expect to get banned. (You also can’t send audio or video messages to anyone before you’ve first exchanged some text chats.)
+“Our aim is to create a friendly, unintimidating space where learners feel comfortable to make mistakes,” says Aschentrup, noting that 80 per cent of users are aged between 17 and 35, and 60 per cent are female. “We have members from 160 different countries and strive to be as diverse as possible.”
+And while it’s inevitably not that easy to strike up conversations with strangers online in a language you’re not a master of, everyone else is also learning something here so there’s no evident shortage of goodwill.
+But while enthusiasm is great, speaking practice is but one component of language learning. And not — in itself — a shortcut to laying down a solid foundation of grammatical understanding. Basically you need both speaking practice and grammatical study to become fluent in another language. And my Tandem profile suggestion that I’m looking to ‘practice Spanish past tenses’ does not lead to an instant deluge of free grammar lesson offers.
+Which is where Tandem’s business model comes in: it’s aiming to upsell its community of p2p learners to paid lessons with bona fide tutors — at which point it takes a cut (currently 20 per cent) of the revenue generated. And I could certainly see myself giving its paid tutors a go.
+Aschentrup says Tandem has around 150 vetted tutors offering paid lessons on the platform at this point. So it’s pretty early days on that front, although he claims they have relied completely on “word of mouth and organic applications” to recruit tutors so far.
+But given how many sizable online tutoring platforms are already out there they do face a lot of competition. So what’s the team’s strategy for attracting and retaining quality tutors? Aschentrup says they are aiming to make the experience as mobile and frictionless as possible for language teachers. Tutors are also (now) free to set their own prices.
+“Tandem is the only product that allows language teachers to run their business entirely from their smartphone or tablet, in one single app (find students, manage calendar / bookings, have a full communication suite for language learning, get paid instantly for each booking),” he claims, adding that their approach “essentially removes all the annoying aspects from the language teaching job and replaces them with a pleasant, fun and consistent mobile experience”.
+For now, the team’s focus is on growing the size of the p2p community, including by adding new features to provide more of a structured learning experience — and growing the size of the community will ultimately be the best way to grow Tandem’s tutor base.
+“The next step for us is to provide a more structured language learning journey for our members. This will where we help them to go through the right exercises to improve quickly and keep track of their progress,” he tells TechCrunch, adding: “We see increasing network effects as both the community and the teacher marketplace grows. Basically, the more members in the community, the more value there is for everyone.”
+In terms of direct competition, he names Chinese language exchange app HelloTalk as one rival, though claims it has “less emphasis on community”; as well as name-checking two web-based marketplaces for language teachers, iTalki and Verbling.
+On the funding front, the team is also now disclosing that it raised a €600,000 seed round in 2015, from Angel investors including Atlantic Labs (Christophe Maire), Hannover Beteiligungsfonds, Marcus Englert (Chairman Rocket Internet), Catagonia, Ludwig zu Salm, Florian Langenscheidt,  Heiko Hubertz, Martin Sinner and Zehden Enterprises.
+And a further €2M last year from Faber Ventures, RubyLight, and with participation from existing investors Hannover Beteiligungsfonds, Atlantic Labs and Zehden.
+Tandem’s top five markets at this point are the US, China, Brazil, Italy, and Mexico, according to Aschentrup, though he emphasizes that no one country makes up more than 10 per cent of its users at this point.
+“It remains a very global experience,” he adds.
+
+ADVERTISEMENT
+ADVERTISEMENT
+Crunchbase
+Tandem
+FOUNDED
+2012
+OVERVIEW
+Grow your business by understanding your customers. Automated customer research for direct-to-consumer brands. With Tandem insights, understand your customer's lifetime value, how they engage with your brand and what truly motivates them to complete a purchase.
+LOCATION
+Orlando, FL
+CATEGORIES
+Market Research, SaaS, Content Creators, Analytics
+FOUNDERS
+Scott Miller, Skyler Slade, Isaac Moredock, Shin Tsumoto
+WEBSITE
+http://www.intandem.io
+Full profile for Tandem
+Tandem
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Zoom CEO Eric Yuan Raised $100 Millon | Crunch Report
+Watch More Episodes

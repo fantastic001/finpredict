@@ -1,0 +1,55 @@
+Artificial Intelligence
+meta
+chan zuckerberg initiative
+Chan Zuckerberg Initiative acquires and will free up science search engine Meta
+Posted 5 hours ago by Josh Constine (@joshconstine)
+
+Next Story
+Mark Zuckerberg and Priscilla Chan’s $45 billion philanthropy organization is making its first acquisition in order to make it easier for scientists to search, read and tie together more than 26 million science research papers. The Chan Zuckerberg Initiative is acquiring Meta, an AI-powered research search engine startup, and will make its tool free to all in a few months after enhancing the product.
+Meta could help scientists find the latest papers related to their own projects, while assisting funding organizations to collaborate with researchers and identify high-potential areas for investment or impact. What’s special about Meta is that its AI recognizes authors and citations between papers so it can surface the most important research instead of just what has the best SEO. It also provides free full-text access to 18,000 journals and literature sources.
+Meta co-founder and CEO Sam Molyneux writes that “Going forward, our intent is not to profit from Meta’s data and capabilities; instead we aim to ensure they get to those who need them most, across sectors and as quickly as possible, for the benefit of the world.”
+CZI did not disclose any of the terms of its acquisition of the Toronto-based startup’s tech and team, which was founded in 2010 and funded with $7.5 million by investors, including Rho Canada Ventures and HIGHLINEvc. The startup formerly charged some users for subscriptions or custom solutions, but now the whole Meta product will be free. The acquisition will take some time to close first, though.
+Cori Bargmann, president of Science, and Brian Pinkerton, president of Technology for the Chan Zuckerberg Initiative, explain how Meta could be used, writing:
+The potential for this kind of platform is virtually limitless: a researcher could use Meta to help identify emerging techniques for understanding coronary artery disease; a graduate student could see that two different diseases activate the same immune defense pathway; and clinicians could find scientists working on the most promising Zika treatments sooner. In the long run, it could be extended to other areas of knowledge: for example, it could help educators stay up to date on developmental science to better understand how children learn.
+The acquisition aligns with CZI’s $3 billion investment toward curing all disease. It’s already established the Biohub in San Francisco, which will host and fund medical research. Announced in September, one of the Chan Zuckerberg Science division’s goals is to build tools and technology for medical experts, along with bringing them together and building a larger movement for scientific progress.
+In this case, because Meta has already established itself as a leader in the aggregation of research, it made sense to buy the company and distribute its tool rather than build something new. Zuckerberg and his wife’s organization have also made investments in startups as part of CZI’s Education push, including Andela, which preps African engineers for tech jobs, and Byju’s, an Indian video learning platform.
+By taking Meta out of the commercial space and refocusing ans maximizing its value, CZI could solve one of science’s biggest problems for a much wider community. Simply put, there’s far too much research for any one scientist or even a whole team to keep up with. 2,000-4,000 papers are published each day about biomedicine alone, yet it’s hard to search across them or figure out which are the most reputable.
+Meta, formerly known as Sciencescape, indexes entire repositories of papers like PubMed and crawls the web, identifying and building profiles for the authors while analyzing who cites or links to what. It’s effectively Google PageRank for science, making it simple to discover relevant papers and prioritize which to read. It even adapts to provide feeds of updates on newly published research related to your previous searches. Here’s how it assists different parts of the research community:
+Scientists can find the latest data and analysis on their areas of research, determine experiments that have already been performed that they don’t need to replicate and find new opportunities for investigation
+Funding organizations like universities and foundations can get in touch with authors to back their future work, or spot trends of where breakthroughs are being made so they can funnel resources correctly
+Students can ditch shallow Google searches that rely on exact term matches and SEO to rank results, and instead find papers that are most relevant to their research and are from commonly cited established scientists
+Schools can ensure their curriculum are up to date and training students for the areas of science with the most potential for advancement
+When originally announced, the flexible LLC status of the CZI was criticized because it diverged from the traditional structure of a charity. But the ability to acquire for-profit companies like Meta or reapply money it earns to its cause is exactly why Zuckerberg chose to form the philanthropic vehicle this way.
+“Helping scientists will produce a virtuous cycle, as they develop new tools that in turn unlock additional opportunities for faster advancement” Molyneux writes. “The Chan Zuckerberg Initiative’s recognition of this “meta” effect is why Meta can be a key piece of the puzzle”.
+The Chan Zuckerberg Initiative knows that even with the family’s massive fortune, it can’t fund every dimension of science. But if it can provide scalable tools that make every scientist more effective by freeing their creators from the hunt for profit, CZI can become a fulcrum for humanity.
+
+ADVERTISEMENT
+ADVERTISEMENT
+Crunchbase
+Meta
+FOUNDED
+2012
+OVERVIEW
+Meta offers users a total augmented reality (AR) experience: - See, create, and interact with virtual objects and apps inserted in the real environment - Display with wearable glasses - Control with hand gestures Meta's goal is to lead the next evolution of personal computing through augmented reality, replacing desktops, laptops, tablets, and smartphones with a more natural-to-use system set …
+LOCATION
+San Mateo, CA
+CATEGORIES
+Consumer Electronics, Hardware, Software, Eyewear
+FOUNDERS
+Meron Gribetz
+WEBSITE
+http://www.metavision.com
+Full profile for Meta
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Apple Suing Qualcomm for $1 Billion | Crunch Report
+Watch More Episodes

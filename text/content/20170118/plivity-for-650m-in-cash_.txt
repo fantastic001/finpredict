@@ -1,0 +1,45 @@
+Cloud
+acquisition
+simplivity
+hpe
+HPE acquires SimpliVity for $650M in cash
+Posted 3 hours ago by Frederic Lardinois (@fredericl)
+
+Next Story
+HPE today announced that it has acquired data management platform SimpliVity for $650 million in cash.
+SimpliVity is one of the many companies in this space focused on what is often called “hyperconverged infrastructure.” That sounds like somebody’s buzzword — and it definitely is — but the core idea is pretty sound: hyperconverged systems combine compute, storage and networking into a single system.
+SimpliVity’s flagship product is the OmniCube hyperconverged infrastructure appliance, but the company has also worked with Lenovo, Dell, Cisco and Huawei to bring the software part of its solution to their servers.
+For HPE, the idea here is clearly to expand its existing infrastructure, automation and cloud services with SimpliVity’s platform.
+“This transaction expands HPE’s software-defined capability and fits squarely within our strategy to make Hybrid IT simple for customers,” wrote Meg Whitman, president and CEO of Hewlett Packard Enterprise, in today’s announcement. “More and more customers are looking for solutions that bring them secure, highly resilient, on-premises infrastructure at cloud economics. That’s exactly where we’re focused.”
+SimpliVity was founded in 2009; over the last couple of years, it raised almost $276 million in four funding rounds led by the likes of Kleiner Perkins Caufield & Byers, Accel Partners, DFJ Growth, CRV and Waypoint Capital. At $650 million, that’s not a huge exit for these investors, especially given that the company was valued at over $1 billion when it raised its Series D round in 2015.
+As for HPE, the company has mostly been in the news for selling off some of its business lately. Last September, for example, it sold off most of its software unit in a deal worth roughly $8.8 billion. Then, in November, it also sold off its OpenStack and Cloud Foundry assets to SUSE (which itself is owned by Micro Focus, too). Chances are the company is seeing an opening in the hyperconverged market and is looking to use some of the cash it gained from those sales to strengthen its position there.
+
+ADVERTISEMENT
+ADVERTISEMENT
+Crunchbase
+Hewlett Packard Enterprise
+FOUNDED
+1939
+OVERVIEW
+Hewlett Packard Enterprise is an industry leading technology company that enables customers to go further, faster. With the industry's most comprehensive portfolio, spanning the cloud to the data center to workplace applications, our technology and services help customers around the world make IT more efficient, more productive and more secure.
+LOCATION
+California City, CA
+CATEGORIES
+IT Management, Enterprise Software, Information Technology
+WEBSITE
+https://www.hpe.com/in/en/home.html
+Full profile for Hewlett Packard Enterprise
+SimpliVity
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Samsung Leader Bribery Charges | Crunch Report
+Watch More Episodes

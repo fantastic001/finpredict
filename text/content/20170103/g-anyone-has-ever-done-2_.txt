@@ -1,0 +1,52 @@
+Opinion
+CRUNCH NETWORK
+It’s The Jons 2016!
+Posted yesterday by Jon Evans (@rezendi), Columnist
+
+Next Story
+Happy New Year! 2016 was … well, we will not soon forget it. Brexit; Trump; the Grim Reaper’s celebrity killing spree; and, on the upside, a lot of magnificent tech achievements and breakthroughs. But The Jons are not about that. The Jons, an annual award named (in an awe-inspiring fit of humility) after myself, go to tech’s more dubious achievers. And hoo boy were there a lot of those this year.
+And so, with no further ado: the second annual Jon Awards For Dubious Technical Achievement!
+THE YES THERE IS SUCH A THING AS BAD PUBLICITY AWARD FOR SPONTANEOUS BRAND COMBUSTION
+To Samsung, whose Galaxy Note 7 phablet was called out by name before every single flight I took for months, for fear that one would explode and kill us all. You’d think you couldn’t even pay for such publicity. Turns out you can, but it’ll cost you nearly $20 billion.
+THE GRINCH WHO STOLE CHRISTMAS AWARD FOR REALITY DISTORTION FIELD DISRUPTION
+To that nasty John Carreyrou, who just wouldn’t stop picking on poor victimized Theranos, which, as a direct result, is now basically dead. Doesn’t he know that truth doesn’t matter any more in our post-factual world? They believed their technology worked. Or, I mean, at least they hoped it did. Or would. One day. Shouldn’t that be all that matters? It’s only blood tests, after all.
+THE MINISTRY OF PEACE AWARD FOR IGNORANCE IS STRENGTH
+To Julian Assange, for his transition from a self-proclaimed “we open governments” anti-authoritarian crusader to the (figure)head of an organization that literally reposts Russian press releases. O Julian, Julian, wherefore art thou, Julian?
+THE YOU DON’T KNOW JACK AWARD FOR PREMATURE FORCED OBSOLESCENCE
+To Apple, of course, for eliminating the headphone jack from the iPhone; killing MagSafe in favor of USB-C on new MacBooks; and then refusing to supply any other ports on those MacBooks, meaning that, remarkably, that if you go to an Apple Store and buy a new iPhone and a new MacBook, you cannot plug the former directly into the latter.
+THE DIE DAMN YOU WHY WON’T YOU DIE FREDDY JASON TERMINATOR AWARD FOR PIGHEADEDLY CONTINUING TO EXIST
+To Bitcoin, which has been pronounced dead more times than Michael Myers, and yet somehow still keeps lumbering along, slowly, crudely, and seemingly unstoppably.
+THE BROGAN BAMBROGAN AWARD FOR BEING BROGAN BAMBROGAN IN THE BROGAN BAMBROGAN SCANDAL
+This story had all the allegations: a hangman’s noose! A VC tripling the salary of a PR rep after starting to date her! The sacrifice of great technology on the altars of marketing and self-promotion! Counter-allegations of toxic misconduct and abusive behavior! Alas, the lawsuits were settled without trial. But still. Brogan BamBrogan!
+THE PAY NO ATTENTION TO THE MAN BEHIND THE BLOCKCHAIN! AWARD FOR CONNING THE TECHNICALLY INEPT
+To Craig Wright, for briefly half-convincing people who should have known better that he is “Satoshi Nakamoti,” Bitcoin’s creator (he isn’t) and provoking this incredibly long, incredibly credulous, incredibly cringeworthy London Review Of Books piece by someone who’s clearly never written a line of code in his life. Don’t read it: read Sarah Jeong’s hilariously barbed Twitter takedown of it.
+THE BUT REALLY, WHAT IS TRUTH ANYWAYS AWARD FOR RESPONDING TO FAKE NEWS WITH ONTOLOGICAL DEFIANCE
+To Facebook’s PR team, who, desperate to disavow any responsibility for widespread American belief in so so much ludicrous bullshit, literally asked a journalist that:
+On the phone with Facebook PR and they literally ask me "what is truth"
+— Nellie Bowles (@NellieBowles) November 15, 2016
+THE YOU SOUNDED LIKE AN IDIOT EVEN BEFORE YOU ADDED THE WORD CYBER AWARD FOR BELIEF IN CYBER BOOGEYMEN UNDER THE CYBER BED
+To the San Bernardino District Attorney’s office, for claiming that the infamous iPhone 5c used by mass murderer Syed Farook had to be unlocked for fear that it contained a “lying-dormant cyber pathogen” that might attack American infrastructure.
+THE ONLY NINETY MORE MAGIKARP TO GO BEFORE I CAN EVOLVE A GYARADOS AWARD FOR BRIEFLY DIVORCING WHAT FELT LIKE HALF THE PLANET FROM REALITY IN FAVOR OF VIRTUAL JACKBOOTED EXPLOITATION
+To Pokémon Go, of course, the release of which prompted many millions to stampede through cities seeking to ambush and brutally imprison helpless, innocent virtual creatures who, after being forced to savagely fight one another in vicious Thunderdome-like arenas, are ultimately transferred to a mysterious “professor” who will doubtless perform unspeakable experiments on them. All of which is clearly laying the cultural groundwork for the autocracies to come. Fight the fascism! (And kindly overlook the fact that I’m midway through level 24 myself, and have evolved at least one Gyarados.)
+THE IF YOU KEEP WIPING AT LEAST SOME OF THAT EGG MIGHT COME OFF YOUR FACE AWARD FOR PRIDE GOING BEFORE A VERY HUMPTY-DUMPTY-LIKE FALL
+To the creators and investors in “The DAO,” who put $150 million into a “distributed autonomous organization” built atop Ethereum’s blockchain, amid much fanfare and claims of inviolable, unstoppable software. After the DAO was (as I warned) hacked and its money siphoned out, though, it was remarkable how fast the very same people who until then had trumpeted “irrefutable computer code … not influenced by outside forces … not controlled by its creators” switched to calling for the intervention of creators and outside forces to repair the damage caused by the code. So much for the courage of one’s convictions!
+THE SECURITY BY NOT LETTING THE LEFT HAND KNOW WHAT THE RIGHT HAND IS DOING AWARD FOR KEEPING YOUR USERS MAXIMALLY UNSAFE
+To Yahoo!, who didn’t just discover this year that they’d suffered two separate userinfo hacks, one for half a billion users and one for a whole cool B; they also installed a not-unlike-a-rootkit tool to scan incoming emails at the NSA’s behest — which would be bad enough — but best of all, they apparently did this without telling their security team. Wow.
+Congratulations, of a sort, to the winners of the Jons! All recipients shall receive a bobblehead of myself made up as a Blue Man, as per the image on this post,1 which will doubtless become coveted and increasingly valuable collectibles. And, of course, all winners shall be remembered by posterity forevermore.
+1BOBBLEHEADS SHALL ONLY BE DISTRIBUTED IF AND WHEN AVAILABLE AND CONVENIENT. THE EVENTUAL EXISTENCE OF SAID BOBBLEHEADS IS NOT GUARANTEED OR INDEED EVEN PARTICULARLY LIKELY. NOT VALID ON DAYS NAMED AFTER NORSE OR ROMAN GODS.
+
+ADVERTISEMENT
+ADVERTISEMENT
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Happy New Year from Crunch Report!
+Watch More Episodes

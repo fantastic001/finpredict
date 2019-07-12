@@ -1,0 +1,43 @@
+Artificial Intelligence
+donald trump
+United States
+business
+Why even the best tech couldn’t give us a precise inauguration headcount
+Posted 4 hours ago by John Mannes (@JohnMannes)
+
+Next Story
+Alternative facts aside, attendance at President Trump’s inauguration was low. Citing crowd scientists from Manchester Metropolitan University in Britain, the New York Times reported an estimated 160,000 people attended Mr.Trump’s speech. Yet the administration continues to unrealistically assert that attendance was considerably higher. The President claimed between a million and 1.5 million attended the event during his talk at the CIA without providing supporting evidence — between photos and academic estimates, we can safely say this wasn’t the case.
+But in the interest of precision, we decided to shake some trees in the geospatial analytics space to understand why a headcount remains elusive, even with today’s advanced technologies. Companies like Orbital Insight and Descartes Labs make their money finding answers to arcane problems like this by pumping satellite imagery and accompanying data into complex machine learning models to derive insights and forecasts.
+It seemed intuitive that a technology that can count cars in a Walmart parking lot to predict company financials in advance of a 10-K filing could also count heads on the National Mall. Yet, despite being a seemingly obvious use case, providers have remained silent about inauguration attendance
+Descartes Labs CEO Mark Johnson told TechCrunch that the problem isn’t one of technological capability. Existing satellites from DigitalGlobe and Airbus actually do provide imagery with high enough spacial resolution to analyze crowd density. But even a $750 million satellite can be thwarted by clouds. Thick clouds obfuscated Washington, D.C. on both inauguration day and the day of the Women’s March.
+“There are sensors that can see through clouds like Synthetic Aperture Radar (SAR), but those instruments are rare,” added Johnson.
+Aside from the weather, frequency and timing of orbit for the satellites used in geospatial imaging further prevented an accurate crowd count. President Trump’s speech only lasted about 20 minutes. Satellites like WorldView-4 from DigitalGlobe move at over 17,000 mph, its difficult to time an image capture at just the right time.
+There is a lot of variability when tasking an imaging satellite to capture an image. Plus or minus even a short amount of time and people could argue that the count was off as a result of timing. This gets even harder if you need to capture multiple images of a single event within a restricted window of time.
+“Most high-resolution satellites are “tasked” to take pictures of particular locations by clients and you can’t guarantee the exact time you take the picture,” noted Johnson.
+An obvious answer would be to capture imagery closer to the ground with a drone, but it would have been just about impossible to fly a drone over the U.S. Capital on such a high-profile day.
+“The National Capital Region is governed by a Special Flight Rules Area (SFRA) within a 30-mile radius of Ronald Reagan Washington National Airport, which restricts all flights in the greater DC area,” according to the Federal Aviation Administration.
+Within 15 miles of Reagan National Airport, no unmanned aircraft are allow to fly without specific FAA authorization which would have been a hard sell given the high-security of the event and the number of VIPs in attendance.
+So yes, geospatial analytics absolutely could put an end to this kerfuffle, but technological capability isn’t everything — bad weather and heavy regulation don’t mix.
+FEATURED IMAGE: PAUL J. RICHARDS / STAFF
+
+ADVERTISEMENT
+ADVERTISEMENT
+Crunchbase
+Donald J. Trump
+BIO
+Donald John Trump (born June 14, 1946) is an American business magnate, investor, author, television personality and the newly elected President of the United States in the 2016 presidential election. He is the chairman and president of The Trump Organization, and the founder of Trump Entertainment Resorts. Trump's career, branding efforts, lifestyle and outspoken manner helped make him a celebrity, …
+Full profile for Donald J. Trump
+Insights.US
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Sprint Takes 33% Stake in Tidal | Crunch Report
+Watch More Episodes

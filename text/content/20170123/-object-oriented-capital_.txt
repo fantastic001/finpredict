@@ -1,0 +1,61 @@
+Venture Capital
+term sheets
+series A funding
+CRUNCH NETWORK
+Let’s make Series A terms more logical by moving to object-oriented capital
+Posted 6 hours ago by Gil Penchina
+
+Next Story
+Gil Penchina
+CRUNCH NETWORK CONTRIBUTOR
+Gil Penchina is a partner at IDG Ventures and Flight.vc.
+How to join the network
+Seed terms have gotten much better, but I still find Series A (and beyond) term sheets frustrating. I think we can change the “norm” by offering entrepreneurs a better alternative. So if you have terms you don’t like, it’s time to try object-oriented capital (OOC).
+Venture capital term sheets are neither simple nor easy to understand. The spaghetti code of VC terms include things like:
+“Preference” (we, the investors, get our money back before you, the entrepreneur)
+“Pro rata” (we get free call options)
+“Budget veto rights” (you, the entrepreneur, need our approval for business decisions)
+“Veto on sale” (we decide when you can land)
+“ROFR” (we make it hard for you to sell your stock)
+“Option pool” (a fancy way of asking for a discount on the price per share)
+… and many others.
+These are baked into term sheets as “standard” in every deal I see.
+However, there is another option — and it’s one most VCs don’t like because it violates their “norms.”
+Object-oriented capital (OOC) is when you, the entrepreneur, can pick the objects (terms) you want, and we adjust the data attached to those objects to fit your priorities, e.g.:
+Want no veto on sale? Datanyze got that.
+Want no pro rata? Cruise, AltSchool and Discord got that.
+No board seat? Most of our deals get that.
+Want the investor to buy common? Dollar Shave Club and Rent the Runway got that.
+Pick your pre-money valuation? OnFleet just got that, as did Orion when Jesse Robbins needed a flexible lead investor for an uncapped note.
+The concept of OOC is that terms, like code, are modular and trade-offs are logical. You select the objects (annoying terms) you most want to control (No to preference, Yes to pro rata, No to “we must own 20 percent,” No on budget veto, No on veto on sale, Yes on ROFR) and we fill in the remaining objects and the data (investment amount, valuation, etc.) to execute on those objects.
+If you can custom order clothing and granola bars, why not term sheets?
+However, if other investors aren’t on board with the idea, typical VC terms seem to come back into the deal. So at Flight.vc we’ve started writing bigger checks in order to set the terms of the round rather than just following. This means seven-figure checks instead of the typical six-figure round on AngelList. Which means that AngelList can no longer fully support the check sizes I need to compete at Series A.
+To be fair, I’m the only angel on AngelList who has reached the upper limit of what the platform can do… with 4,000 angels across our syndicates, more than 100 investments and two unicorn exits, AngelList remains an amazing platform — just not for everything I want to accomplish.
+So rather than just bitch about it, I’m doing something. I’ve partnered with the team at IDG Ventures to let entrepreneurs structure their Series A the way they want. IDG gets what founders care about and is more scrappy and flexible than the bureaucratic billion-dollar funds, so they were open to being the first to move in this direction. I’ve seen IDG be flexible on ownership (Krux ~10 percent), price (Fastly where they bid double the insiders), not having a veto on M&A and other terms — so this didn’t take much convincing. Over time, if enough entrepreneurs use OOC as an alternative, more VCs will too.
+When I do this sort of thing, people always ask, “Why break the rules if things are working?”
+Two reasons:
+Related Articles
+The Term Sheet Mating Dance
+A Term Sheet Written In Plain English? Put That In Your Silicon Valley Pipe And Smoke It
+Free Startup Tools: How Does Your Term Sheet Compare To The Standards?
+It’s important to always question norms. When I was fundraising for my first VC-backed startup, I would hear “these terms are standard,” for veto rights, preferences, free call options and many other terms. Yet when I pushed, I often found those terms were negotiable… and that every VC cited different norms. As did every lawyer I talked to! It didn’t add up.
+Apparently the rules are flexible for VCs, but not for entrepreneurs. The “rules” are simply a polite way to screw entrepreneurs. I’ve analyzed the returns of a number of funds; few things matter other than getting to invest in great companies and working with great founders. And if the venture ecosystem starts to implement the OOC concept, it would reduce an enormous amount of fundraising friction and be a great win for the entrepreneurial community.
+It turns out not all entrepreneurs care about the same things. For Datanyze co-founder Ilya Semin, control over his destiny (no vetoes) was what mattered most. For Khaled at OnFleet, it’s limiting round size and pricing due to earlier convertible notes. Of course, all terms matter, but priorities differ, and my belief is that if you can custom order your VC to fit your needs, you’ll call the right folks when you want to raise both seed and Series A.
+If you can custom order clothing and granola bars, why not term sheets?
+FEATURED IMAGE: MARTIN KONOPKA / EYEEM/GETTY IMAGES
+
+ADVERTISEMENT
+ADVERTISEMENT
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Apple Suing Qualcomm for $1 Billion | Crunch Report
+Watch More Episodes

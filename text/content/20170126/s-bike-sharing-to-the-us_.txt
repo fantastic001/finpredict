@@ -1,0 +1,50 @@
+Apps
+bike share
+Spin
+motivate
+Spin wants to bring dock-less bike sharing to the US
+Posted 50 minutes ago by Lora Kolodny (@lorakolodny)
+
+Next Story
+Bikeshare programs in the US have mostly consisted of kiosks, or stations, where users can unlock a bike, take it off the rack, use it and return it once their errand or joy ride is done. Some only allow subscribers others charge by the hour. Meanwhile in China, bikeshare programs have evolved from kiosk-based systems into something else entirely.
+Venture-backed companies in China like Mobike, Ofo, Bluegogo, not to mention a score of other copycats there, are dock-less. They use bikes that are rendered trackable via Bluetooth low energy, GPS and 2G wireless systems, and have integrated locks so they can be parked, securely, freestanding around the city. These newer bikeshare companies in China distribute their product in urban areas where population density and traffic problems dwarf that of most US cities. Users can fire up an app to locate the nearest bike, and can use them easily for one way trips, locking them up wherever there’s free space to do so near their destination.
+A new US-based startup called Spin is trying to bring the kiosk-free bikeshare concept stateside, starting in San Francisco. Spin, which is incorporated as Skinny Labs Inc. was co-founded by former Lyft software engineer and product manager, Derrick Ko who is CEO, Exponent VC’s Euwyn Poon who is Spin Chairman, and ex-Disqus software engineer lead, Zaizhuang “Z” Cheng.
+The cofounding team of Skinny Labs Inc. aka Spin
+The cofounders told TechCrunch their “V.0 bikes,” or bikes for a first pilot test of their system, will have license plates with a printed QR code. Users can scan the QR code into a Spin mobile app to unlock a bike and start the meter. Pricing should be around $1 for every 30 minutes, approximately. The bikes will be bright orange, 6-speed bikes with 26” wheels, frame locks, a step-through frame, a basket affixed, as well as Dynamo hub powered lights (which don’t need a battery to work), theft-resistant screws and solid foam tires.
+The idea behind using solid tires is to give users a comfy ride but keep Spin’s maintenance costs low, Ko and Poon said. Foam tires don’t go flat, so Spin workers won’t have to track down loose bikes and check the air pressure. Performance wise, in general, solid tires can’t compare to inflated ones. That’s generally why you don’t see “airless tires” at races like the Tour de France or on motorcycles and cars for that matter. But Mobike, in China, has succeeded with solid-core tires, indicating a general riders’ willingness to use them.
+Spin is looking to roll out 100,000 frikkin’ bikes across distinct programs in the US this year. That’s ridiculously ambitious for the US even if it has happened already in China. One of the behemoths in US bikesharing, Motivate, has an exclusive agreement with the Metropolitan Transportation Commission in the San Francisco Bay area to ramp up from 700 bikes last year to 7,000 by 2018 in San Francisco, Berkeley, Oakland and San Jose, and has something like 10,000 bikes in its largest market, New York.
+Riders can unlock a Spin bike with a QR code and mobile app.
+Another competitor, which makes its own smart bikes, and powers bikeshare programs that don’t require a kiosk in the US, Social Bicycles, has deployed about 7,000 bikes across 5 countries and 30 cities, racked up approximately 250,000 users and logged more than 1.9 million trips already. But SoBi, as its nicknamed, has been operational since about 2010.
+According to Ko, Spin plans to work with government authorities as it scales up, rather than simply dropping bikes on a city and seeing how it goes. “Asking forgiveness not permission,” may be the Silicon Valley way. But China’s Bluegogo recently got a smack down from SF city officials when it announced plans to distribute tens of thousands of its bikes around San Francisco.
+In China, kiosk-free bikeshare programs have proven almost as problematic as they have popular. Riders have parked bikes in fire lanes and other off-limits areas. Authorities have rounded up and confiscated the bikes in droves. And in some cases, towering piles of bikes have cause Chinese cities major headache as they’ve blocked pedestrians, created an eyesore and a possible safety hazard. (Imagine a bike falling from a ten-foot high pile, and landing on your head?)
+In SF, city officials have cited concerns over safety, pedestrian and transportation impacts of kiosk free bike sharing. The MTC previously struck an exclusive agreement with Motivate and Ford for bikesharing around the Bay Area, it’s worth noting. Disruptors who just enter the  market without city approval would potentially violate that agreement.
+Ko emphasized that Spin has hired a government relations representative with close ties to the San Francisco Mayor’s office instead to pave the way to a smooth launch and hopefully, domination of the domestic market.
+FEATURED IMAGE: @SPIN_PM
+
+ADVERTISEMENT
+ADVERTISEMENT
+Crunchbase
+Launch
+FOUNDED
+2012
+OVERVIEW
+LAUNCH offers start-ups and established companies access to the knowledge, networks and financial resources necessary to achieve sustainable market growth, including: Rapid commercialization methodology Professional mall of experts, in topics like intellectual property, finance, and marketing Introductions, networking events and mentoring opportunities Executive Execution coaching Global market …
+LOCATION
+Waco, TX
+WEBSITE
+http://www.baylor.edu/launch
+Full profile for Launch
+Mobike
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Chan Zuckerberg Initiative Acquires Meta Search | Crunch Report
+Watch More Episodes

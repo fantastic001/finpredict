@@ -1,0 +1,53 @@
+Earnings
+PayPal
+braintree
+eCommerce
+earnings
+PayPal continues to see strong revenue growth
+Posted 1 hour ago by Katie Roof (@Katie_Roof)
+
+Next Story
+PayPal reported fourth quarter earnings after the bell on Thursday, and they were just what investors were expecting. The stock was flat in initial after-hours trading.
+Revenue came in at $2.98 billion, which is on par with analyst estimates and a 17% increase from last year. Adjusted earnings per share was 42 cents, which is also what Wall Street was forecasting. Total payment volume was $99 billion, slightly below estimates of $101 billion, but a 22% jump from last year.
+“In the past year, we transformed our market opportunity with a series of strategic partnerships with networks, financial institutions, technology companies, and mobile carriers,” said CEO Dan Schulman, in a statement. “We accomplished all of this by putting our customers first.”
+PayPal separated from eBay in 2015 and it’s currently the larger of the two companies. PayPal has a market cap of $50 billion, whereas eBay is worth about $36 billion.
+This is because PayPal owns properties like peer-to-peer money transfer service Venmo and Stripe competitor Braintree, a mobile payments platform that helps PayPal make money when you take an Uber or stay in an Airbnb. They also own Xoom transfer payments, for sending money overseas.
+Related Articles
+PayPal says mobile shopping accounted for a third of Thanksgiving & Black Friday sales
+Siri can now send money via PayPal
+PayPal makes money every time you use Uber, Airbnb
+The name-bearing PayPal business was a pioneer in online payments, but is often associated with the earlier days of the internet. The team has been focused on making it more efficient for people to use PayPal at checkout.
+PayPal services are higher margin businesses than Braintree, and especially Venmo which has only recently begun to monetize. That’s why investors still place a significant focus on the growth of its core business.
+PayPal shares are up 31% since the same time last year. They closed Thursday at $41.50.
+FEATURED IMAGE: PAYPAL
+
+ADVERTISEMENT
+ADVERTISEMENT
+Crunchbase
+PayPal
+FOUNDED
+1998
+OVERVIEW
+PayPal provides online payment solutions to its users. It enables its users to transact money through their account balances, bank accounts, credit cards, or promotional financing without sharing financial information. The company serves individuals who purchase through online stores across the globe and businesses worldwide. It has a strategic relationship with Facebook. PayPal was formerly known …
+LOCATION
+San Jose, CA
+CATEGORIES
+E-Commerce, Mobile Payments, Transaction Processing, Finance, E-Commerce Platforms, FinTech, Payments
+WEBSITE
+https://www.paypal.com/home
+Full profile for PayPal
+Braintree
+Venmo
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+AppDynamics Acquired for $3.7 Billion | Crunch Report
+Watch More Episodes

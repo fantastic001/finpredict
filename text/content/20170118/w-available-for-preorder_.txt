@@ -1,0 +1,34 @@
+Education
+robot CES
+Kubo, the robot that teaches kids to code, is now available for preorder
+Posted 6 hours ago by Fitz Tepper (@fitztepper)
+
+Next Story
+We saw tons of new stuff at CES this year. But one thing that particularly caught our eye was Kubo, the robot that teaches kids how to code.
+Kubo is a pretty simple robot – it’s about the size of a can of soda and has two wheels that allow it to roll around a desk or table. But what it lacks in advanced physical ability it makes up for in brains.
+Kubo comes with its own programming language called TagTile. The language consists of puzzle pieces that fit together to give Kubo instructions. For example, you could connect three pieces together – forward, turn, then another forward. Kubo then drives over these pieces oncer to “learn” the command, then can remember and perform it without needing the pieces.
+Kubo reads the puzzle pieces using an RFID technology – each piece has an individual embedded RFID tag, and Kubo itself has a reader built in.
+While it sounds simple, it’s a pretty good way to teach kids the basics of programming without having them stare at a screen.
+There will also be expansion packs for the TagTile language, so instead of teaching programming Kubo will be able to do teach kids things like spelling and addition and subtract. For example, imagine connecting a piece with a picture of a house to the letters H.O.U.E.S. Kubo would first travel over the House to understand that it is spelling house, then would travel over each letter – once it got to the misspelled letter, it would stop and alert the child.
+Kubo is now available on Indiegogo for $169, and has already raised 40% of its goal in the first few hours. I’m traditionally hesitant to talk a product that is doing a crowdfunding campaign before they actually are shipping, but we saw a fully-functioning version of the device a few weeks ago at CES, and the company says that “production is already underway” and they are expecting to ship in Spring 2017.
+
+ADVERTISEMENT
+ADVERTISEMENT
+Crunchbase
+Kubo
+FOUNDED
+2015
+Full profile for Kubo
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Samsung Leader Bribery Charges | Crunch Report
+Watch More Episodes

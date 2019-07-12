@@ -1,0 +1,45 @@
+Government
+Microsoft
+department of justice
+Microsoft heads to court to fight Justice Department gag orders
+Posted 11 hours ago by Taylor Hatmaker (@tayhatmaker)
+
+Next Story
+Microsoft heads to court Monday morning to defend its right to disclose when the government requests data on its users. The case, known as Microsoft v. Department of Justice began in 2016 when Microsoft sued the Department of Justice (DOJ) to challenge a part of the Electronic Communications Privacy Act (ECPA) under which the government serves warrants to tech companies. The lawsuit is targeting the constitutionality of accompanying gag orders that prevent tech companies from notifying their users that the federal government is investigating their data.
+Microsoft claims that the DOJ is taking advantage of the ECPA, first drafted in 1986, well before the advent of the cloud as we know it now. “The government… has exploited the transition to cloud computing as a means of expanding its power to conduct secret investigations,” the lawsuit states.
+As Ars Technica reports, Microsoft filed an additional brief on Sunday night arguing that it has “special circumstances” as a third party asserting fourth amendment rights on behalf of its users. The fourth amendment, generally applied to individuals, forbids the government from making “unreasonable searches and seizures.”
+Many online privacy advocates have thrown their weight behind Microsoft’s lawsuit, including the Electronic Frontier Foundation and the American Civil Liberties Union. As the ACLU explains:
+“Microsoft has said that it received more than 5,000 federal demands for customer information or data between September 2014 and March 2016. Nearly half of those demands were accompanied by gag orders preventing Microsoft from notifying the affected customers that the government had requested their information. The majority of those gag orders contained no time limit.”
+The case could set a meaningful precedent for technology companies pushing back against secretive government practices around data stored in the cloud. Tech companies large and small compile data on their customers, and the specter of all of that private cloud-based data looms larger than ever under the Trump administration, which is widely expected to prove hostile to many forms of privacy, both online and offline.
+In July 2016, Microsoft won a surprise victory in another privacy-based lawsuit against the U.S. government. That case involved a warrant for Microsoft customer emails stored in overseas data centers.
+FEATURED IMAGE: ASIF ISLAM/SHUTTERSTOCK
+
+ADVERTISEMENT
+ADVERTISEMENT
+Crunchbase
+Microsoft
+FOUNDED
+1974
+OVERVIEW
+Microsoft is an American multinational corporation that develops, manufactures, licenses, supports, and sells a range of software products and services. Microsoft’s devices and consumer (D&C) licensing segment licenses Windows operating system and related software; Microsoft Office for consumers; and Windows Phone operating system. The company’s computing and gaming hardware segment provides Xbox …
+LOCATION
+Redmond, WA
+CATEGORIES
+Collaboration, Developer Tools, Cloud Computing, Software, Enterprise Software, Operating Systems
+WEBSITE
+http://www.microsoft.com
+Full profile for Microsoft
+U.S. Department of Justice
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Sprint Takes 33% Stake in Tidal | Crunch Report
+Watch More Episodes

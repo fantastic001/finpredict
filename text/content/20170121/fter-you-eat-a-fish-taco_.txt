@@ -1,0 +1,33 @@
+Startups
+biology
+pathology
+microbiology
+FishTaco can analyze your microbiome before or after you eat a fish taco
+Posted 5 hours ago by John Biggs (@johnbiggs)
+
+Next Story
+Our microbiomes: who understands them? Scientists? The bacteria colonizing our guts? The guy who made the Mexican food we just ate? Wrong. It’s our computers. Researchers have tasked them to create a new way to analyze and understand our microbiomes electronically. The service is called “Functional Shifts’ Taxonomic Contributors” or, obviously, FishTaco.
+The system, created by researchers at the University of Washington, can “reveal how much different bacterial species contribute to disease-associated functional imbalances in the microbiome.” It integrates the two most common ways we currently assess the microbiome, the taxonomic approach and the functional approach. FishTaco computationally connects to two to assess what bacteria are doing what do which part of your body.
+“This method allows us to pinpoint which microbial species in our microbiome are responsible for each functional imbalance so they can be targeted for therapy,” said Elhanan Borenstein, an associate professor of genome sciences.
+The researchers tested the microbiomes of patients with type 2 diabetes and inflammatory bowel disease. They were able to see the taxa – the group of organisms – responsible for the disease. Further, they could see “functional imbalances” between the populations. The researchers “found that very similar functional imbalances observed in different diseases may in fact be driven by completely different set of species.”
+The research appeared Cell Host & Microbe and could be the basis for microbiome analysis in the future. It’s also fun to say FishTaco really fast.
+FEATURED IMAGE: SHUTTERSTOCK
+
+ADVERTISEMENT
+ADVERTISEMENT
+Crunchbase
+Fish Taco
+Full profile for Fish Taco
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Zoom CEO Eric Yuan Raised $100 Millon | Crunch Report
+Watch More Episodes

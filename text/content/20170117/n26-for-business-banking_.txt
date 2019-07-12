@@ -1,0 +1,32 @@
+Europe
+France Newsletter
+Qonto wants to become N26 for business banking
+Posted 8 hours ago by Romain Dillet (@romaindillet)
+
+Next Story
+French startup Qonto has some ambitious goals and wants to become the best bank account you can get when you start a company in France. Just like N26 wants to be a more modern bank for everyone, Qonto wants to do the same thing, but for business accounts.
+The company recently raised $1.7 million (€1.6 million) from Peter Thiel’s Valar Ventures and Alven Capital. Valar Ventures is also an investor in N26 and TransferWise — it is the firm’s first investment in France.
+A few months ago, a tech-savvy friend had some major issues with his business bank account. It was costing him a lot of money, and every time he had to ask for something, it was a painfully slow process. The difference between what he could do with his personal money and his company’s money was stark.
+N26, Revolut, TransferWise and all the other fintech products out there have been around for a while. But somebody has yet to tackle business banking. The product hasn’t launched yet, but Qonto is already putting up a basic website to attract potential customers.
+The premise is quite simple. You can open an account in just a few minutes and instantly pay and receive money thanks to an IBAN, physical and digital cards. After that, it’s all about providing the right features to the right set of users.
+Many different people need to access a business account with different needs in mind. For instance, an employee might be able to pay with a corporate card for business purchases. Company members will need to upload receipts to file taxes later on. Accountants also want to see statements to figure out what’s happening. Qonto plans to provide all of this.
+And of course, Qonto also wants to integrate with other fintech products so that you can easily transfer money in other currencies, manage payments and more.
+Behind the scene, Qonto partnered with Treezor for the back end. Treezor is the company that is actually going to manage your money. Treezor generates current accounts and debit cards for Qonto. On the other side of the equation, Qonto tailors the experience and handles the relationship with its own customers.
+Qonto plans to launch in April. Other companies are trying to crack the code when it comes to creating the best business bank account. For instance, Ibanfirst started out as a B2B foreign exchange platform and now wants to provide business bank accounts as well.
+There’s no clear winner yet. It’ll all come down to pricing and execution. The most seamless business banking experience could end up attracting a ton of customers. But it’s going to take a while to win everyone’s trust.
+
+ADVERTISEMENT
+ADVERTISEMENT
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Nintendo Switch Hits the Market on March 3 | Crunch Report
+Watch More Episodes

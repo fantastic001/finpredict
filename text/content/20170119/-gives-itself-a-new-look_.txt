@@ -1,0 +1,42 @@
+Mozilla
+Firefox
+open source
+open Internet
+Mozilla gives itself a new look
+Posted 3 hours ago by Frederic Lardinois (@fredericl)
+
+Next Story
+Mozilla is setting itself up for a big year ahead. The organization’s flagship Firefox browser, for example, is about to get a brand-new rendering engine. After a few years of missteps and misplaced priorities (remember Firefox OS and Hello?), it looks like Mozilla, which is more important to the open web ecosystem than most people realize, is back on track. To get 2017 started, though, Mozilla has decided to give itself a new look — one that marks a pretty radical break with its old brand identity (and I don’t expect we’ll see the Mozilla dinosaur make a comeback anytime soon).
+The new Mozilla logo takes its cue from the way URLs are formed (moz://a). “Our logo with its nod to URL language reinforces that the Internet is at the heart of Mozilla. We are committed to the original intent of the link as the beginning of an unfiltered, unmediated experience into the rich content of the Internet,” the organization explains.
+    The new “Zilla” font that makes up the new logo is — in good Mozilla fashion — available for free and under an open source license. It was designed by Typotheque, which was also the first foundry to release web-based fonts back in the dark ages of the web.
+While I’m not sure Mozilla really needed a new brand identity (but then, I’m no marketer), I like the fact that the new logo puts the emphasis squarely on the web and the organization’s core mission. In the last few years, it occasionally felt like Mozilla sometimes forgot that as it started chasing the mobile OS market (and even dipped its toes into the world of IoT). Mozilla’s nature as a nonprofit organization ideally helps to keep its competitors honest and open, as well. While it may not have the market share it once had, Firefox is a vital part of the open web ecosystem and I have high hopes for it in the coming year.
+
+ADVERTISEMENT
+ADVERTISEMENT
+Crunchbase
+Mozilla
+FOUNDED
+1998
+OVERVIEW
+Mozilla provides internet solutions. It offers Firefox, a web browser; Thunderbird 2, an email application; Raindrop, a prototype messaging tool which enables its users to manage a stream of messages coming from sources such as [Twitter](https://www.crunchbase.com/organization/twitter) and [Facebook](https://www.crunchbase.com/organization/facebook#/entity); and Rainbow, a developer prototype that …
+LOCATION
+Mountain View, CA
+CATEGORIES
+Browser Extensions, Open Source
+WEBSITE
+http://mozilla.org
+Full profile for Mozilla
+Firefox
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Chelsea Manning to Be Freed in May | Crunch Report
+Watch More Episodes

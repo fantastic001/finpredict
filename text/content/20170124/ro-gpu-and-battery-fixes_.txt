@@ -1,0 +1,51 @@
+Gadgets
+Apple
+macOS Sierra
+macos
+macbook pro
+Apple releases macOS 10.12.3 with MacBook Pro GPU and battery fixes
+Posted 10 hours ago by Romain Dillet (@romaindillet)
+
+Next Story
+Apple has just released an update to macOS Sierra. 10.12.3 is a bugfix update, but it brings some much-needed changes for the new MacBook Pro released late last year. With today’s update, Apple has issued a couple of fixes for the graphics chipset in the 15-inch model. Apple has also fixed the Safari icon fetching bug that was affecting battery life.
+There are many screenshots and videos out there showing the new MacBook Pro’s GPU seemingly overheating. It leads to graphical glitches and makes your computer unusable.
+That last video has hundreds of thousands of views, so it seems like a common issue. Apple already said that it had fixed the issue in the previous update. But it looks like there were a few missing fixes. If you’re a heavy Adobe Premier Pro user or if you’ve encountered this issue with GPU-intensive tasks on the 15-inch model, the issue should be fixed for good this time.
+Earlier this month, Apple also issued a statement about Consumer Reports’ battery benchmark on the new MacBook Pro. According to Consumer Reports, the MacBook Pro performed poorly when it comes to battery life. While the MacBook Pro battery isn’t great, Apple has found a bug that affected Consumer Reports’ benchmark.
+A Safari icon fetching bug was using too many resources. Apple released a fix with 10.12.3 beta 3, and it looks like the final version of macOS 10.12.3 comes with the Safari update (10.0.3).
+This update also comes with other minor fixes and important security updates. Head over to the Mac App Store to download and update to the latest version.
+Here are the full release notes:
+Improves automatic graphics switching on MacBook Pro (15-inch, October 2016).
+Resolves graphics issues while encoding Adobe Premiere Pro projects on MacBook Pro with Touch Bar (13- and 15-inch, October 2016).
+Fixes an issue that prevented the searching of scanned PDF documents in Preview.
+Resolves a compatibility issue with PDF documents that are exported with encryption enabled.
+Fixes an issue that prevented some third-party applications from correctly importing images from digital cameras.
+Enterprise content: Resolves an issue were network or cached user accounts (such as Active Directory accounts) using the maxFailedLoginAttempts password policy were becoming disabled.
+
+ADVERTISEMENT
+ADVERTISEMENT
+Crunchbase
+Apple
+FOUNDED
+1976
+OVERVIEW
+Apple is a multinational corporation that designs, manufactures, and markets mobile communication and media devices, personal computers, portable digital music players, and sells a variety of related software, services, peripherals, networking solutions, and third-party digital content and applications. Apple provides many products and services, including iPhone; iPad; iPod; Mac; Apple TV; a portfolio …
+LOCATION
+Cupertino, CA
+CATEGORIES
+Consumer Electronics, Retail, Hardware, Software, Electronics
+WEBSITE
+http://www.apple.com
+Full profile for Apple
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Sprint Takes 33% Stake in Tidal | Crunch Report
+Watch More Episodes

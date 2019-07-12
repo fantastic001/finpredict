@@ -1,0 +1,43 @@
+Automotive
+Tesla
+Tesla sues ex-Autopilot director for taking proprietary info, poaching employees
+Posted 3 hours ago by Darrell Etherington (@etherington)
+
+Next Story
+Tesla has sued former employee Sterling Anderson, who acted as Director of its Autopilot Programs for just over a year, for breach of contract. The suit accuses Anderson of having tried to recruit away employees from Tesla, with the intent of starting his own autonomous driving company, and of also taking Tesla proprietary confidential information to support this goal.
+Tesla alleges in its complaint that Anderson and recently departed head of Google’s self-driving project Chris Urmson (also named as a defendant) were going to use the information and personnel taken from Tesla to begin their own self-driving car company, dubbed Aurora, with the aim of charting a similar path to companies including Cruise Automation and Otto, both of which went on to enjoy lucrative exits.
+In the suit, Tesla also alleges that Anderson downloaded “hundreds of gigabytes” of proprietary data from his work computer to a personal storage device, and that he then manually hacked the timestamps on files to hide evidence of his acquisition of the information. He also wiped the iPhone issued by Tesla, the suit says, in order to erase evidence of his attempts to poach fellow employees. These attempts were met with only limited success, however, as only two employees apparently ever jumped ship to the new venture.
+Tesla is seeking damages for its losses as a result of its breaches suffered due to Anderson’s actions, as well as punitive damages for what it terms “malicious” acts on Anderson’s behalf. It’s also looking for injections against Aurora’s technologies pending Tesla’s vetting for use of its proprietary tech.
+The suit was filed Thursday morning at the Superior Court of California, County of Santa Clara and seeks a jury trial to resolve the matter.
+Tesla declined to provide comment when contacted.
+Aurora provided the following statement to TechCrunch via email when asked for more information:
+Tesla’s meritless lawsuit reveals both a startling paranoia and an unhealthy fear of competition. This abuse of the legal system is a malicious attempt to stifle a competitor and destroy personal reputations. Aurora looks forward to disproving these false allegations in court and to building a successful self-driving business.
+
+ADVERTISEMENT
+ADVERTISEMENT
+Crunchbase
+Tesla Motors
+FOUNDED
+2003
+OVERVIEW
+Tesla Motors was started by a group of Silicon Valley entrepreneurs and strives to create a revolution and accelerate the world’s transition to electric mobility with a full range of increasingly affordable electric cars. Tesla vehicles are EVs (electric vehicles), which are transforming the way people drive and move. Tesla has gone public as of June 29, 2010 and has a market cap of $34.32 billion. …
+LOCATION
+Palo Alto, CA
+CATEGORIES
+Automotive, Electronics, Innovation Management
+WEBSITE
+https://www.tesla.com/
+Full profile for Tesla Motors
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+AppDynamics Acquired for $3.7 Billion | Crunch Report
+Watch More Episodes

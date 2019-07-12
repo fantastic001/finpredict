@@ -1,0 +1,50 @@
+Artificial Intelligence
+Water
+Steam
+computing
+Software
+H2O’s Deep Water puts deep learning in the hands of enterprise users
+Posted 1 hour ago by John Mannes (@JohnMannes)
+
+Next Story
+To complement existing offerings like Sparkling Water and Steam, H2O.ai is releasing Deep Water, a new tool to help businesses make deep learning a part of everyday operations.
+Deep Water will open up new possibilities for the TensorFlow, MXNet and Caffe communities to engage with H20.ai. This also means that the GPU is set to become a greater part of business operations for the entire Fortune 500, not just tech companies.
+SriSatish Ambati, CEO of H2O.ai, says his company has found a sweet spot with predictive analytics. Ambati gave me the example of an insurance provider using H2O to analyze images of roofs and provide insights for preventative maintenance.
+Twenty percent of Fortune 500 companies, including Capital One, Progressive and Comcast use H2O’s products. Following a traditional open-source model, H2O makes its money from helping its users take full advantage of its machine learning capabilities. This has brought H2O a healthy 300 percent growth year over year. The team is forecasting $15 million in revenue for 2017.
+Businesses serving more traditional industries can’t simply hire a machine-learning PhD and retool their entire organizations around data. Even with a core team of engineers, machine learning needs to be easy to access for employees in far out areas of a corporation.
+If you work in Silicon Valley, you might see the move to deep learning, GPUs and TensorFlow as almost behind the times. Deep learning is everywhere, how could enterprises just be getting GPUs! But the reality is that most businesses haven’t really even made more traditional forms of machine learning part of their daily processes. H2O has built a business out of solving this problem, but Ambati says it would have been a mistake to have pushed out Deep Water a year or two ago.
+“If you think about the world before us, it’s a batch-oriented SAS-based land,” explained Ambati. “Those people trusting the new world using our H2O open source frameworks to make their business choices was a huge battle.”
+Moving forward, H2O plans to make machine learning even more automatic. The startup is putting together a somewhat meta system that will use machine learning to identify the best machine learning approaches to be used to achieve a specific result from a given data set. H2O would effectively be learning from its own users, training itself on successful implementations.
+Behind the scenes, the platform would be able to check for overfitting and perform cross validations to help reduce the chance of damaging user error when manipulating complex models. The team  says they’re striving for a product that could perform in the top 10 percent of a Kaggle challenge with the push of a button. H2O plans to make these tools available as part of a larger release in the coming months.
+
+ADVERTISEMENT
+ADVERTISEMENT
+Crunchbase
+Matter
+FOUNDED
+2012
+OVERVIEW
+Matter.vc supports media entrepreneurs building a more informed, connected, and empowered society through our 4-month start-up accelerator in San Francisco. This is where the values of public media meet the mindsets of Silicon Valley entrepreneurship. Matter.vc invests $50k to give startups four months of runway to do needfinding with your customers, prototype your solutions, and build traction …
+LOCATION
+San Francisco, CA
+CATEGORIES
+Media and Entertainment, Financial Services, Venture Capital
+FOUNDERS
+Jake Shapiro
+WEBSITE
+http://matter.vc/
+Full profile for Matter
+Steam
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+AppDynamics Acquired for $3.7 Billion | Crunch Report
+Watch More Episodes

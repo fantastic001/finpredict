@@ -1,0 +1,28 @@
+Government
+Google
+U.S. Digital Service
+Matt Cutts steps down from Google, steps up at the U.S. Digital Service
+Posted 6 hours ago by Taylor Hatmaker (@tayhatmaker)
+
+Next Story
+After dipping his toes in government work last year, Google Search guru Matt Cutts is now stepping away from Google in a more permanent way. Cutts, who has wrestled spam and SEO at Google since 2000, joined the U.S. Digital Service (USDS) in mid-2016 for a role that he expected to last three months. After extending his stay by three more, Cutts, now the USDS director of engineering, will take over as the in-house tech consulting group’s acting administrator. He will replace Mikey Dickerson, the political appointee credited with salvaging the HealthCare.gov rollout. Cutts, who is well-known for translating Google Search changes to the tech community at large, officially ended his time at Google on December 31, 2016.
+The USDS, a self-described “startup at the White House,” is a specialized team tasked with making the government’s many websites, services, and other digital resources run so smoothly that the rest of us don’t notice them at all. Focusing on “technical issues and usability challenges,” recent USDS projects include incorporating two-factor authentication into IRS identity verification and the Pentagon’s bug bounty program, modeled off of similar security initiatives in the private sector.
+In a blog post, Cutts commented on differences between his government role and his tenure at Google:
+“Working for the government doesn’t pay as well as a big company in Silicon Valley. We don’t get any free lunches. Many days are incredibly frustrating. All I can tell you is that the work is deeply important and inspiring, and you have a chance to work on things that genuinely make peoples’ lives better. A friend who started working in this space several years ago told me “These last five years have been the hardest and worst and best and most rewarding I think I will ever have.”
+Both the USDS and the similarly experimental office known as 18F aim to lure technology talent into short tours of service, infusing the government’s sprawling tech bureaucracy with a bit of startup flavor in the process. We’ve reached out to Cutts for more information about his new role and what he expects from the incoming administration and will update with more info about his decision if we hear back. As an Obama-era innovation, the USDS could easily find itself on President-elect Trump’s chopping block, though no plans have been specified at this time.
+
+ADVERTISEMENT
+ADVERTISEMENT
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Zoom CEO Eric Yuan Raised $100 Millon | Crunch Report
+Watch More Episodes

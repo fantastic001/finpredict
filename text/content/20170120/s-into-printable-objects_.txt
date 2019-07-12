@@ -1,0 +1,33 @@
+Apps
+3D Printing
+manufacturing
+engineering
+3d hubs
+MakePrintable turns 3D models into printable objects
+Posted 5 hours ago by John Biggs (@johnbiggs)
+
+Next Story
+MakePrintable, a new 3D printing site, does what it says on the tin. The service will take a 3D model – maybe one you scanned in or something you made – and modify it based on the type of printer, the material, the desired print orientation, and plate positions. It fixes rough spots, thin prints, and generally makes things printable.
+Founded by Muhannad Taslaq and Baha Abunojaim the service is aimed at gamer makers who might want to print out their creations. Both the co-founders have a deep education in gaming graphics in the US and Jordan. The company has raised $4.8 million in the US and Asia. They currently have 30,000 beta signups and have performed 100,000 repairs since launch.
+“Competing solutions repair the mesh without taking into account these factors. They generically repair a file, we repair a file for 3D printing. In 3D printing the orientation and scale of your model in the 3D printer and how it is attached to the build plate is a critical factor. By repairing files accordingly we can better repair files for 3D printing and ensure a higher degree of printability,” said Taslaq. Because the solution takes into consideration what you’re printing on you’ll get a better print faster. It can manage very high polygon-count files using multiple GPUs in a compute cluster.
+The service offers three free fixes a month and 10 fixes for $7. They also offer an API that connects to Autodesk and other 3D platforms.
+The most interesting aspect of the product is its ability to reduce and optimize volume. This means you can reduce the total amount of material in an object which can save you a few bucks if you send the model off to be printed or want to do it yourself on your own printer.
+The origin story is also pretty cool.
+“In 2012 there was a lot of hype about 3D printing entering the consumer market and we were developing a browser based easy to use design tool back then in which we thought that it should support 3D printing. We wanted to support 3D printing but ironically we couldn’t because back then we were in Amman-Jordan and getting a 3D printer into the country was impossible due to regulations,” said Taslaq. “So we backed our bags and went to San Francisco then we started 3D printing. We realized the huge gap between 3D files and 3D printing. When we first started 3D printing we faced a lot of issues getting even the simplest files to print, most printers would fail and we had to figure out a solution to this problem so we decided to pave the way in the ice and create MakePrintable in order to bridge between digital content and 3D printing.”
+They’ve got some interesting future products in the pipeline including one specifically for gamers so get ready to see your favorite Mortal Kombat fatality rendered in 3D plastic.
+
+ADVERTISEMENT
+ADVERTISEMENT
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Zoom CEO Eric Yuan Raised $100 Millon | Crunch Report
+Watch More Episodes

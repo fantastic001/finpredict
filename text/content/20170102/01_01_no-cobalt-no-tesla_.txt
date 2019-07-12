@@ -1,0 +1,81 @@
+Automotive
+electric vehicles
+lithium-ion battery
+cobalt
+Tesla
+CRUNCH NETWORK
+No cobalt, no Tesla?
+Posted 1 hour ago by Sebastien Gandon (@SebZabojad)
+
+Next Story
+Sebastien Gandon
+CRUNCH NETWORK CONTRIBUTOR
+Sebastien Gandon is a senior VP at East Capital Asia Ltd. He has close to 15 years experience in the asset management industry and as an investor in energy storage, batteries, biotech/e-health and AI.
+How to join the network
+The battery industry currently uses 42 percent of global cobalt production, a critical metal for Lithium-ion cells. The remaining 58 percent is used in diverse industrial and military applications (super alloys, catalysts, magnets, pigments…) that rely exclusively on the material.
+Approximately 97 percent of the world’s supply of cobalt comes as a by-product of nickel or copper (mostly out of Africa). Freeport-McMoRan Inc. and Lundin agreed to sell to Chinese players their respective stakes in the Tenke Fungurume mine, one of the largest known cobalt sources, in the Democratic Republic of the Congo.
+Tesla has stated that the cobalt it needs will be sourced exclusively in North America, but the math doesn’t seem to add up.
+Is Tesla doomed? Not necessarily…
+The Tenke Fungurume mine is one of the world’s largest known cobalt resources. The concessions are located in the Katanga province in the southeast region of the Democratic Republic of the Congo (DRC). Freeport-McMoRan Inc. (NYSE:FCX) holds a 56 percent interest, Lundin Mining (OTCPK:LUNMF) holds an indirect 24 percent equity interest and Gécamines, the Congolese state mining company, holds a 20 percent carried interest.
+In May, 2016, China Molybdenum acquired Freeport’s 56 percent controlling interest in the mine for US$2.65 billion, the largest investment ever in the country. Lundin Mining was left with three options: allow the China Moly deal to proceed, supplant the offer by exercising a right to first offer or sell its own stake to China Moly (or a third party, for that matter).
+In November, and after several extensions, Lundin Mining finally announced it was selling its 24 percent stake to an affiliate of Chinese private-equity firm BHR Partners for US$1.14 billion. Freeport’s sale to China Moly was expected to be completed before year’s end, whilst Lundin plans to close its sale in early 2017.
+China Moly also acquired this year from Freeport a 100 percent interest in the Kisanfu exploration project located in the DRC and a 56 percent controlling interest in the Kokkola refinery in Finland (about 10 percent of the world’s refined cobalt last year). Needless to say that all that cobalt from the refinery is expected to be shipped to China, South Korea and Japan from now on.
+The implications are clear. China is now leveling its game in upstream cobalt and is already a major owner of downstream assets in the DRC, embodied by Huayou Cobalt (CH:603799) and Zhejiang Huayou Cobalt (CH:603799). It will keep on securing cobalt mines and downstream assets for its own needs.
+In November, Albert Yuma Mulimbi, head of the state-controlled Gécamines, passed on to the Financial Times his discontent of partnerships with western companies and, in particular, on the Freeport-McMoRan deal. Left with minority investments in most joint ventures (JV), Mr. Yuma believes that existing deals failed to deliver on dividends. The partnership with China Nonferrous Metal Mining. where Gécamines has a 49 percent stake, is the model he wants to generalize. One more headache for western operators.
+Supply and demand for cobalt
+As I stated in a previous article, we are already witnessing an increased scarcity of cobalt supply. Approximately 97 percent of the world’s supply of cobalt comes as a by-product of nickel or copper. But the price of the two other base metals have been plunging, to say the least, and this year reached six-year lows, making many deposits uneconomic.
+Basic economics would tell us that whenever there is a soaring demand and a market supply moving into deficit, shortages and consequently an impact on prices are inevitable.
+New primary cobalt mines may come online should cobalt prices soar; however, exploration, licensing and development take time and require billions of dollars of investments. In addition, 60 percent of the world’s cobalt reserves and resources originate in the DRC, which is riddled with child labor and exploitation.
+On the demand front, and according to the Cobalt Development Institute (CDI), 58 percent of global cobalt production is already used in many diverse industrial and military applications (super alloys, catalysts, magnets, pigments…) that rely exclusively on the material. Cobalt represents a negligible part of the costs for these companies and thus they can afford to pay regardless of the price. But that is a dangerous game for battery makers. Material costs account for about 60 percent of LIB total cost and battery makers cannot take away cobalt from companies for whom the metal is an absolute requirement. Think GE and its jet engines.
+The Tesla conundrum
+So where does that leave us with Tesla? Elon Musk ambitiously aims at producing 500,000 electric vehicles a year by 2018, and Tesla has repeatedly stated that the cobalt will be sourced exclusively in North America. Whether this is a realistic assumption is a different story.
+The United States Geological Survey (USGS) states that cobalt production in 2015 was 124,000 metric tons. Canada and the U.S. together produce roughly 4 percent of the world’s supply, nowhere near Tesla’s needs for just one of its models. Indeed, estimations from InvestorIntel show that half a million units of Tesla’s Model 3 would be equivalent to 7,800 tons of new cobalt demand, or roughly 6 percent of the annual cobalt production worldwide. The math does not seem to add up. Tesla reportedly has difficulties securing off-take agreements from traditional cathode material suppliers and is reaching down to junior miners.
+Precisely regarding the juniors’ landscape, eCobalt Solutions Inc. (formerly Formation Metals) (TSX:ECS) is a Canadian mineral exploration and mine development company primarily owning the Idaho cobalt project, a high-grade and primary cobalt deposit in the U.S.. The highly anticipated project is by far the most advanced one in the region and should go online in a year’s time. Two more years will be needed to run at full capacity. Production is estimated to reach roughly 1,500 tons annually over the course of a 12.5-year lifetime, i.e. about 1 percent of the global market. Compare this to Tesla’s needs for the Model 3 and the new supply of cobalt in North America looks muted at best.
+Basic economics would tell us that whenever there is a soaring demand and a market supply moving into deficit, shortages and consequently an impact on prices are inevitable. Tesla looks doomed… ceteris paribus. So, is it really?
+Good news for Tesla bulls: There are several reasons why this may not be the case.
+Battery mix. For the Model S, Tesla has been using high energy density nickel-cobalt-aluminium-based (NCA) battery cells sourced from Panasonic. Again, we don’t know the exact composition of the Panasonic/Tesla batteries, but typically cobalt represents about 0.22 kg/kWh in NCA batteries believes John Petersen from InvestorIntel. This compares to 0.36 kg/kWh for nickel-manganese-cobalt (NMC) batteries, which are adopted by most peers (and in which the three components are usually evenly split). Tesla would withstand more pressure versus its peers in the event of soaring prices.
+The Chinese BYD, a major player in the EV space, has adopted lower energy density Lithium-Iron-Phosphate LFP chemistry. Reconfiguring manufacturing capabilities and use instead as LFP or Lithium-manganese-oxide (LMO) that don’t need cobalt is always an option. However, this might severely hamper competitiveness and quality.
+Substitution. “Ceteris paribus” is key here. A complete shift away from high-energy batteries looks hypothetical at this stage: NMC, NCA and LCO batteries provide the highest energy density as reported by Battery University, and all require cobalt. However, there has been recently efforts to produce other types of battery chemistries that do not require cobalt as stated by the CRU. Tesla has also been trying to remove cobalt from the equation and add nickel instead, according to its CTO JB Straubel.
+We may well see a quick turnaround from cobalt-intensive batteries toward a validated and optimized new high-energy battery technology should it go online. And the high costs triggered by a shift away from traditional batteries might prove beneficial when opposed with the prospects a cobalt cliff. So far attempts for substituting cobalt resulted in a loss in product performance. But nothing is set in stone.
+Related Articles
+This Algae Battery Could Power A Tesla With 200X The Charge
+New lithium metal tech can create ultralight car batteries and thinner phones
+DOE small biz voucher awards include vehicles and fuel cells
+The Tesla Model S' Battery Is Now Covered By A Nearly Unconditional Warranty
+Demand for nickel. Let’s assume for a second that the substitution project remains in draft and that cobalt remains indispensable. Around Ninety-five percent of the world’s supply of cobalt comes as a by-product of nickel or copper. As illustrated by John Petersen, “Every year, the world’s nickel miners sell $14.58 billion of nickel and $1.05 billion of cobalt, which means cobalt revenue represents 6.7% of their total revenue. It’s even worse with copper miners who sell $68.4 billion of copper and $0.92 billion of cobalt, which means cobalt revenue represents 1.3% of their total revenue.” Certainly frightening numbers. Many mines have become a casualty of the low prices and many are being taken offline or “placed on maintenance” for an extended period of time until market prices justify further investments.
+However, if it is well-established that the dependence on a primary product is a key supply risk, the opposite is also true. There will be cobalt if there is enough demand for the primary metals. It is unclear what the mix of Panasonic/Tesla’s batteries is, but traditionally an NCA cathode is comprised of roughly 80 percent nickel and 15 percent cobalt. Increased demand for nickel may spur nickel production and, as a consequence, cobalt product. This may overall add some counterweight in the balance.
+Identified resources versus reserves. In addition, identified cobalt resources are much larger than existing reserves. According to the CDI, “there seems to be enough known land sources of cobalt to last for at least 100 years and for many, many more years if speculative and hypothetical resources for deep sea, ocean floor resources are taken into account (about 120 million tonnes according to the USGS).”
+The CDI thus remains confident that “cobalt is not running out, but its availability will depend upon many factors such as accessibility, price, demand, technological development and global economic growth.” Obviously mining cobalt cheaply in deep water is nothing more than a bad science fiction movie, but should become economically viable (disruptive technologies might start showing their teeth, as we have witnessed in deep water drilling and more recently with fracking).
+Recycling. Cobalt (as opposed to oil, for instance) is fully recyclable. Roughly 15 percent of U.S. cobalt consumption is from recycled scrap today. For many applications, the metal is used but not consumed and so can be recycled. Needless to say that recycling can help reduce the need to hunt for new sources of cobalt. In no circumstances is this a magic solution whereby 100 percent can be recycled indefinitely. Existing processes are energy-consuming and can definitely be improved. But that is also an idea to weigh in the balance.
+Conclusion
+That’s a lot of “ifs,” I grant you that. Tesla is entering an age of supply chain transparency, as Simon Moores from Benchmark Intelligence states, and it wouldn’t hurt to see more communication from Tesla on that front. However, there are many factors that could be part of a complex cobalt equation. I wouldn’t go as far as surrender already and turn into a structural Tesla bear.
+FEATURED IMAGE: SOPHIE-CARON/ISTOCK/GETTY IMAGES
+
+ADVERTISEMENT
+ADVERTISEMENT
+Crunchbase
+Tesla Motors
+FOUNDED
+2003
+OVERVIEW
+Tesla Motors was started by a group of Silicon Valley entrepreneurs and strives to create a revolution and accelerate the world’s transition to electric mobility with a full range of increasingly affordable electric cars. Tesla vehicles are EVs (electric vehicles), which are transforming the way people drive and move. Tesla has gone public as of June 29, 2010 and has a market cap of $2.47 billion …
+LOCATION
+Palo Alto, CA
+CATEGORIES
+Automotive, Electronics, Innovation Management
+WEBSITE
+https://www.tesla.com/
+Full profile for Tesla Motors
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Happy New Year from Crunch Report!
+Watch More Episodes

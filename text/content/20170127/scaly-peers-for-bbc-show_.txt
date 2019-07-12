@@ -1,0 +1,35 @@
+Gadgets
+EPFL
+biomimetic
+robotics
+Crocodile and lizard bots peep at their scaly peers for BBC show
+Posted 55 minutes ago by Devin Coldewey
+
+Next Story
+If you want to walk among the crocodiles, first you must become a crocodile, as the saying goes. But short of a Ace Ventura-style setup, a robot is probably your best bet if all you want is some sweet footage for a nature documentary. That’s just what these Swiss roboticists did for a BBC show airing today.
+Related Articles
+Bots_alive kit imbues toy robots with charming, lifelike AI
+Researchers teach a flying robot to perch like a bird
+The Pleurobot robo-salamander crawls and swims like a real amphibian
+It’s “Spy in the Wild,” which you should check out if you haven’t seen it. They started a long time back with a camera-equipped stump to spy on tigers, but this season the producers have gone all out, with replica animals of all types.
+The bots — Spy Pup, Spy Bushbaby, etc — have been good enough that animals have been fooled at least enough to act naturally around them. In fact, that “monkeys mourn robot” thing that was making the rounds was one (RIP Spy Baby Monkey).
+Today’s episode is about crocodiles and monitor lizards, and the producers came to l’École polytechnique fédérale de Lausanne (EPFL) and its Biorob lab to build the imitation animals.
+    It’s likely they went to EPFL because of the lab’s previous experience building robo-lizards. Their Pleurobot is a bio-imitative robot that both walks and swims with the distinctive swiveling gait of many amphibious animals — a good place to start for a crocobot.
+“What we like to do is bioinform,” said Biorob Lab’s Kamilo Melo in an EPFL video. “Basically we take info from biology to inform the design of the robots. We extract all the information, we make experiments, and we make measurements of biology, to then bring all this data into the design of the robots. With this we can also study the locomotion of the real animals.”
+Better understanding of the subtleties of animal movements and systems means better bioinformed or biomimetic robots — something we’re seeing a lot of these days.
+
+ADVERTISEMENT
+ADVERTISEMENT
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+AppDynamics Acquired for $3.7 Billion | Crunch Report
+Watch More Episodes

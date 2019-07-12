@@ -1,0 +1,59 @@
+business intelligence
+analytics
+computing
+Planet Labs
+data
+TellusLabs wants to help us better understand our planet
+Posted 6 hours ago by John Mannes (@JohnMannes)
+
+Next Story
+If you’ve spent time following companies like Orbital Insight and Descartes Labs, you might assume the geospatial analytics race has been won. But TellusLabs thinks, on the contrary, that the table hasn’t even started to cool. Armed with $3 million in new seed funding from IA Ventures, the Boston-based startup wants its trust in human intuition to be the ace that wins it a seat at the table and more.
+“Geospatial analytics” is simply a fancy way of saying that these companies gather information by analyzing satellite images. And oh are people pulling crazy things from satellite images these days. Using trigonometry and shipping containers to estimate oil supply, prognosticating on financial returns by analyzing the number of cars in big box mart parking lots, and even surveying demolished houses after storms.
+But TellusLabs is perfectly content slogging it along predicting corn and soybean output. They also happen to be pretty good at it. The team’s initial beta, a model with daily forecasts for the two crops ended the year at the exact USDA estimate for soy and within 1 percent of the USDA estimate for corn — no small feat.
+The value in that accuracy is about more than numbers. It’s about efficiency and granularity. TellusLabs will hit its stride if its able to provide local insights more quickly than competitors.
+TellusLabs and the USDA converge at the end of the year.
+Despite a successful beta, there’s still plenty of room to question the startup’s approach. TellusLabs doesn’t own the rights to any imaging hardware, the company isn’t using any proprietary data for its models and its avoiding popular additions like deep learning.
+Instead, the company is relying on a 15-year-old satellite called the Moderate-Resolution Imaging Spectroradiometer or MODIS for short. Company CEO David Potere insists it’s not sexy but it gets the job done.
+“Inside each pixel we capture 36 spectral bands at various spatial resolutions,” explains Potere. “We see ourselves as radiologists.”
+The NASA data sets that TellusLabs is using are updated multiple times per day. The tradeoff is that the images captured are of much lower quality. Other sources of imagery don’t offer as much historical depth.
+One of the biggest trends in space right now is the rise of the cube satellite. But popularity aside, Potere believes it will be 5-7 years before enough data exists for building reliable models and before a clean data pipeline exists for the imagery.
+“We don’t have an exciting new deep learning algorithm but we are in the trenches building clean features every day,” explains Potere. “It really is garbage in, garbage out.”
+Agriculture, cooled lava flows, and rainforest in Maui, Hawaii, USA
+The company is very clear that it’s building a geospatial analytics tool and not an AI stack that could do facial recognition with the flick of a switch. The team’s idea is to avoid a large amount of extrapolation from an everything-but-the-kitchen-sink approach to data.
+“We think we know something about plant biology, about how corn and soy grows, so why ignore that” adds Potere.
+An apt metaphor would be whiskey distilling. Nobody would blink an eye if a master distiller, waiting for his own product to mature, sold a curated mixture of second-hand products. Potere argues, essentially, that the same is true for the nascent geospatial analytics space.
+“We’re not luddites about drones or high resolution imagery,” continues Potere.
+In the meantime, Tellus’ competitors are locking down partnerships with wheelers and dealers of satellite imagery. DigitalGlobe is providing Orbital Insight with hundreds of terabytes of high resolution imagery and Planet Labs is getting cozy with Descartes Labs.
+Across the industry, a lot of Tellus’ competitors are eager to provide insights on everything the light touches: forestry, water, industrial monitoring — the list goes on.
+Corn and Soy were a natural starting point for everyone. It’s economically critical meaning people will pay for it and the USDA’s historical data is about as good of a training set as any enterprising machine learning developer can find. The challenge for everyone is going to be finding focus and  revenue at the same time.
+
+ADVERTISEMENT
+ADVERTISEMENT
+Crunchbase
+TellusLabs
+FOUNDED
+2016
+OVERVIEW
+TellusLabs combines decades of satellite imagery with a machine learning platform to answer critical, time-sensitive economic and environmental questions. We focus on high-value sectors where we can reduce our customers’ uncertainty with results that are science-quality, global-scale, and daily-repeat. Our technology allows TellusLabs data scientists to go from concept to a customer-ready signal …
+LOCATION
+Somerville, MA
+CATEGORIES
+Internet, Machine Learning, Agriculture, Geospatial, Developer Platform
+FOUNDERS
+Mark Friedl, David Potere
+WEBSITE
+http://www.telluslabs.com/
+Full profile for TellusLabs
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Samsung Leader Bribery Charges | Crunch Report
+Watch More Episodes

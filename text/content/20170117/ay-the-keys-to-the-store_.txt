@@ -1,0 +1,32 @@
+Apps
+grocery delivery
+foodtech
+StorePower helps groceries deliver like Instacart without giving away the keys to the store
+Posted 50 minutes ago by Lora Kolodny (@lorakolodny)
+
+Next Story
+A startup called StorePower wants to take a bite out of the grocery delivery business by giving supermarkets an alternative to working with courier marketplaces like Instacart, Postmates, Amazon Fresh or Google Express. The company has raised an undisclosed amount of early-stage funding from Exigent Capital and individual angels, according to co-founder and CEO Richard Demb.
+StorePower’s technology helps grocery stores of any size take orders from customers and arrange for in-store pickup or delivery. Customers can order by text message if they so choose, which alleviates the burden of stores asking them to download yet another app. With features like indoor mapping and multi-order picking, the platform also helps grocery stores manage the packing and prepping of customers’ orders.
+Shoppers preparing an order in a store can bypass checkout. By contrast, companies like Instacart and Postmates usually require their personal shoppers to go through a checkout line or dedicated express lane.
+According to Demb, the company was inspired by Abe’s Market, his earlier startup, a high-end online grocery and a kind of spiritual predecessor to businesses like Thrive Market or GrubMarket. Grocery chains consistently reached out to Demb, he says, asking to use the company’s e-commerce platform as a white label solution to reach shoppers online.
+Rather than pivot, Demb and his co-founders sold Abe’s to build a new, software-as-a-service offering for the industry. Terms of the sale of Abe’s were not disclosed, but investors in that earlier business have a stake in StorePower, the CEO confirmed.
+So far, Chicago- and Jerusalem-based StorePower has attracted clients like New York City’s Fairway Market and Gelson’s in Los Angeles, Demb says, along with four other chains that the company did not yet have permission to name.
+“Supermarket brands have spent generations building trust with consumers, and should be engaging with the online customer, not handing that relationship to a third-party app never to win it back,” Demb tells TechCrunch. “Target, Toys-R-Us and Borders let Amazon host their e-commerce in the mid-2000s and never fully recovered.” StorePower gives grocery chains a choice of paying a monthly fee per-location for its software, or paying a share of revenue for orders processed through the platform.
+StorePower intends to focus on the U.S. market, initially, even though the startup has fielded inquiries from European supermarket chains already, Demb says. It’s not surprising that companies want to own the U.S. where grocery deliveries are concerned. According to Morgan Stanley research, domestic spending on groceries reaches $675 billion annually. Groceries sold online represent about 6 percent of the total market, and are expected to grow even beyond that in 2017.
+FEATURED IMAGE: STOREPOWER.COM
+
+ADVERTISEMENT
+ADVERTISEMENT
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Nintendo Switch Hits the Market on March 3 | Crunch Report
+Watch More Episodes

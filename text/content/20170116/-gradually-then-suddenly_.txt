@@ -1,0 +1,40 @@
+Opinion
+CRUNCH NETWORK
+Dronerise: gradually, then suddenly
+Posted 9 hours ago by Jon Evans (@rezendi), Columnist
+
+Next Story
+Drones feel a bit like old news already, don’t they? At least in the Valley, with its hyper-fragmented mayfly attention span. The military has used them for decades. DJI, the undisputed (consumer) polycopter industry leader, was founded in 2006. We tech journalists can’t stop talking about drones, but they’re still mostly playthings, curiosities. One might well ask: what became of all that hype?
+It’s a fair question, given our raised expectations — drones replacing FedEx trucks, drones providing emergency relief, drones creepily face-scanning every protester at a demonstration — but I think it evinces an unrealistic expectation of consistent, linear change.
+Most profound technological change happens “gradually and then suddenly,” to quote Hemingway on bankruptcy in The Sun Also Rises. (Chris Dixon of Andreessen Horowitz wrote a great post about this a couple of years ago.) The question is, how do you know when you’re at the knee of the curve? When does gradually turn into suddenly?
+It’s always hard to be anything like confident about this. It’s the kind of thing that generally only becomes apparent in retrospect when you look at the available data. But there is reason to believe, when we look at the accelerating pace of the drone news of the last few months, that 2017 is the year that drones really begin to, well, take off.
+Consider:
+last month, Amazon began testing its “Prime Air” drone delivery service in Cambridge, England.
+…while 7-11 completed its first month of commercial drone delivery service in Reno, Nevada.
+YC startup Apptonomy is building drones (pictured) that serve as flying security guards.
+Polycopters have grown so routine that much cutting-edge drone research now lies elsewhere, eg the DARPA-funded disposable cardboard drones being developed at Otherlab in San Francisco.
+Meanwhile, consumer drones get better and better — eg the new, foldable DJI Mavic — which in turn causes the general public to grow more accustomed to, and more accepting of, drone use.
+But consumer drones will remain toys for the foreseeable future. The big important drone market, the one to watch, is enterprise / industrial drones … which, in turn, will be heavily affected by regulation. 7-11 has pilots on the ground overseeing its Reno service to obey FAA regulations. Amazon is testing Prime Air in the UK because its drones are (after much testing) allowed to go out of line-of-sight there.
+I attended a Buchalter Connect drones-and-the-law event hosted by the firm of Buchalter Nemer earlier this week, and aviation lawyer Paul Fraidenburgh made an interesting point: the FAA, a previously distant and abstract entity in most American lives, regulates “‘any’ ‘device’ that is ‘used for flight.’” As and when drones become a big part of our lives, so will those federal regulators.
+If that regulation becomes too onerous, though, drone developers will go jurisdiction shopping. Some already are. Three months ago Zipline began its groundbreaking deliveries of medical supplies via drones … in Rwanda. This is partly because Rwanda’s tiny, hilly geography makes drones a very appealing solution, but the lack of heavy-handed regulation can’t hurt.
+Of course the FAA doesn’t regulate military aircraft, and the military is pursuing drone research very aggressively. The Pentagon recently tested a 103-drone swarm, which is a big deal — a true swarm is to a single drone as a multicellular organism is to an amoeba.
+(I wrote a whole novel about FPGA-powered drone swarms in The Wrong Hands eight years ago, so it’s a little personally disconcerting to see that news in conjunction with the reports of the UAVs that ISIS uses daily to attack its enemies.)
+The most important thing to do, though, is to look past all the trees itemized above, and focus on the forest; the speed of drone developments seems to be accelerating.
+Nathan Walter of Buchalter Nemer analogizes drones to smartphones in that the actual aircraft is a platform, like a phone, and what’s installed on / done with it is, in essence, an app. This in turn hearkens back to Chris Dixon’s exponential-growth post: “The core growth process in the technology business is a mutually reinforcing, multi-step, positive feedback loop between platforms and applications.”
+I submit, tentatively, that that feedback loop has finally been established for drones, and we’re at the knee of an exponential growth curve. If so, then prepare to stand back and marvel, because from here on out, the acceleration pedal of dronetech progress / promulgation will, for the foreseeable future, be pressed to the proverbial metal.
+
+ADVERTISEMENT
+ADVERTISEMENT
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Nintendo Switch Hits the Market on March 3 | Crunch Report
+Watch More Episodes

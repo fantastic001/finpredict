@@ -1,0 +1,27 @@
+Gaming
+Battlefield
+Microsoft rolls out update to its Beam game-streaming platform
+Posted 3 hours ago by Lucas Matney (@lucas_matney)
+
+Next Story
+Microsoft has been making notable improvements to the experiences on its Twitch competitor, Beam, since it purchased the startup this past August.
+A major update was just launched globally for the service which highlights a new faster video player, Xbox Live sign-ins, and a redesigned home page that makes the service’s various communities more visible to users. These features had previously only been available to Beam Pro users as a beta. The update to the service was announced on Twitter by Beam founder Matt Salsamendi.
+Operating a streaming empire is insanely resource-intensive and improving video quality has been one of the major areas where Microsoft’s resources have grown the platform’s capabilities. The new HTML5-only player now allows playback at up to 10Mbps at a more crisp max resolution of 1440p at 60fps. Performance has quickened across the site. In December, Salsamendi noted that the site’s initial load time had “been improved 5 times over.”
+Even with the sharpened video player, to existing users the most notable change is likely to be the introduction of Xbox Live sign-ins, something that’s optional now but Microsoft plans to make mandatory in the future. In addition to bringing the infrastructure of Xbox Live including support and account security, the addition allow Xbox gamers a more streamlined way to access the service.
+  Central to Beam is the idea that viewers can take active roles in shaping the streamers’ gaming experiences. Interactivity is key to the platform, allowing viewers to create a closer bond with their favorite eSports athletes, helping them choose characters and weapons or even specific movements during gameplay. These new updates more closely align the service with Microsoft’s current gaming efforts and give the company a more streamlined front as it looks to to take on powerhouses like Twitch and YouTube Gaming.
+
+ADVERTISEMENT
+ADVERTISEMENT
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Chelsea Manning to Be Freed in May | Crunch Report
+Watch More Episodes

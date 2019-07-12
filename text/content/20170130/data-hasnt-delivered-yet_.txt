@@ -1,0 +1,52 @@
+big data analytics
+predictive analytics
+big data
+CRUNCH NETWORK
+Why the promise of big data hasn’t delivered yet
+Posted 1 hour ago by Rosemary Barnett
+
+Next Story
+Rosemary Barnett
+CRUNCH NETWORK CONTRIBUTOR
+Rosemary Barnett is a senior business analyst at Black Swan.
+How to join the network
+The ubiquity of big data is such that Gartner dropped it from their Hype Cycle of Emergent Technologies back in 2015. Across sectors, businesses are scrambling to make every function “data driven,” and there’s no shortage of firms lining up to help them. The big data analytics industry, dedicated to helping big businesses leverage the petabytes of information they now generate and store, is worth $122 billion — and growing.
+The basic premise of the industry’s offering is this: Hidden in that huge mass of enterprise data are latent patterns. If only you could interpret your data properly, like an explorer deciphering an ancient scroll, you’d be able to unearth these precious business secrets. Specialist analytic software tools are needed to crack the code. The big, diverse, disparate, messy data go into these tools, and “actionable insights” come out.
+Here is a game you can play at home: Search online for a real-world story of how big data analytics produced a piece of “hidden” or “unexpected” intelligence, based upon which the business took action, with quantifiable commercial results (preferably expressed in one of the major world currencies). You might just detect a conspicuous absence of concrete case studies to validate this “data-insight-action-value” chain as a concept.
+In the original version of that game, popular among jaded office workers in the mid-2000s, players would seek examples of bloggers who made so much cash from blogging that they quit their jobs to blog full time (at home, in a hammock, with a daiquiri). Veteran players eventually noticed that there is only one blogging topic lucrative enough to support such a lifestyle change — How To Make A Living From Your Blog So You Can Quit The 9-5.
+There’s a natural limit on how far having information about your business is going to help you win at it.
+Clicking through pages of “unlock the value of your big data!” advertorials, a cynic might suspect that the best (and perhaps only) method of deriving value from big data is to go into the business of telling people how to get value from their big data.
+All that’s happened is that technological innovations in data handling capability (made by companies like Google to deal with the scale and complexity of Web 2.0) temporarily leapt ahead of our progress in learning how to apply them — progress we make through experimentation.
+In the interim, firms have defaulted to leveraging big data in exactly the same way they previously used small data: for reporting and business intelligence. Having invested in purpose-built tools to analyze data at scale, they’ve been rewarded with cool interactive dashboards visualizing it. These are basically auto-generated charts, conspicuously similar to the manually created Excel and PowerPoint reports executives were staring at back in 2005, but far prettier and costlier. It’s easy to see why this approach hasn’t quite delivered on the big data promise.
+Firstly, in order for a puny human brain to interpret large and complex data sets, the data sets must first be made “smaller” via aggregation, summarization, description and presentation, which kind of misses the point.
+Secondly, there’s just a natural limit on how far having information about your business is going to help you win at it. An enterprise’s data is simply the digital impression left behind by real-world transactions. Typically, mining that internal data will validate basic hypotheses upon which the business is predicated (“we make profits in our luxury fashion stores when they’re located in affluent areas”). In the worst case, it can make you uncomfortable by totally undermining those core assumptions without suggesting a back-up plan — (“we thought people bought ice cream on impulse when it’s hot and sunny outside; turns out we were wrong”).
+Big businesses have absorbed Google-style tech, but are only just beginning to adopt Google-style thinking alongside it. Machine-learned translation algorithms, made possible by the availability of a massive corpus of textual training data and souped-up processing power, have no conception of French or Arabic grammar. Amazon’s recommendation algorithms generate 35 percent of sales without knowing why certain products are “frequently bought together.” It’s this very characteristic that makes them so powerful — if a machine can’t judge, it can’t make the errors of judgement to which humans are prone.
+The beauty of predictive algorithms is that they don’t need to understand the cause and effect behind statistical relationships.
+Algorithms now detect when drilling equipment in oil fields is about to fail based on thousands of sensor data points, enabling “predictive maintenance.” Imagine if, instead of applying machine learning to the problem, analysts had compiled these complex data sets into summary reports and tried to divine “insights” about why the equipment breaks so they could attempt to stop it from happening.
+The beauty of predictive algorithms is that they don’t need to understand the cause and effect behind statistical relationships in order to work incredibly well in practice. For an enterprise to glean the benefits of prediction, it must first give up trying to deduce why things are a certain way, and start trusting the lines of code which tell us that they are.
+This requires a cultural shift, and all new technologies encounter initial mistrust. But the time is right. It’s 2017, and your understanding is unnecessary. The artificial intelligence has rendered you obsolete. Now rejoice, because we are about to achieve some incredible things.
+Applied prediction
+Predictive analytics is used to detect fraud and stop cyberattacks, but it’s largely an unexplored frontier for most consumer-facing businesses. Misconceptions about what “prediction” means in this context are partly responsible — forecasting the future is just a special case of the general capability. But there’s also an unspoken feeling that using computer models to make decisions is somehow a risky business.
+We can evaluate how accurate predictive models are before unleashing them to make real-world decisions. We can even choose the “type of accurate” we care about, and automatically build the best possible model for that criterion (favoring false positives over false negatives, for example). For most business use cases, a model doesn’t have to be terribly accurate before it’s already beating the competition (namely, the way that decision was made before). We can also simulate how the old and new methods perform against each other from the safety of a virtual lab.
+Knowing how to rig the game so the computer easily wins is the most important trade secret in applied prediction.
+On the flip side, it’s entirely possible to make life difficult for yourself when designing an algorithm. The Google Flu Trends project is often cited as an example of “when machine learning goes awry” — even as a failure of big data itself. The algorithm aimed to estimate the prevalence of real-world flu cases based on Google search queries trained on historical data about both. Initially it performed well, but was soon wildly over-estimating the number of cases. Machine-learned algorithms are supposed to get better over time, not worse.
+It’s perhaps better to approach the same subject in the context of consumer healthcare. Building a model to pinpoint outbreaks of the sniffles based on geo-located tweets, where users mentioned the symptoms, means that by choosing the right “indicator” data it would deliver a much better accuracy. Twitter networks mimic real-life social networks, so the spread of a contagious bug around a community of people is mirrored there.
+But what really made the difference was the choice of what to predict. Google’s algorithm tried to estimate the number of people affected by a flu outbreak — the other just had to predict the time and place. Knowing how to rig the game so the computer easily wins is the most important trade secret in applied prediction.
+We’ve barely scratched the surface of what’s possible with commercial applications of artificial intelligence. To make progress, business leaders need to take a step into the future by nominating the parts of their enterprise they’re prepared to make truly “data driven” — and surrendering them to the science.
+FEATURED IMAGE: GREMLIN/ISTOCK/GETTY IMAGES
+
+ADVERTISEMENT
+ADVERTISEMENT
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Galaxy S8 Coming in March | Crunch Report
+Watch More Episodes

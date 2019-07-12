@@ -1,0 +1,55 @@
+Wearables
+Fitbit
+Apple Watch
+Pebble
+Jawbone
+Wearables have got some work to do this year
+Posted 1 hour ago by Brian Heater (@bheater)
+
+Next Story
+It’s a wait and see moment for wrist-worn devices. After a few years of betting heavily on the space, this most recent CES didn’t offer much; save for two or three smartwatch announcements, some partnerships and a couple of middling bands, the industry seems to have largely shifted its focus toward the connected home and the seemingly attainable dream of sticking Alexa in everything.
+Some of the hesitation on the part of manufacturers no doubt owes much to the delay of Android Wear 2.0 — which really couldn’t have come at a less opportune time, missing both the holiday rush and the biggest tech show of the year. The latest version of Google’s wearable operating system is due out next month — likely February 2.
+When it arrives, it’ll greet an industry licking its wounds. The disappointing CES was really par for the course following a fairly lackluster — and in some cases toxic — 2016. In October, IDC published a pretty dismal report noting what it deemed “significant” declines with total shipments dropping 51.6 percent year-over-year. In December, we noted a study from eMarketer that dramatically cut expectations for the wearable space, stating, “Smartwatches in particular have failed to impress customers.”
+Some of the biggest players in the space had a rough go of it last year. Fitbit’s stock had a rough go of it, and Intel seems to have backed away from some of its more bullish ambitions in the space. Toward the end of the year, it was revealed that Microsoft’s ambitions for the Band were pretty much dead in the water, ending sales for the 2, with no sign of a third device on the horizon. What’s going on with Jawbone is anyone’s guess, but it sure isn’t pretty.
+The company recently rebuked Fitbit’s claims that it was essentially bankrupt, which arose as a lawsuit against the company was dropped. But even if Fitbit’s claims were indeed overblown, things have been looking pretty rough for Jawbone of late, with the recent exit of its CFO as the company reportedly looks for funding and considers a move away from consumer-facing devices.
+And then there’s Pebble. The crowdfunding darling that was at the front of the smartwatch boom didn’t make it through the year at all. The company made one final play with two new smartwatches and a new mobile device for runners and only managed to deliver one of the three. Soon after, it was revealed that the company would be absorbed into Fitbit, with the Pebble brand end-of-lifing.
+It’s not all doom and gloom. Canalys cited increases for smartwatches toward the end of the year. According to to the group, “Despite reports to the contrary, Canalys research shows that shipments compared favorably to those in Q3 2015, the first full quarter after the original Apple Watch’s launch in April 2015.” Of course, it puts a lot of eggs in the Apple Watch basket, largely crediting Apple with the market’s uptick.
+Canalys and others chalk much of last year’s downturn to later than anticipated releases from Apple, Samsung and the continued delay of Android 2.0. Between those players, after all, you’ve got a pretty substantial portion of the market.
+Even still, it’s hard to deny that the space is at a crossroads. It could be growing pains, it could be the beginning of the next step in the evolution of wearables, or it could be something more troubling for the category. Wearables may well be a victim of their own early success. The category’s growth seemed almost unprecedented, moving from novelty to ubiquity in no time.
+It’s very possible that the market has hit a saturation point. Some may have also banished their devices to the junk drawer — after all, wearables have the doubly difficult distinction of being both gadgets and fitness products, harbingers of good intentions that drop as quickly as a New Year’s resolution. Not to mention the fact that many devices are little more than an overblown pedometer, something any smartphone worth its salt already has built-in.
+What’s clear is that something needs to change. It’s hard to imagine Android Wear being so profound an upgrade so as to reignite the space, but at the very least, it ought to usher in another generation of hardware. What hardware companies need to do is draw inspiration from the space so far. Users clearly have an interest in these health metrics, and certainly the infrastructure is now in place from all the big hardware companies.
+The next generation of wearables needs to under-promise and over-deliver. Consumers are well aware that the products won’t change their habits overnight, so perhaps the next generation of product is one that’s there when you need it and out of the way when you don’t — be it embedded in a piece of clothing or a hybrid smartwatch.
+Hopefully a rocky 2016 will result in some genuine innovation for the market, now that the deluge of me-too smartwatches and bands has begun to slow down.
+FEATURED IMAGE: BRYCE DURBIN
+
+ADVERTISEMENT
+ADVERTISEMENT
+Crunchbase
+Fitbit
+FOUNDED
+2007
+OVERVIEW
+Fitbit inspires people to exercise more, eat better and live healthier lifestyles. The company is developing an ultra-compact wireless wearable sensor, called the Fitbit Tracker, that automatically tracks data about a person's activities, such as calories burned, sleep quality, steps and distance. The Fitbit Tracker collects activity data automatically while it is worn by the user all day. …
+LOCATION
+San Francisco, CA
+CATEGORIES
+Wearables, Bitcoin, Fitness, Health Care, Cloud Computing, Personal Health, Software
+WEBSITE
+http://www.fitbit.com
+Full profile for Fitbit
+Jawbone
+Pebble
+Apple Watch
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Zoom CEO Eric Yuan Raised $100 Millon | Crunch Report
+Watch More Episodes

@@ -1,0 +1,54 @@
+Developer
+pricing plan
+Pricing
+CRUNCH NETWORK
+Four pricing mistakes you’re making with your developer product
+Posted 6 hours ago by Peter Chapman
+
+Next Story
+Peter Chapman
+CRUNCH NETWORK CONTRIBUTOR
+Peter Chapman is director at Heavybit, a nine-month program for post-seed startups building developer products.
+How to join the network
+Developer product companies are asked to do two things: achieve near-ubiquitous adoption through an accessible, hobbyist-friendly offering, and convince large companies to pay them money. Unfortunately, these two goals often run contrary to each other.
+Heroku’s* free dyno is a great example of this. Heroku’s initial pricing had a single unit — the dyno — and only charged for incremental dynos beyond the first. An app running one dyno would cost $0/month, an app running two dynos would cost $37.50/month, an app running three dynos would cost $75/month, etc.
+This free dyno was immensely successful in driving active usage metrics — hobbyists and students loved the fact that they could create web apps for free. The company ran into trouble, however, when Heroku started charging large enterprises for the same functionality. These large customers were savvy enough to realize that they were paying more per dyno than many of Heroku’s smaller customers that received one dyno for free, leading to some difficult negotiations. It took Heroku a couple of iterations to fix this problem — ultimately by decoupling its free tier from its standard offering.
+The following is a list of the common mistakes developer-focused companies make when pricing their products and services.
+Error No. 1: Your pricing dashboard does not include an enterprise option
+Even if your company doesn’t have an enterprise product yet (you aren’t alone), you still need to build an “Enterprise” column into your pricing chart with a big “Contact Us” button.
+This simple add-on immediately gets you three things: It provides a signal to investors, customers and future partners that you have an enterprise roadmap; it wins you trust from developers as they now know that they can one day implement your product at scale; and, most importantly, it gives you a list of people interested in paying for you product.
+When your enterprise product is ready, you’ll hand that list to your head of sales — and they will thank you for it.
+Error No. 2: Your low-end plans are cannibalizing your more expensive plans
+This problem can be tricky to spot — your customers probably won’t tell you that your product is worth more than what they’re paying.
+To avoid this, look for warning signs like sluggish conversion rates to more expensive plans or big logos that are “stuck” on low tiers. It’s likely you’ve already done everything you can to have as awesome an enterprise product as possible, so this problem is going to require you to do something rather painful: You’re going to have to remove features from your free offering to make it less attractive.
+Be warned, you likely will not enjoy doing this. Your coworkers are going to strongly disagree with this decision. Your users will not be thrilled that you are doing this — and they will tell you that.
+That’s OK. Implement a generous grandfathering plan. Remind your team that you do, in fact, need to make money. Trust that this will be small news in a few months.
+Error No. 3: You’re pricing off of infrastructure costs
+Imagine: It’s Friday night, and you’re headed to the new restaurant in town. You open the menu and see this:
+Guests are welcome to configure their own dishes:
+Carbs: $26.20/lb
+Fats: $37.50/lb
+Proteins: $42.78/lb
+Gross, right?
+Unless you’re selling infrastructure, it’s rarely appropriate for your pricing to be a function of bytes. Don’t base your pricing off storage, data transfer or compute. Not only do these plans make it difficult for customers to estimate how much your product will actually cost, it gets them thinking about it in entirely the wrong frame. All of a sudden they’re doing some simple back-of-the-envelope math comparing the price of your infrastructure to how much the same stuff costs on AWS and you look very, very expensive — and they’re wondering how hard it would be to just build this from scratch.
+Error No. 4: You bill based on usage instead of bundling
+You’ve seen this pricing plan: use as much as you want, pay for what you use. This sort of free-form pricing provides flexibility, transparency and ease-of-use… and is a terrible idea. Your users may care about flexibility; their managers care about predictable costs. Nothing is scarier to folks who manage budgets than a vendor that could charge an arbitrary amount per month.
+Thankfully, there’s a straightforward solution here: Come up with a handful of plans with distinct thresholds across whatever metrics you care about.
+*Disclosure: Heavybit was founded by Heroku‘s founder James Lindenbaum. James cut ties with Heroku in 2013 shortly after the company was acquired by Salesforce. Salesforce is an investor in Heavybit. The author of this post previously worked at Heroku and was a member of the team that worked on pricing.
+FEATURED IMAGE: MACROVECTOR/ISTOCK/GETTY IMAGES
+
+ADVERTISEMENT
+ADVERTISEMENT
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Samsung Leader Bribery Charges | Crunch Report
+Watch More Episodes

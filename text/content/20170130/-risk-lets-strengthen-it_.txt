@@ -1,0 +1,29 @@
+Opinion
+CRUNCH NETWORK
+Voting is at risk; let’s strengthen it
+Posted 10 hours ago by Jon Evans (@rezendi), Columnist
+
+Next Story
+In the wake of President Trump’s ludicrous lies about illegal votes in November’s election — immediately after the lies about the size of the audience for his inauguration — it’s tempting to just point and laugh at his apparent insecurity and fears of illegitimacy. He does, though, inadvertently raise a point worth considering: how can we strengthen the integrity of our voting systems?
+After all, the sitting president is eager to call those systems into question after he wins; this makes it seem likely that he — and the party he represents — will sooner or later begin to reject the result of elections they lose. Can technology help us to ensure that elections, and their results, continue to be free and fair? (Modulo suppression of voters who simply aren’t allowed to register/vote, of course; there’s not much technology can do about that.)
+The answer is, briefly, “yes.” In fact quite a lot of research has gone into end-to-end auditable voting systems, i.e. ones that can, through the magic of cryptography and/or one-way functions, be audited without endangering the sanctity of the ballot box. I encourage you to read through some of the linked options.
+A feature common to most auditable voting systems is the “receipt.” The idea is: after voting, voters receive a paper receipt with some kind of serial number. All serial numbers and votes are then posted online, so that voters who keep their receipts can ensure that their vote was tallied correctly. Other kinds of fraud — stuffing ballot boxes, etc. — will, at least in theory, be statistically detectable because they will skew the ratio of voters-who-keep-receipts to votes.
+Alas, most such systems require complex or confusing behavior on the part of the voter, in order to ensure that no one can possibly prove to a third party who they voted for. (That would encourage coercion, bribery, etc.) So I’d like to draw your attention to an extremely simple solution — so simple that it is barely more than an appendix to a 2007 paper by cryptography legend Ron Rivest with Warren Smith.
+This system is brilliantly elegant. It proposes that every voter gets the option to claim someone else’s vote receipt, selected randomly, for later verification. Voters confirm their receipts before they leave; receipts include both a serial number and the details of the vote; and, subsequently, anyone who took a receipt can verify that it was correctly counted against the public vote registry, which tabulates serial numbers and votes. This ensures votes are counted, and can help guard statistically against vote-stuffing.
+It’s not a panacea, obviously. In particular, it can’t solve the problem of eligible voters who are forbidden from voting in the first place for false, trumped-up reasons. But it is extremely simple and easy to implement — and anything which makes the voting process more transparent and verifiable, and safeguards democracy, seems very welcome in these turbulent times. Voting is the lifeblood of democracy; let’s make sure it’s never tainted.
+
+ADVERTISEMENT
+ADVERTISEMENT
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Galaxy S8 Coming in March | Crunch Report
+Watch More Episodes

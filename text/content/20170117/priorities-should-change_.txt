@@ -1,0 +1,54 @@
+Artificial Intelligence
+machine learning
+OpenAI
+CRUNCH NETWORK
+OpenAI has admirable intentions, but its priorities should change
+Posted 4 hours ago by Michael Schmidt
+
+Next Story
+Michael Schmidt
+CRUNCH NETWORK CONTRIBUTOR
+Michael Schmidt is the founder and CTO of Nutonian.
+More posts by this contributor:
+Clarifying the uses of artificial intelligence in the enterprise
+How to join the network
+Artificial intelligence is one of the hottest topics in both business and science. Developers and industry analysts are all-in, building castles in the sky with tales of an impending AI “awakening.”
+In preparation for this sea change, Elon Musk and Sam Altman founded OpenAI, a nonprofit with the dual mission of ensuring that AI stays safe and its benefits are as widely and evenly distributed as possible.
+While it’s important to develop AI and harness its powers responsibly, it’s incorrect for OpenAI to focus solely on one or two types of AI, like reinforcement learning. Reinforcement learning is among the least used types of AI, and it offers few immediate safety threats or value to people and businesses. Instead, OpenAI should be honing in on the more widely used forms of AI that already pose significant risks (supervised learning) and astounding benefits (machine intelligence).
+OpenAI is right to assume that potential dangers loom in AI should it go completely unchecked. Nick Bostrom’s famous “paperclip maximizer” thought experiment is a good example. Where OpenAI is missing the mark is in the subfields of its choosing to invest its resources. OpenAI’s primary focus — reinforcement learning — is a class of machine learning algorithms used for tasks like chatbots, video games and robots. Interestingly, it doesn’t typically start with data or try to learn from an existing data set. Rather, it attempts to learn to control an agent, like a robot, based purely on a set of actions it can take and its current state.
+The downside of reinforcement learning is that it’s at least 20-30 years away from real maturity, and it isn’t immediately applicable to most business problems. That is, people and businesses are not clamoring for chatbots or interactive agents; they tend to have more data than they can analyze, and they’re invested in extracting meaning and value from it. Reinforcement learning perhaps holds the most long-term potential to become a sentient robot, but it’s a technology that should be monitored — but not highly prioritized — in the next few years.
+Clear and present danger
+There’s one type of artificial intelligence already in use that poses a much greater immediate threat to society: standard supervised learning. Ignoring the science fiction scenarios of humans being transformed into paperclips or Terminator-esque robots exterminating humanity, we arrive at the present. Supervised learning refers to machine learning that uses past data to make predictions, often times with equations so long and complex that they’re completely opaque to human interpretability and understanding.
+Many companies on the current “cutting-edge” of machine learning and data analytics are implementing supervised learning, or black-box modeling. As supervised learning matures and becomes more entrenched in business processes, it poses serious potential problems. Supervised learning is highly susceptible to “data overfitting,” whereby analytical models that are built to explain how a system works are overly fine-tuned to include and account for every variable and historical data point. The result is a model that actually does not generalize well to new situations, because past data is based on a sampling and doesn’t necessarily reflect the greater trend, or “rules,” underlying the system.
+If we can’t understand why a prediction is being made, it loses much of its significance.
+You may very well, therefore, be left with a model that’s too specific to past situations and not relevant to understanding new ones. If you were to utilize a supervised learning algorithm to automatically trade financial assets, for example, and included data from the Great Depression, the algorithm may notice that the market crashed right as a new chain of coffee shops opened. This spurious correlation might unknowingly become part of your bank’s financial model, and the next time a similar large coffee chain opens, it triggers a massive automated sell-off of assets that poisons the greater financial system.
+Because people don’t know how supervised learning models function (even, in many cases, the people who built them), it could lead to financial crashes, people being denied loans for unknown reasons or even patients being misdiagnosed for treatments and disease. In addition to spurious correlation, inaccurate predictions could arise from a lack of complete data about the problem, or from a pernicious attack by an adversary.
+The point is, we are not yet ready to base all our business decisions, healthcare decisions and important life decisions off models that are independent of any human understanding behind them. If we can’t understand why a prediction is being made, it loses much of its significance or reassurance that it’s correct.
+Have your algorithms — and understand them, too
+If supervised learning is among the most threatening types of AI, what’s the most valuable and encouraging? Machine intelligence. Machine intelligence is the subfield of artificial intelligence that enables people and companies to both profit and problem-solve for some of the most pressing business and societal issues of our time.
+Machine intelligence automates the discovery and explanation of answers from data. Machine intelligence technology can automatically crunch raw data to make new discoveries and explain back to the human what it has learned. It’s not an autonomous, thinking robot. It sifts through seemingly chaotic data to find the most meaningful variables, patterns and causal explanations for what’s happening and why.
+Related Articles
+OpenAI's Universe is the fun parent every artificial intelligence deserves
+The barbell effect of machine learning
+Is Singularity Near?
+'Appocalypse,' Or How I Learned To Stop Worrying And Love AI
+Now, instead of trying to make sense of a black-box model for breast cancer prediction, which could help millions of patients across the globe, machine intelligence could provide a model that’s entirely transparent about why it’s generating that prediction. “Here are the strongest indications or influences when predicting a breast cancer diagnosis, and here’s how the patient rates in each of them.” The insights and ease of understanding of the model is something that is likely to revolutionize the way business, and problem solving in general, is achieved. To date, machine intelligence is the closest we’ve come to a robotic scientist, only without the complicated potential side effects of a conscious AI.
+Machine intelligence has very real applications for enterprise businesses, as well. It has been used in critical projects such as forecasting U.S. electricity demand, identifying global climate change patterns, creating new materials for jet engines, understanding how galaxies develop and optimizing corn yield and planting patterns. The business applications of machine intelligence are endless, with a smart machine that can think like a scientist and produce new explanations for how any system works.
+The world can benefit enormously from machines that can digest real-world information and help interpret situations where there are no clear answers. This is where the rise of smart machines and most AI technologies is falling short — a problem that machine intelligence was born to solve. Musk and others would be wise to take note.
+FEATURED IMAGE: ASAFTA/ISTOCK/GETTY IMAGES
+
+ADVERTISEMENT
+ADVERTISEMENT
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Nintendo Switch Hits the Market on March 3 | Crunch Report
+Watch More Episodes

@@ -1,0 +1,28 @@
+Oculus/ZeniMax case goes to jury as damages sought increases to $4 billion
+Posted 6 hours ago by Lucas Matney (@lucas_matney)
+
+Next Story
+The lawsuit threatening the future of Facebook’s Oculus VR may have just gotten a lot more expensive.
+Yesterday, in closing statements the legal team representing ZeniMax Media asked the jury in a Dallas courtroom to rule against Oculus VR and award $2 billion in compensation as well as another $2 billion in punitive damages, Polygon reports.
+The case, which hinges on the claim that Oculus VR and its founder Palmer Luckey stole fundamental VR technologies from ZeniMax Media subsidiary id Software, asserts that these contributions were fundamental to the success of the company, which was acquired by Facebook for around $3 billion in March of 2014.
+In delivering closing statements, ZeniMax attorney Anthony Sammi referenced findings that information had been erased from Oculus computers just three minutes before they were imaged for the court case as well as correspondence between then-Oculus CEO Brendan Iribe and Facebook CEO Mark Zuckerberg, which he framed as evidence of collusion. Sammi furthermore insisted that the technology feeding the most important software functions on the Rift headset shipped to early Kickstarter backers was based on code from id Software intellectual property.
+“If they could make it, why’d they take it?” Sammi reportedly told the jury, referencing VR-related company intellectual property.
+The legal team representing Facebook and Oculus, in turn, suggested that ZeniMax’s claims were “sour grapes,” and the result of embarrassment for not recognizing the potential market of virtual reality. Furthermore the defense referenced the findings of a forensic expert who didn’t see any evidence of code copying in what Oculus had shipped, while also asserting that most of the “trade secrets” ZeniMax’s legal team was lauding were already publicly known and that other solution to the problems already existed.
+With the jury expected to continue deliberations into next week before delivering their decision, this is sure to be a tense time for Facebook and Oculus. Zuckerberg is continuing to move VR operations forward, a platform he calls “the next major computing platform.” Just this week he announced Hugo Barra will be leaving Xiaomi to become the VP of virtual reality at Facebook and Oculus.
+FEATURED IMAGE: GABRIELLE LURIE/GETTY IMAGES
+
+ADVERTISEMENT
+ADVERTISEMENT
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+AppDynamics CEO Talks Cisco Acquisition | Crunch Report
+Watch More Episodes

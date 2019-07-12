@@ -1,0 +1,47 @@
+Gadgets
+CES 2017
+E Ink
+E-Ink and Quirk Logic look to replace whiteboards with 42-inch Quilla displays
+Posted 18 hours ago by Devin Coldewey, Contributor
+
+Next Story
+What would you do if you had an e-reader the size of a TV? Probably not read books. E-Ink and Quirk Logic think you’d write on it, and that’s what they hope you’ll do with the Quilla, a 42-inch display that works as both signage and a digital whiteboard.
+I’m a sucker for e-paper stuff in general, but this thing is also just pretty cool. It’s the first application of the largest display E-Ink has created, and the result of a three-year collaboration with Quirk Logic.
+The battery-powered Quilla weighs about 22 pounds and is less than 2mm thick, making it easy to hang on the wall or take down and put on a table It’s 2160×2880 — kind of a nowhere resolution between 2K and 4K, but enough that it won’t hurt your eyes while you’re annotating a huge map or sketching out a workflow.
+It’s sort of like a minimalist Surface Hub: no crazy multi-touch gestures or movies for this thing, but you can throw graphics up there, save what you’ve sketched or written, and connect multiple Quillas to make a multi-headed megadisplay.
+Latest from CES 2017
+Garmin makes a multisport watch for
+Nemonic is like Post-It notes with IoT smarts
+Lego targets pre-Mindstorms minds with its
+Airthings wants you to measure the Radon in
+
+ADVERTISEMENT
+ADVERTISEMENT
+Crunchbase
+E Ink
+FOUNDED
+1997
+OVERVIEW
+E Ink Corp. is a supplier of electronic paper display (EPD) technologies. Products made with E Ink's electronic ink are designed to possess a paper-like high contrast appearance, ultra-low power consumption and a thin, light form. E Ink's technology is tailored for many consumer and industrial applications including handheld devices, watches, clocks and public information and promotional signs.
+LOCATION
+Cambridge, MA
+CATEGORIES
+Hardware, Electronics, Manufacturing
+FOUNDERS
+Joe Jacobson, J.D. Albert, Russ Wilcox, Jeremy Rubin, Barrett Comiskey
+WEBSITE
+http://www.eink.com
+Full profile for E Ink
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Intel Buys 15% of Here Mapping Business | Crunch Report
+Watch More Episodes

@@ -1,0 +1,59 @@
+Artificial Intelligence
+AMA
+artificial intelligence
+You should read this super-interesting AMA with AI researcher Joanna Bryson
+Posted yesterday by Devin Coldewey, Contributor
+
+Next Story
+The field of artificial intelligence is a large one, full of interesting research, arguments, and people — so you could be forgiven (as I hope to be) for not being familiar with Joanna Bryson, professor of CS at the University of Bath who for decades has studied AI and its many ethical and technical conundra. She just wrapped up an AMA and you should read it.
+Bryson handles a good crop of questions from the Science subreddit with wonderful insight and humor, plus a knack for epigrams that sum the problem up in a new way that changes one’s perspective. Here are a handful of excerpts. (The questions are paraphrases, but her answers are selectively quoted with very minor spelling corrections.)
+We may not owe robots human rights merely because they look and act human, but will they reach a state of self-awareness to which we will be obligated to accord rights?
+There are two things that humans do that are opposites: anthropomorphizing and dehumanizing. I’m very worried about the fact that we can treat people like they are not people, but cute robots like they are people…We are used to applying ethics to stuff that we identify with, but people are getting WAY good at exploiting this and making us identify with things we don’t really have anything in common with at all.
+Related Articles
+'AI-powered' is tech's meaningless equivalent of 'all natural'
+Microsoft acquires Maluuba, a startup focused on general artificial intelligence
+Omidyar, Hoffman create $27M research fund for AI in the public interest
+Even if we assumed we had a robot that was otherwise exactly like a human (I doubt we could build this, but let’s pretend like Asimov did), since we built it, we could make sure that its “mind” was backed up constantly by wifi, so it wouldn’t be a unique copy. We could ensure it didn’t suffer when it was put down socially. We have complete authorship. So my line isn’t “torture robots!” My line is “we are obliged to build robots we are not obliged to.”
+[from a follow-up question] I do sometimes feel obliged to robots — some robot makers are very good at making the robot seem like a person or animal so you can’t help feeling obliged. But that’s why the UK EPSRC robotics retreat said tricking people into feeling obliged to things that don’t actually need things is unethical.
+If an AI can be said to reason, feel, suffer, should err on the side of caution and treat them like people?
+I think you are on to something there with “suffer”… But suffering is something that I don’t think we can really ethically build into AI. We might be able to build it into AI (I kind of doubt it), but if we did, I think we would be doing AI a disservice, and ourselves.
+If we built perfect simulation of our nervous system, wouldn’t it be conscious and self-aware? Or do we first need to figure out what consciousness even is?
+It’s not about “figuring out what consciousness is.” The term has so many different meanings. It’s like when little kids only know 10 words and they use “doggie” for every animal. We need to learn more about what really is the root of moral agency.
+If by “conscious” you mean “deserving of moral status,” well then yes obviously anything conscious is deserving of moral status. But if you mean “self aware,” most robots have a more precise idea of what’s going on with their bodies than humans do.
+Would owning a general AI with wants and desires make you a slave owner?
+Since they will be owned, they WILL be slaves, so we shouldn’t make them persons. Given they will be owned, we should not build things that mind it. Believe me, your smart phone is a robot: it senses and acts in the real world, but it does not mind that you own it. In fact, the corporation that built it is quite happy that you own it, and lots of people whose apps are on it. And these are the responsible agents.
+Humans are basically biological robots. If a machine can think, doesn’t that make it self aware and deserve rights?
+Are you giving rights to your smart phone? I was on a panel of lawyers and one guy was really not getting that you can build AI you are not obliged to, but he did buy that his phone was a robot so when he said yet again “what about after years of good and faithful service?” I asked what happened to his earlier phones and he’d swapped them in.
+How do we define friendly and unfriendly, or when an AI has become “evil”?
+I would talk about in group and out group rather than friendly and unfriendly, because the real problem is humans, and who we decide we want to help. At least for now, we are the only moral agents — the only ones we’ve attributed responsibility to for their actions.
+So whether a device is “evil” depends on who built it, and who currently owns it (or pwns it — that’s not the word for hacked takeovers anymore is it? showing my age!) AI is no more evil or good than a laptop.
+Could we actually make Asimov’s 3 laws of robotics work, i.e. be immutable concepts in every AI?
+Hi, great question, no. Asimov’s laws are computationally intractable.
+The first 3 of 5 UK’s EPSRC Principles of Robotics are meant to update those laws in a way that is not only computationally tractable, but would allow the most stability in our justice system.
+How do you solve trolley problems without defining what “good” is?
+The trolley problem is in no way special to AI. People who decide to buy SUVs decide to protect the drivers and endanger anyone they hit. I think actually what’s cool about AI is that since the programmers have to write something down, we get to see our ethics made explicit. It’s most likely going to be “brake!!!” The odds that a system can detect a conundrum and reason about it without having chance to just avoid it seems incredibly unlikely
+How far are we from the singularity?
+I think human culture is the superintelligence Bostrom & I J Good were talking about. Way too many are projecting this into AI partly to push it into the future. But eliminating all the land mammals was an unintended consequence of life, liberty & the pursuit of happiness.
+(You can read the rest of the AMA over at Reddit.)
+FEATURED IMAGE: GETTY IMAGES
+
+ADVERTISEMENT
+ADVERTISEMENT
+Crunchbase
+AMA LTD
+FOUNDED
+2012
+Full profile for AMA LTD
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Nintendo Switch Hits the Market on March 3 | Crunch Report
+Watch More Episodes

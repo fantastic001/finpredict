@@ -1,0 +1,54 @@
+Apps
+Airbnb
+Tilt
+gofundme
+Airbnb is in talks to acquire social payments startup Tilt
+Posted 12 hours ago by Matthew Lynley (@mattlynley)
+
+Next Story
+We’d been hearing murmurs for a while that Tilt was up for grabs and was talking to a few folks in recent weeks, and in early January we caught wind that the company may be acquired by Airbnb. It looks like the chatter was right. The Information reported today that the company is in talks with Airbnb for an acquisition, and the report jives with what we’ve heard as well.
+The move makes sense given Airbnb’s recent expansion into experiences, where it basically wants to go beyond just a lodging booking service to wrap the company around the entire trip. Acquiring Tilt would not only give Airbnb experience in the payments space in general, but also experience working with payments around social gatherings and events — and specifically getting those funded. Tilt was already popular with the college crowd in booking social events like trips and parties, and extending that to Airbnb seems natural enough.
+Related Articles
+Lawsuit claims Snap Inc. hasn't been honest about its pre-IPO performance metrics
+New Google Tilt Brush demo shows what it's like to paint with friends in VR
+Tilt dives into one-to-one payments
+Facebook unlocks tilt-viewing of your panoramas with "360 Photos"
+The price, we hear from sources familiar with the matter, is north of $50 million, though the deal is still fluid and things could change. The Information reported that the price may be between $10 million and $20 million. Either way, it’s a significant drop off from the $400 million valuation it picked up in May 2015. Tilt raised around $30 million in that financing round, and in total has raised around $62 million.
+To be sure, Tilt faced a lot of challenges in the group payments space. Already active and aggressive in the space was GoFundMe, which looked successful enough to even attract suitors like PayPal, according to our sources. In June last year, GoFundMe picked up a new financing round — that essentially let VCs buy out the company from its founders — at a $600 million valuation.
+Tilt has been working to aggressively expand internationally. With areas abroad with a sort of cultural overlap with Tilt’s domestic market — especially college campuses — the company sought to build a playbook that could systematically move from country to country. When it launched Canada’s market was expanding faster than Tilt’s domestic market in its first twelve months, for example. So Tilt also has experience deploying strategies abroad that could also assist Airbnb in solidifying its dominance as the go-to travel experience tool internationally.
+Tilt recently tried expanding beyond its typical payments around social activities with the addition of one-to-one payments. With Tilt’s expansion internationally, the company sought to beat other payments providers to the punch abroad and create essentially a one-stop shop for payments between peers. While not a direct perpendicular move away from payments around events and social causes, it did represent a new set of challenges for the startup.
+Since launch, Tilt has had to grapple with the problem of payments for groups of people — and eventually one-to-one. So it would make sense that the company with that experience would fit naturally within Airbnb, even if it were a technology and talent acquisition. It may be that the crowdfunding space was simply winner-take-all and GoFundMe snapped up the market while Indiegogo and Kickstarter focus on their niches, and Tilt’s ideas make more sense within the broader context of a company like Airbnb.
+As the information noted, the notion that Airbnb would acquire Tilt probably doesn’t seem that radical in retrospect given Airbnb CEO Brian Chesky wrapped Tilt and CEO James Beshara into a tweet stream asking about potential changes and new products.
+Founded in early 2012, Crowdtilt was initially bunched together with crowdfunding platforms like Kickstarter and Indiegogo. But over time, the crowdfunding platforms have diverged toward different use cases and niches, with the rise of GoFundMe in more abstract causes and Tilt tapping into social payments demand on college campuses in particular. Meanwhile, Kickstarter and Indiegogo remain project-focused.
+Tilt declined to comment. Airbnb also declined to comment.
+FEATURED IMAGE: TILT
+
+ADVERTISEMENT
+ADVERTISEMENT
+Crunchbase
+Airbnb
+FOUNDED
+2008
+OVERVIEW
+Airbnb is a community marketplace for people to list, discover and book unique spaces around the world through mobile phones or the internet. Whether an apartment for a night, a castle for a week, or a villa for a month, Airbnb connects people to unique travel experiences at any price point, with [over 2M listings in 34K cities and 192 countries](https://www.airbnb.com/about/about-us). With a growing …
+LOCATION
+San Francisco, CA
+CATEGORIES
+Marketplace, Travel, Travel Accommodations, Sharing Economy, Hospitality
+WEBSITE
+http://airbnb.com
+Full profile for Airbnb
+Tilt
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Chan Zuckerberg Initiative Acquires Meta Search | Crunch Report
+Watch More Episodes

@@ -1,0 +1,75 @@
+CRUNCH NETWORK
+AI’s open source model is closed, inadequate, and outdated
+Posted 2 hours ago by Kumar Srivastava (@kumarSSR)
+
+Next Story
+Kumar Srivastava
+CRUNCH NETWORK CONTRIBUTOR
+Kumar Srivastava is a vice president of product and strategy at BNY Mellon.
+How to join the network
+Artificial Intelligence is big. And getting bigger. Enterprises that have experience with machine learning are looking to graduate to Artificial Intelligence based technologies.
+Enterprises that have yet to build a machine learning expertise are scrambling to understand and devise a machine learning and AI strategy. In the midst of the hype, confusion, paranoia and the risk of left behind, the slew of open source contribution announcements from companies like Google, Facebook, Baidu, Microsoft (through projects such as Tensorflow, BigSur, Torch, SciKit, Caffe, CNTK, DMTK, Deeplearning4j, H2O, Mahout, MLLib, NuPIC, OpenNN etc.) offer an obvious approach to getting started with AI & ML especially for enterprises outside the technology industry.
+Find the project, download, install…should be easy. But it is not as easy as it seems.
+The current Open Source model is outdated and inadequate for sharing of software in a world run by AI-enabled or AI-influenced systems; where users could potentially interact with thousands of AI engines in the course of a single day.
+It is not enough for the pioneers of AI and ML to share their code. The industry and the world needs a new open source model where AI and ML trained engines themselves are open sourced along with the data, features and real world performance details.
+Current Open Source Models Are Inadequate and Outdated
+AI and ML enabled and influenced systems are different from other software built using open source components. Software built using open source components is still deterministic in nature i..e the software is designed and written to perform exactly the same way each time each time it is executed. AI & ML systems especially artificially intelligent systems are not guaranteed to exhibit deterministic behavior. These systems will change their behavior as the system learns and adapts to new situations, new environments and new users. In essence, the creator of the system stands to lose control of the AI as soon as the AI is deployed in the real world. Yes, of course, creators can build in checks and balances in the learning framework. However, even within the constraints baked in the AI, there is a huge spectrum of interpretation. At the same time, the bigger challenge that faces a world encompassed in AI is the conflict borne out of the human baked in constraints.
+AI & ML systems especially artificially intelligent systems are not guaranteed to exhibit deterministic behavior. These systems will change their behavior as the system learns and adapts to new situations, new environments and new users. In essence, the creator of the system stands to lose control of the AI as soon as the AI is deployed in the real world. Yes, of course, creators can build in checks and balances in the learning framework. However, even within the constraints baked in the AI, there is a huge spectrum of interpretation. At the same time, the bigger challenge that faces a world encompassed in AI is the conflict borne out of the human baked in constraints.
+Yes, of course, creators can build in checks and balances in the learning framework. However, even within the constraints baked in the AI, there is a huge spectrum of interpretation. At the same time, the bigger challenge that faces a world encompassed in AI is the conflict borne out of the human baked in constraints.
+Consider the recent report of Mercedes chairman von Hugo being quoted as saying that Mercedes self-driving cars would choose to protect the lives of their passengers over lives of pedestrians. Even though the company later clarified that von Hugo was misquoted, this exposes the fundamental question of how capitalism will influence the constraints baked into AI.
+Capitalism and the Ethics of AI
+If the purpose of an enterprises is to drive profits, how soon would it be before products and services start hitting a market that depicts the AI based experience as a valued added, differentiating experience and asks the buyer to pay a premium for this technology?
+In this situation, the users that are willing and able to pay for the differentiated experience will gain an undue advantage over other users. Because enterprises will try and recoup their investments into AI, this technology will be limited to those that can afford the technology. This will lead to constraints and behavior baked into the AI that effectively benefits, protects or gives preference to the paying users.
+Another concern is the legal and policy question of who is responsible for malfunctioning or suboptimal behavior of AI & ML enabled products. Does the responsibility rest with the user, the service provider, the data scientist or the AI engine? How is the responsibility (and blame) assigned? Answering these questions requires that the series of events leading to the creation and usage of AI and ML can be clearly described and followed.
+AI to AI Interactions
+3D render of a robot trying to solve a wooden cube puzzle
+AI – AI Conflicts
+Given the possibly non-deterministic nature of how AI enabled products would and could behave in previously unobserved interactions, the problem is magnified in scenarios where AI-enabled products interact with each other on behalf of two or more different users. For example, what happens if two cars being driven and operated by two independent AI engines (built by different companies with different training data and features and independently configured biases and context) approach a stop sign or are heading towards a crash. Slightly differences and variations in how these systems approach and react to similar situations can have unintended and potentially harmful side effects.
+Bias Leakage
+Another potential side effect of interacting AI engines magnifies the training bias risk. For example, if a self-driving car observes another self-driving car protecting the passengers at the cost of pedestrians and observes that this choice ensures that the other car is able to avoid an accident, it’s “learning” would be to behave similarly in a similar situation.  This can lead to bias leakage where an independently trained AI engine can get influenced (positively or negatively) from another AI engine.
+Learning Agility
+Even when similar AI engines are offered with the same learning data, differences in the training environments and the infrastructure used to perform the training can cause the training and learning to proceed at different rates and derive different conclusions as a result. These slight variations could, over time, lead to significant changes in behavior of the AI engine with unforeseen consequences.
+Stale and “Forgotten” AI Engines and AI junkyards
+In a world of several products enabled through AI, what happens as products are abandoned or go extinct. The embedded AI can go frozen in time leading to the creation of an AI junkyard. These abandoned AI enabled products that are a culmination of learnings from their environment and context up until a point in time, if resurrected for any reason in a different time, environment or context can again lead to unpredictable or undesirable effects.
+The new open-source model for AI
+We need a new model for open source AI that provides a framework for addressing some of the problems listed above. Given the nature of AI, it is not enough to open source the technology used to build AI and ML engines and embed them into products. In addition, similar to scientific research, the industry will need to contribute back actual AI and ML engines that can form the basis of new and improved systems, engines and products.
+Baselining, Benchmarks, and Standards
+For all key scenarios such as self-driving cars, photo recognition, speech to text etc, especially with multiple service providers, the industry needs the ability to define a baseline and standards against which all other new or existing AI engines are evaluated and stack ranked (for example, consider the AI equivalent of 5-Star Safety Ratings from the NHSTA for self-driving cars). Defining an industry acceptable and approved benchmark for key scenarios can ensure that service providers and consumers can make informed decisions about picking AI & ML enabled products and services. In addition, existing AI engines can be constantly evaluated against the benchmarks and standards to ensure that the quality of these systems is always improving.
+Companies building AI and ML models should consider contributing entire AI and ML models to open source (beyond contributing the technology and frameworks to build such models). For example, even 5-year-old models of image recognition at Google or Speech to Text models from Microsoft could spark much faster innovation and assimilation of AI & ML in other sectors, industries or verticals sparking a self-sustaining loop of innovation. Industries outside tech can use these models to jump-start their own efforts and contribute their learnings back to the open source community.
+Bias Determination
+Bias determination capabilities are required to enable biases encoded into AI and ML engines to be uncovered and removed as soon as possible. Without such capabilities, it will be very hard for the industry to converge on universal AI engines that perform consistently and deterministically across the spectrum of scenarios. Bias determination and removal will require the following support in open source model for AI.
+Data Assumptions and Biases
+AI-enabled product designers need to ensure that they understand the assumptions and biases made and embedded in the AI & ML engine. Products that interact with other AI enabled products need to ensure that they understand and are prepared to deal with the ramifications of the AI engine’s behavior. To ensure that consumers or integrators of such AI and ML models are prepared, the following criteria should be exposed and shared for each AI and ML model.
+Collection Criteria
+How is the data collected? What are the data generators? How often, where, when, how and why is the data generated? How is it collected, staged and transported?
+Selection Criteria
+How is the data selected for training? What are the criteria for data not being selected? What subset of data is selected and not selected? What are the criteria that define high-quality data? What are the criteria for acceptable but not high-quality data?
+Processing Criteria
+How is the data processed for training? How is the data transformed, enriched and summarized? How often is it processed? What causes scheduled processing to be delayed or stopped.
+Feature Assumptions and Biases
+AI and ML models are trained through the inspection of features or characteristics of the system being modeled. These features are extracted from the data and are used in the AI and ML engine to predict a behavior of the system or classify new signals into desired categories to prompt a certain action or behavior from the system. Consumers and integrators with AI models need to have a good understanding of not only what features were selected for developing the AI model but also what were all the features considered and not selected including the reason for their rejection. In addition, visibility into the process and insights used to determine the training features will need to be documented and shared.
+Blind Spots Removal
+Due to the built-in biases and assumptions in the model, AI and ML engines can build up blind spots that limit their usefulness and efficacy in certain situations, environments, and context.
+Blind Spot Reporting and Feedback Loops
+Another key feature of the open source model for AI and ML should be the ability to not only determine whether or not a particular model has blind spots but also have the ability to contribute back data (real life examples) to the AI model that could be used to remove these blind spots. This is very similar, in principle, to email spam reporting by users where the spam detection engine can use the newly provided spam examples to update its definition of spam and the filter required to detect it.
+Collaborative Blind Spot Removal
+Another feature of the ideal open source protocol would be the sharing of data between various service providers with each other to enable shared and collaborative blind spot removal. Consider the Google Self-Driving Car and Tesla’s autopilot. Google has covered around 2Million miles in autonomous driving mode whereas Tesla has covered almost 50M millions of highway driving. If we look beyond the fact that both of these companies are competitors, their data sets contain a lot of relevant data for avoiding crashes and driver/passenger/pedestrian safety. Both of these can leverage the other data sets and improve their own safety protocols and procedures. Possibly, such data should be part of the open source model for maximum benefit to the industry and the user base.
+  Conclusion
+For AI and ML to truly revolutionize and disrupt our lives and offer better, simpler, safer and more delightful experiences, AI and ML needs to be included in as many scenarios and use cases across several industries and verticals. To truly jumpstart and accelerate this adoption, open sourcing the frameworks to build AI and ML engines is not enough. We need a new open source model that enables enterprises to contribute and leverage not just the AI and ML build technology but entire trained models that can be improved or adjusted or adapted to a new environment, baselining and standards for AI & ML in a particular scenario so that new AI/ML can be benchmarked against these standards. In addition, the information that reveals the assumptions and biases in AI & ML models (at the data or feature level) and feedback loops that enable consumers of AI & ML models to contribute back important data and feedback to all AI & ML products serving a certain use case or scenario also become critical. Without such an open source model, the world outside the technology sector will continue to struggle in its adoption of AI & ML.
+FEATURED IMAGE: GETTY IMAGES
+
+ADVERTISEMENT
+ADVERTISEMENT
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Galaxy S8 Coming in March | Crunch Report
+Watch More Episodes

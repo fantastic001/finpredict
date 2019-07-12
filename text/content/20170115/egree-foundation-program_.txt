@@ -1,0 +1,48 @@
+Artificial Intelligence
+YouTube
+technology
+deep learning
+artificial intelligence
+Udacity launches deep learning nanodegree foundation program
+Posted 21 hours ago by John Mannes (@JohnMannes)
+
+Next Story
+Greater compute power and power efficiency has made deep learning algorithms ubiquitous in our world. Deep learning has found its way into self driving cars, convenience stores and hospitals. Yet the fight for top talent in the space remains fierce and is a bottleneck for reaching new industries and solving tough challenges. To complement Udacity’s previous AI courses, the online education startup is partnering with YouTube star Siraj Raval for a new deep learning nanodegree foundation program that will be co-taught with Udacity’s Mat Leonard.
+Foundation Programs are going to be a major focus for Udacity in the coming year. They fill a niche for students not quite ready for a full nanodegree program. The new course promises a lot in a short 17 weeks. With just 3-4 hours per week of time, the goal is to equip students with enough knowledge to know how to solve any task with deep learning. Raval explains it as a way of thinking.
+Raval has experience with conveying a lot of information in a short amount of time. His previous YouTube courses maxed out at two months in length and his students regularly impressed him with what they could accomplish.
+“By the end, students will have five projects on their GitHubs, including a final project involving  Generative Adversarial Networks on the bleeding edge of the space,” said Raval. “That’s not trivial and it will be impressive to prospective employers.”
+Raval says his ideal student is someone with a background in Python and knowledge of basic algebra. The idea behind the course isn’t to teach someone who has never programmed before. Instead, it is meant to help more experienced programmers bridge the skills gap to deep learning.
+To entice potential enrollees, Udacity is promising deep learning graduates guaranteed admission into either the company’s self-driving car or artificial intelligence nanodegree programs with a $100 credit. These programs are traditionally competitive with just 16 percent of applicants being offered admission into the self-driving car program and 4.5 percent of students being admitted to the AI program.
+“This is a new focus for us at Udacity, so you can expect us to launch more Nanodegree Foundation programs this year,” noted Shernaz Daver, chief marketing officer for Udacity.
+Prospective students can enroll in the new deep learning nanodegree foundation program for $399 beginning today and will have until January 20th to register. Instruction will begin the same day and must be completed in six months to be eligible for the course benefits.
+
+ADVERTISEMENT
+ADVERTISEMENT
+Crunchbase
+Cybernetics
+FOUNDED
+1978
+OVERVIEW
+Cybernetics is a leader in iSCSI SAN Storage Networking. Founded in 1978 and headquartered in Yorktown, Virginia, Cybernetics is a privately held corporation specializing in the design and manufacture of high performance disk, tape, and virtual tape storage solutions.
+LOCATION
+Yorktown, VA
+CATEGORIES
+Flash Storage, Enterprise Software, Virtualization
+WEBSITE
+http://www.cybernetics.com
+Full profile for Cybernetics
+Udacity
+YouTube
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Nintendo Switch Hits the Market on March 3 | Crunch Report
+Watch More Episodes

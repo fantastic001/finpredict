@@ -1,0 +1,41 @@
+Gaming
+Gaming
+streaming
+Streamer numbers and incomes are rising healthily, according to data from popular tool
+Posted 12 hours ago by Devin Coldewey
+
+Next Story
+While half the world is coming to grips with the idea that people actually want to watch others play games, the other half is watching people play games. Streamers, watchers, and tips from the latter to the former are all increasing at a good clip, according to streaming companion service Streamlabs.
+Streamlabs, originally known as TwitchAlerts, is a set of tools that allows streamers to collect tips via common payment systems, and it’s surprisingly well entrenched in the Twitch community: 78 percent of the top 25,000 streamers use it.
+The company raised a $16 million series A in 2015, is itself also making good money, founder Ali Moiz told TechCrunch. It doesn’t take any share of the tip itself, like some services do, but rather makes its money on premium aesthetic features — little things like animations for your tips, like this:
+That and a few other tools should be enough to keep Streamlabs ahead of, for example, Twitch’s own tipping currency, bits.
+Over the last two years, Streamlabs has collected a variety of data on the streaming community for internal purposes, and recently had the idea to publish it in a report. Why not, right? The report, released today, compares data from 2015 and 2016, showing a niche industry with healthy growth.
+Tips from users increased 84 percent in 2016, from $43.6 million to $80.2 million; if you extrapolate from Streamlabs’ market share, this implies that Twitch saw over $100 million in tips last year. Tip size is most commonly between $1 and $5, but tips ten or a hundred times bigger are seen as well — rarely, but regularly.
+The number of channels making money also increased, with various categories — making more than $10, making more than $1,000 — jumping variously by 65 to 90 percent.
+The average total tip income per follower nearly doubled, from 9.9 cents to 19.1 cents if you exclude streamers with partnerships through Twitch and other companies.
+This last statistic, total income divided by total followers, is a good one to watch. While audiences may grow and shrink according to game development cycles, school years, and other calendars, the health of a streaming community can be gauged by how much those audiences actually engage — in a pecuniary sense, anyway.
+Related Articles
+Microsoft rolls out update to its Beam game-streaming platform
+Twitch's new video ads can't be blocked
+Twitch opens to vloggers with launch of “IRL," mobile broadcasting to come next year
+If millions more were being driven to Twitch but no one ever thought to fork out a buck to encourage a Dark Souls streamer to do another speedrun, that number would drop. And it would also indicate an audience not willing to participate with the platform and its content, not something Twitch and others would like the sound of, to be sure.
+Fortunately, that’s not the case right now. While we can’t expect exponential growth every year, streaming is pushing into the mainstream and attracting regular audiences who don’t mind paying to support their chosen channels. What the ceiling on that market is, it’s hard to say.
+For individuals, the “average revenue per follower” stat also enables basic income expectations — useful if streaming is more than a hobby.
+Right now this data is restricted to Twitch, but Streamlabs is working on expanding to competing services like YouTube Live and Beam. That will not only add data but allow for comparisons between services — what’s better for low follower counts? Where are the partnerships the most lucrative?
+Today’s report is only the first, and Moiz said they were considering releasing data on a quarterly basis — a sort of seasonal checkup for the sector.
+
+ADVERTISEMENT
+ADVERTISEMENT
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Chan Zuckerberg Initiative Acquires Meta Search | Crunch Report
+Watch More Episodes

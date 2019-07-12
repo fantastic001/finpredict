@@ -1,0 +1,53 @@
+Government
+Google
+Yahoo
+transparency report
+social media
+Twitter releases national security letters
+Posted 2 hours ago by Kate Conger (@kateconger)
+
+Next Story
+Over the last eight months, tech companies have slowly been revealing that they’ve received national security letters from the Federal Bureau of Investigation that force the firms to secretly disclose user data to the government. Today, Twitter joined the ranks of Yahoo, Cloudflare and Google by announcing it had received two national security letters, one in 2015 and one in 2016.
+The NSLs came with gag orders that prevented Twitter from telling the public or the targeted users about the government’s demands. The FBI recently lifted these gag orders, allowing Twitter to acknowledge the NSLs for the first time.
+Although Twitter has disclosed these two letters and informed the targeted users, it’s likely that the company has also received other NSLs that it is still gagged from discussing. TechCrunch recently revealed that, although Cloudflare and CREDO Mobile have published several NSLs, they have received others that remain secret. Twitter is currently suing the Department of Justice in an effort to speak more publicly about secret requests for user data.
+Related Articles
+Cloudflare and CREDO are still gagged from talking about national security letters
+Google just published eight National Security Letters
+USA Freedom Act allows Yahoo to disclose 3 National Security Letters
+Microsoft Challenged A National Security Letter That Included A Gag Order -- And Won
+Google's latest Transparency Report sets more records in government request numbers
+In the newly published NSLs, the FBI asked Twitter to turn over “the name, address, length of service, and electronic communications transactional records” of two users. Twitter associate general counsel Elizabeth Banker said that the company provided a “very limited set of data” in response to the requests, but did not make clear exactly what kind of data Twitter provided.
+“Twitter remains unsatisfied with restrictions on our right to speak more freely about national security requests we may receive,” Banker wrote in a blog post. “We would like a meaningful opportunity to challenge government restrictions when ‘classification’ prevents speech on issues of public importance.”
+
+ADVERTISEMENT
+ADVERTISEMENT
+Crunchbase
+Cloudflare
+FOUNDED
+2009
+OVERVIEW
+Cloudflare is a web performance and security company that provides online services to protect and accelerate websites online. The company’s online platforms include Cloudflare CDN, which distributes content around the world to speed up websites; Cloudflare optimizer that enables web pages with ad servers and third-party widgets to download Snappy software on mobiles and computers; CloudFlare …
+LOCATION
+San Francisco, CA
+CATEGORIES
+Security, Web Hosting, Advertising, Analytics, Ad Server, Enterprise Software
+FOUNDERS
+Michelle Zatlyn
+WEBSITE
+http://www.cloudflare.com
+Full profile for Cloudflare
+Twitter
+Federal Bureau of Investigation
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+AppDynamics CEO Talks Cisco Acquisition | Crunch Report
+Watch More Episodes

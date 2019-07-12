@@ -1,0 +1,91 @@
+Health
+Teledoc
+Clover Health
+healthcare startup
+digital healthcare
+CRUNCH NETWORK
+Consumer-oriented investors may have an edge investing in digital health
+Posted 50 minutes ago by Kara Nortman (@karanortman)
+
+Next Story
+Kara Nortman
+CRUNCH NETWORK CONTRIBUTOR
+Kara Nortman is a partner at Upfront Ventures.
+How to join the network
+Who doesn’t feel some level of frustration over the apparent lack of improvement in either results or patient experience despite the dollars spent within our healthcare system?
+I come from a family of doctors, so the feeling is particularly intimate and familiar. I have spent countless dinners hearing my mission-driven father discuss his challenges with reimbursement incentives and inefficient or poor medical practice (much of which continues to be driven by unintuitive technology systems). More recently, he has shifted to offering suggestions that could be driven by government or the private technology sector to improve these shortcomings. In other words, it’s not those on the front lines of delivering care that are the problem.
+Like most consumers, I continue to be frustrated by what feels like the slow progress of innovation in the traditional healthcare system. And yet, I’m eternally optimistic about the early-stage innovation I’m seeing today in the digital health sector.
+Of all areas, it is patient-centric solutions that gets me the most excited in terms of both potential impact and potential investment returns. Patient-centric solutions afford businesses an end-around to many of the gatekeepers that can block or unduly delay the progress of those taking more traditional go-to-market routes. Perhaps more importantly, they deliver new and better end-user experiences.
+The secret is out — or is it?
+In most “software eating the world” categories, innovation drives deflationary economics (cheaper pricing for service) and/or better outcomes. In healthcare, we have seen neither at mass scale. Just this fall, a Kaiser report noted that the average family healthcare plan will cost $18,142, up 3.4 percent from 2015, with workers on single coverage health insurance plans paying deductibles of $1,000 or more up 31 percent since 2011.
+It’s not for a lack of trying. Dollars are flowing into digital health at an unprecedented rate, with spending in the sector racing toward $32 billion by 2018. So why hasn’t software eaten the world in this category?
+Total investment in the sector set a new high-water mark in 2015, with $4.3 billion invested across more than 300 deals. Exits are up too, with 2015 seeing a total of 117 deals — up nearly 300 percent from the prior year — at a total value of more than $10 billion. This is to say, it feels like digital health has finally crossed a tipping point of interest, but the verdict is out on which investors will figure out how and where to disproportionately allocate capital, and what the new winners will look like.
+Sources: Rock Health, “Digital Health Funding: 2015 Year in Review” (Deal size and total value include deals only with disclosed value); CB Insights, Digital Health Funding Hits New Highs In 2015.”
+Digital health remains a minefield for many potential investors. As I survey the landscape, I can’t help but feel that it has the potential to be a perfect storm of too much interest, too generically applied, all amidst a newly uncertain regulatory environment.
+That said, there is another trend that stands out. Looking at where funding is being allocated versus where exits are being realized, it’s clear that this is a category in transition. While the last two to three years have seen investment dollars increasingly shifting toward patient-centric solutions — think Oscar Health, Zocdoc, Teledoc, Clover Health, etc. — the bulk of the exits remain in enterprise-centric categories like practice management and EMR.
+As much as anything, this is a reflection of the decade-long exit horizons in venture investing, and thus is a lagging indicator. I expect exits in 2020 and beyond to more closely reflect today’s investment heat map. Furthermore, the biggest patient-centric winner to date is likely Fitbit, whose post-IPO travails reflect the reality that we are still early in this transition and in understanding where long-term value will be created.
+Why aren’t there more winners?
+Interestingly, healthcare is one of the industries that was the quickest to adopt technology in the latter half of the last century — mainframes, ERPs, EMRs, etc. And yet, more recently, the category has proven among the hardest to penetrate and find true product-market fit. In my opinion, that’s because both the multi-party value-chain and the difficulty in defining metrics make it hard to confidently evaluate the ecosystem.
+With the complexity of the healthcare supply chain … it’s easy for incentives to be misaligned.
+The healthcare value chain consists of many distinct parties, nearly all of which have different (and often conflicting) incentives. One consequence of this structure is that consumers are on the outside looking in, too often feeling like products and services are “prescribed” to them rather than delivered through consultative, collaborative care. This is in conflict with a feeling of entitlement that arises for many based on the regular flow of income toward insurance premiums. On the other hand, doctors and nurses also feel hamstrung by regulatory and reimbursement requirements, and thus unable to deliver best-in-class care.
+With the complexity of the healthcare supply chain, which consists of so many intermediaries and payment methods between the end user and supplier of service, it’s easy for incentives to be misaligned. For operators and investors alike, it’s easy for seemingly positive early traction to be misleading of truly durable product-market fit.
+This is one of the many reasons that I’m a huge proponent of patient-centric healthcare innovation. I believe that the biggest winners in this category will be those that drive new and better end-user experiences, often (but not always) outside of the traditional care distribution and reimbursement universe.
+So where do we put future dollars?
+While the number of startups emerging and amount of venture investment are at an all-time high, most of the trends and technologies catalyzing the health industry to change are either widely accessible (mobile, fitness trackers, bots, BI) or hard to predict (CRISPR).
+Meaning, in digital health today, there are two avenues to put money to work: either (i) an investor/operator dedicates themselves to hanging out in CRISPR labs from Berkeley to Berlin; or, (ii) differentiation will come through a real focus on end-user needs or “patient-centric” health. Today, I focus on the latter (and I call some of my smart CRISPR friends when I want to discuss the former).
+One of the most appealing attributes of patient-centric solutions is that they enable fast feedback loops and the ability to A/B test different approaches to messaging and audience targeting. Thus, they are more likely to not just find a controllable path to scale, but to address a true end-user need rather than being distracted by early revenue that may appear to indicate “traction” but is actually serving an intermediary’s need over the end user’s.
+When evaluating opportunities, I like to see them excel in one of the following areas:
+Targeted user groups:
+In my mind, the best products often find their early adopters by tapping into the intrinsic motivations of particular personality types. In the case of healthcare innovation, an example might be the “worried well.” Many great businesses will target this audience first and will then move mass market, or target specific populations, such as those with expensive chronic conditions (e.g. diabetes, asthma and heart disease), or demographic-specific conditions (e.g. pregnancy, fertility and Alzheimer’s).
+Technology will play an increasingly large role in fixing what ails our healthcare system.
+We have already seen new forms of primary care like Parsley Health targeting wellness-oriented populations through a holistic, team-based approach (with doctors trained at the nation’s top traditional medical institutions). Population-specific approaches abound as well, such as Omada for diabetes or ConsejoSano for Hispanic populations. Within our portfolio, we are excited by Nanit’s use of hardware coupled with computer vision software to help parents and caregivers — a highly incentivized audience if there ever was one — to better monitor their baby’s sleep. Not dissimilarly, Nima is offering food allergy sufferers a handheld device capable of detecting dangerous gluten allergens in their food.
+In each of these cases, the companies are tapping into the specific and unique fears, motivations and priorities of each population in the way that more general and traditional healthcare solutions routinely fail to do.
+Distribution channels that deliver against end-user metrics:
+The best distribution channels are usually measured for their ROI effectiveness. One of the most appealing go-to-market channels in my mind is self-insured employers, who have large budgets, diverse populations and the flexibility to move quickly. More importantly, however, they have some of the greatest economic incentives for adopting cost-saving, outcome-improving solutions.
+Take Disney, which spends an estimated $700 million per year to cover 180,000 global employees and their families. They have a pure economic incentive to keep this massive and diverse population healthy. As a result, Disney is among the most innovative when it comes to utilizing both new technology-driven programs to address population-specific needs and preventative care that may help reduce avoidable expenses for conditions like back injuries, cesarean procedures and even the onset of diabetes.
+Related Articles
+Silicon Valley Bank predicts a 2017 cure for the healthtech investment doldrums
+The next wave of transformative digital health
+What's Really Killing Digital Health Startups
+Often, the most powerful channels are those that naturally target very specific end-user psychographics. In the case of digital health, this may be companies like Lantern, which can work through mental health facilities, or Maven, working through college health centers.
+Each of the two criteria above (targeted populations, focused distribution) are powerful on their own; where it can get really interesting is when you put them together.
+Power Supply is the one that I know best, having led their seed round. Power Supply delivers personalized meal plans to a population they have defined as “life optimizers,” people who eat within a certain dietary parameters (eg: vegan or paleo) as an anchor to a specific health-oriented lifestyle. The company therefore chose a distribution model based around offline centers of influence that were also the hangouts of its early target customers.
+Initially, they offered meal plans through Crossfit boxes or yoga centers, a highly economic supply chain model that allowed them to support the coach or trainer influencers as well as to collect and act on real-time customer preference feedback via personalized menus, content and population data.  
+With this scalable means of engaging consumers, they can now apply that foundation of supply/demand information to more specific health-oriented use cases, such as pre-diabetic patients or patients with kidney disease (serviced through online, corporates or healthcare channels) in a way that’s essentially patient-centric preventative care through food.
+In pursuit of patient-centric digital health pioneers
+I am confident that technology will play an increasingly large role in fixing what ails our healthcare system. Moreover, I believe strongly that the greatest impact will come through patient-centric thinking and a focus on preventing, rather than simply treating, disease wherever possible. I believe we are just beginning to scratch the surface.
+Disclosure: Upfront has invested in Nima, Nanit and Power Supply.
+FEATURED IMAGE: ANDY DEAN PHOTOGRAPHY/SHUTTERSTOCK
+
+ADVERTISEMENT
+ADVERTISEMENT
+Crunchbase
+Nima
+FOUNDED
+2013
+OVERVIEW
+Nima is developing breakthrough consumer products enabling users to know what is in their food. Nima believes meal time should be about the enjoyment of your food and your company, and not the worry about potential repercussions of eating something unknown. Their first product is a portable device that allows people to test their food for gluten. Peanut and milk versions are planned for 2017.
+LOCATION
+San Francisco, CA
+CATEGORIES
+Food and Beverage, Health Care, Personal Health, Wellness
+FOUNDERS
+Scott Sundvor, Shireen Yates
+WEBSITE
+http://www.nimasensor.com
+Full profile for Nima
+Clover
+Zocdoc
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Galaxy S8 Coming in March | Crunch Report
+Watch More Episodes

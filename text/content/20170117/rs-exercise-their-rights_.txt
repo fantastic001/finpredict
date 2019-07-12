@@ -1,0 +1,45 @@
+Artificial Intelligence
+chatbot
+real estate
+renting
+law
+London startup launches chatbot to help renters exercise their rights
+Posted 7 hours ago by Natasha Lomas (@riptari)
+
+Next Story
+London-based startup RentersUnion has created what it’s hoping will be a socially useful chatbot, pitching their web-based bot as a robot replacement for (expensive) housing lawyers. The intended user is anyone not on the London property ladder, and thus at the mercy of landlords, tenancy agreements and (apparently ever-inflating) rents.
+Not that the chatbot can do much about the latter problem, sadly. But it does offer a little automated help with parsing wordy tenancy agreements to, for example, extract salient details such as fees in an effort to empower a downtrodden section of society.
+Visitors to the bot are offered a selection of topics it can help with — from issues with their energy bills to problems with repairs or questions around fees.
+Ask the AI for help about fees, for example, and the bot will ask you to upload your tenancy agreement and then pull out any relevant portions, providing a handy PDF overview of what it finds.
+You can also ask about repairs — with options to get the bot to review your tenancy agreement in light of a particular problem (e.g. damp/mould, plumbing etc), to see what your rights are and flag up relevant sections of UK law. The bot can also be employed to compose a letter about the issue on your behalf.
+For letters, users are asked to provide a few key details before the bot generates a letter on their behalf. There’s an option to ‘make it stronger’, in terms of tone/forcefulness, in case a first draft/s aren’t appropriately irate enough.
+It’s a neat use of natural language processing to quickly surface and handle relevant info for users who may not have the time or money to figure it out on their own. Instead they just need to upload their tenancy agreement or input a few key details to get some help or advice.
+While the team is focused on helping renters in just one UK city for now, co-founder Faisal Khalid tells TechCrunch the eventual aim is to scale the product to “every big city across Europe”.
+“Ultimately, if this works, we could actually end up becoming the largest housing lawyer in all of Europe — which creates a lot of interesting opportunities beyond just ‘giving advice’,” he adds.
+He also confirms the bot should work for any England tenancy, though the structure of tenancies in other parts of the UK can vary owing to variation in legislation — hence keeping their focus narrow for now.
+“The reason for limiting it to London only is just that we haven’t had a chance to test with non London based tenancy agreements yet,” he says, adding: “Also, data is a limiting factor — its easy to get tenancy agreements for London, a bit harder as we move out.”
+Given it’s early days the team is also still training their AI, having only launched the bot earlier this month — and only starting on building the tech last September. And while the goal is full AI-powered automation, some manual human input is needed to fix the AI’s mistakes.
+“I still need to go into the production log and see what kinds of mistakes its making and keep rewriting the natural language processor to improve results with every mistake that’s made. The more data the AI gets, the better it gets.”
+The team includes two London based lawyers to assist on the legal side, adds Khalid.
+“Our goal is to do one new city a month, starting March. The initial focus — for the next six weeks — will remain on London as it’s easier to learn and fix mistakes when we are limited to just one city vs doing multiple cities.”
+The bot is free to use — with only a suggested donation to help the bootstrapping startup fund the project. They’re getting between 50 and 100 users per day, at this early stage. How will the team be getting the word out and growing usage?
+“We’re joining the renters power project, which is a consortium of non profit activist groups working together to create London’s first renters union by fall 2017,” he says. “Members of the renters power project include Generation Rent, Digs (Hackney Renters), Take Back The City, Advice4Renters and Radical Housing Network. these groups already have a significant following which we will be building off of.”
+He adds they are also looking at creating an API service/widget in future for relevant entities — such as housing charities — could embed in their own sites.
+“In England, organizations like Shelter are already doing amazing work in defending renters rights, but they are constrained by the fact that everything they do is done by a human. We aren’t. We use natural language processing to read and interpret tenancy agreements, and there’s very little ‘human’ input to our work. So we can scale much faster, cheaper and more efficiently than ‘brick and mortar’ organisations like Shelter can.”
+FEATURED IMAGE: BRYCE DURBIN
+
+ADVERTISEMENT
+ADVERTISEMENT
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Nintendo Switch Hits the Market on March 3 | Crunch Report
+Watch More Episodes

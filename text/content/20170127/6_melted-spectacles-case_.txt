@@ -1,0 +1,30 @@
+Hardware
+This Snapchat Spectacles case melted while charging
+Posted 1 hour ago by Josh Constine (@joshconstine)
+
+Next Story
+Galaxy Note 7napchat? One owner of Snap Inc’s Spectacles camera-glasses had a similar experience. They tell TechCrunch that after charging the Spectacles case for a half-hour, they returned to find “the internals melted”, and provided us with this photographic evidence. The owner, who wished not to be named, wrote that you can see “the big button and LEDs…all that is now a wired mash.”
+When TechCrunch asked Snap Inc about the situation, a spokesperson responded, “Our team is in touch with this customer and we are working with him to investigate this issue. We can’t comment further until we know more, but want to emphasize that nothing is more important to us than the safety of our community.”
+A photo of a normal Spectacles case in good condition, taken by TechCrunch (left), and the photo of melted case, taken by the owner (right)
+Our source says the Spectacles were bought in mid-December from the New York City Spectacles pop-up store. They’d charged the case and glasses many times without an issue using the special cable Spectacles come with connected to a laptop, battery pack, or Apple iPhone charger.
+But this time, when they connected the Spectacles case to the same Apple 5W wall charging brick, the owner wrote that “About a half hour later, I got a burning smell. Looked at the case, and it had melted the internals. The case was very hot when I went to touch it.”
+That’s worrisome, because if there was enough heat leaking out to melt the case, it could have potentially started a fire. The owner wrote “I unplugged it and let it cool off. Luckily, the Spectacles weren’t inside the case, so they didn’t go this [sic] same route as a Note 7.”
+Snap Inc snapped into action upon hearing about the problem, offering to hand-deliver the owner a new pair and take the new one back for investigation. The owner says the company has done a good job handling support.
+Now the question is what the results of Snap Inc’s pending investigation will be, and whether the US Consumer Product Safety Commission will get involved. The US CPSC demanded a recall of the Samsung Galaxy Note 7 after dozens of reports of overheating. Snap Inc has purposefully limited the sales of Spectacles to make them feel exclusive, which may indicate it hasn’t sold enough that a single malfunctioning device might be reasonably expected.
+The melted case could cast doubt on Snap Inc’s hardware aspirations, which it’s relying on to convince investors about the potential of its IPO that’s expected in March. Though this could certainly be a one-off fluke, the problem combined with Snapchat’s lack of hardware experience might frighten buyers away from Spectacles or future devices invented by the startup.
+
+ADVERTISEMENT
+ADVERTISEMENT
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+AppDynamics Acquired for $3.7 Billion | Crunch Report
+Watch More Episodes

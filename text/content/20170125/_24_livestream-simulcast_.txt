@@ -1,0 +1,47 @@
+Media
+live video
+livestream
+Livestream now supports simultaneous live broadcasts on YouTube, Periscope and Twitch
+Posted 1 hour ago by Anthony Ha (@anthonyha)
+
+Next Story
+Livestream is getting closer to allowing live video created on its platform to get broadcast anywhere online.
+Specifically, the company announced that premium and enterprise customers will be able to simulcast to non-Livestream video services that support RTMP. That means a publisher could simultaneously show a live video on YouTube, Periscope, Twitch and elsewhere.
+Related Articles
+Facebook Live opens to developers, starting with Livestream, DJI and others
+YouTube can still win the livestreaming war
+Facebook Live attacks Twitch with game streaming
+CEO Jesse Hertzberg told me that brand and publisher strategies around live video are evolving. Yes, each video platform has its own nuances and opportunities to engage with viewers, and businesses don’t want to ignore those. But if a company has “a product launch or a big press announcement,” then they probably want to “push everywhere to get as many eyeballs as possible.”
+“What we’re seeing is that as live rolls out into these consumer products, we’re getting more and more demand on the business side,” Hertzberg said. “As people experience live video in their personal lives, they start asking us, ‘How can I make live video part of marketing mix, the communciations mix?'”
+This follows a similar Livestream announcement last month around broadcasting to Facebook Live. However, Hertzberg said that because of Facebook’s terms, companies can’t simulcast to both Facebook and other platforms — if they want to be on Facebook Live, they can also broadcast on Livestream and their own websites, but nowhere else. You can go live on YouTube, or go live on Facebook, but not both.
+
+ADVERTISEMENT
+ADVERTISEMENT
+Crunchbase
+Livestream
+FOUNDED
+2007
+OVERVIEW
+Livestream's mission is to connect people and live events. Livestream offers event owners a complete set of hardware and software tools to share their events with a growing community online. Livestream offers event owners a complete set of hardware and software tools to share their events live online. Nearly 50 million viewers watch hundreds of thousands of live events on Livestream each month from …
+LOCATION
+New York, NY
+CATEGORIES
+Video Streaming, Software, Video
+FOUNDERS
+Phil Worthington, Max Haot, Dayananda Nanjundappa, Mark Kornfilt
+WEBSITE
+http://www.livestream.com
+Full profile for Livestream
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Sprint Takes 33% Stake in Tidal | Crunch Report
+Watch More Episodes

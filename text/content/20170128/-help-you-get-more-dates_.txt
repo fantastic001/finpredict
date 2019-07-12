@@ -1,0 +1,56 @@
+Apps
+Apps
+dating apps
+dating
+Hinge
+Hinge is testing a personal assistant service called Audrey to help you get more dates
+Posted 7 hours ago by Sarah Perez (@sarahintampa)
+
+Next Story
+Dating app Hinge recently pivoted from swiping to “stories,” in order to help people find real relationships. That focus on authenticity, however, seems to stand in contrast to a project the company has been testing: Audrey, a personal assistant who will message your matches for you and schedule your dates.
+Audrey’s existence was first spotted by Business Insider, which noted the service will cost $99 per month (!!!). However, we understand from a source familiar with the matter that pricing is still in flux. The $99/mo was something that was just being tested.
+There are a few versions of the Audrey website out there, like: “https://audrey.hinge.co/audrey-by-hinge-11,” “https://audrey.hinge.co/audrey-by-hinge-31/,” and a more recent “https://audrey.hinge.co/audrey-by-hinge-41.”
+Only the first site explains how Audrey works, though all offer a sign-up form for those who want to try it.
+According to the earlier site, Audrey will allow you to “say goodbye to matching, messaging, and scheduling,” so you can spend less time on the app and more time going on dates.
+If this is, in fact, how Audrey will work (a lot can change during a beta), then it’s fair to say that Hinge has identified a common pain point in internet dating.
+It takes time to find matches, filter messages, have the same introductory conversation with multiple people, then try to figure out who’s actually interested in going out versus just having a chat buddy.
+“We know the back-and-forth of getting to the first date can be frustrating, if not futile,” the site reads. “That’s why we’re introducing Audrey.”
+A basic explanation about how Audrey works follows.
+To use Audrey, the site says, you select the people you’re interested in. Then, Audrey reaches out to those people and introduces you. If the feeling is mutual, she will schedule a date with the person in question on your behalf. Audrey also provides “data and feedback” along the way to help you find your perfect match, but the website doesn’t go into detail about what that will include.
+The service is in beta testing in New York, the site also notes.
+However, the later versions of the Audrey website simply describe the app as “an intelligent assistant for the modern dater” and no longer mention her matchmaker/messaging role.
+That seems to indicate that Hinge is now thinking to focus Audrey more on the “data and feedback” suggested by the earlier website, and less so on the messaging and scheduling. That’s more on-brand for Hinge than inserting an assistant into your communications was, but perhaps a little disappointing for those who wished you could pay for an app-based matchmaker.
+It’s unclear if Audrey will be handled by a real person, an automated bot, or some combination of both.
+Hinge declined to comment, saying that the company is not yet prepared to discuss Audrey.
+The feature comes at a time when Hinge is having to rethink its strategy in the increasingly competitive dating app landscape. While originally a variation on swiped-based matching popularized by Tinder, Hinge this past fall launched a rebuilt app that focuses on relationships. 
+Instead of swiping, the new Hinge helps you tell your story by having users pick from a series of questions they can provide their own answers to, like their unusual skills, what they’re reading or watching, what they’re listening to, their favorite drink order, their go-to dish to cook, and so on. Others can then like and comment on these prompts, which makes the app feel more social.
+The company also said last fall that it would move away from being a free app, but it hasn’t fully done so yet. Currently, you can still use Hinge for free, but monthly subscriptions offering more features are available.
+
+ADVERTISEMENT
+ADVERTISEMENT
+Crunchbase
+Hinge
+FOUNDED
+2011
+OVERVIEW
+Hinge is a social discovery network helping users meet new people through friends. Hinge Inc. (“Us,” “We” or “Hinge”) collects, uses and discloses personal information from you when you visit and use the Hinge website and Hinge application on Facebook (collectively referred to as the “Site”). This Policy is only applicable to the Site, and not to any other websites that you may …
+LOCATION
+New York, NY
+CATEGORIES
+Internet, Android, Social Media, Dating, Mobile
+WEBSITE
+http://hinge.co
+Full profile for Hinge
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+AppDynamics CEO Talks Cisco Acquisition | Crunch Report
+Watch More Episodes

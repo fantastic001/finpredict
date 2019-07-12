@@ -1,0 +1,55 @@
+Personnel
+stock options
+Loyalty
+employee perks
+employee engagement
+CRUNCH NETWORK
+Some tweaks to build employee loyalty
+Posted 19 hours ago by Daniel Zimmermann
+
+Next Story
+Daniel Zimmermann
+CRUNCH NETWORK CONTRIBUTOR
+Daniel Zimmermann navigates emerging companies and tech startups through complex corporate transactions, financings and venture technology matters.
+How to join the network
+Two years here. Three years there. Another five somewhere else. Frequent job-hopping used to be a red flag, suggesting to prospective employers that a candidate was unfocused and disloyal.
+That stigma seems to be gone. Changing jobs might be the best way to score a significant salary bump and move up the career ladder. And younger workers — the fuel driving every startup machine — are more likely than older ones to switch employers. Employees ages 25-34 had a median tenure of just 2.8 years on the job in January 2016, compared to 7.9 years for workers ages 45-54, according to the Bureau of Labor Statistics.
+Concern about turnover is yet another worry that keeps founders and management up at night. They know their business success depends in large part on keeping a stable and productive team on the job for the long haul — or at least long enough to make it through a key milestone such as a product launch, a critical round of funding or an exit event.
+Stock options are a powerful incentive. But in this supercharged era of unicorns and staggering valuations, are they enough, particularly if you have no plans to go public anytime soon? This has been an abysmal year for IPOs as companies readily draw capital from the private market. In this climate, are you providing enough access to liquidity to keep your critical team from dusting off their resumes?
+Let’s take a closer look at some of the vesting schedules and exercise periods that companies are debuting and weigh their risks and rewards.
+Typical
+The default for startups is a four-year vesting schedule. A quarter of the options vest after the first anniversary of the initial option grant — the “one-year cliff” — and then employees can begin to exercise them. After that, one forty-eighth (1/48) of the employee’s shares vest each month for the remaining 36 months. After four years, the employee holds them all, and the options are fully vested.
+Stock options are a powerful incentive.
+This schedule is a sweet deal for long-term, early hires because exercising options is feasible when the strike price is a bargain. These employees can exercise all their options for just a few hundred dollars. Those who join the team several years later, however, might not be so enthusiastic. If the strike price skyrockets, exercising those options can set an employee back tens of thousands of dollars — or more.
+Or perhaps the company is a unicorn, valued at 13 figures but, tantalizingly, privately held; there may be little or no liquidity. The biggest hitch, though, is that an employee can walk away at any time with a chunk of vested options. There’s no significant upside to sticking around.
+Back-loaded vesting
+The standard four-year vesting schedule, as described above, has been recently reimagined by companies, including Snapchat. Some of these schedules vest 10 percent of the shares after the employee’s first year on the job. Another 20 percent are available after the second year. A worker gets another 30 percent on his third anniversary. And the big payoff — 40 percent — comes in the fourth year, rewarding loyalty right around the time when they might otherwise have been tempted to start a job search.
+Sell but stick around
+As part of Airbnb’s recent refinancing, the room-rental business threw a tasty bone to employees with at least four years of tenure. It arranged for investors to buy about $200 million in common shares held by employees as part of an $850 million funding round.
+The goal, according to The Wall Street Journal, was to “relieve some of the pressure to go public” and “give longer-term employees the option to get cash for some of their shares.” You might want to explore this option if your company, like Airbnb, is a glittery-maned rainbow unicorn valued at $30 billion. If it’s not, you’ll need to consider other strategies.
+Wait a decade
+Employees who leave a job get a tasty perk if they exercise their incentive stock options within 90 days of their last day: They maintain the coveted incentive stock option status, which allows them to kick down the road the tax liability on the spread — until they sell or otherwise unload the underlying vested stock. Otherwise, the stock options morph into non-qualified options, and exercising them can trigger costly capital gains. This isn’t an issue for early, longer-term employees, but it can be a problem for later hires, who might need six figures to purchase their options and cover their tax liability.
+Related Articles
+A New, Standardized Way For Employees To Keep Their Vested Stock Options Longer
+So how about extending the exercise period in a big way, from 90 days to 10 years? That would give workers (and former employees) much more time to amass enough cash to cover the options and taxes. I’m not a fan of this tactic, though. It encourages job-hopping — which founders would rather prevent — as workers bounce from one startup to the next, scooping up options along the way and hoping that one of these companies will strike it big and the options will then be worth exercising.
+To prevent this problem, Andreessen Horowitz’s Scott Kupor suggests requiring a period of tenure to activate the 10-year window or implementing a sliding scale that ties length of the exercise period to number of years on the job. Both strategies enable founders to reward talent for sticking around.
+What to do?
+If your company has a high valuation and your stock options are flirting with a high strike price… congratulations. That’s good news for your employees, too — or at least for those few who can cough up enough money to cash out their options.
+But to keep everyone else incentivized, it’s time to explore some alternative vesting options. Your plan cannot operate retroactively, so you might face some pushback from longer-term employees. Explaining in detail that you want to reward loyalty and enable workers to exercise their options might help allay fears — and go a long way toward keeping your team loyal and engaged.
+FEATURED IMAGE: BRYCE DURBIN/TECHCRUNCH
+
+ADVERTISEMENT
+ADVERTISEMENT
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Happy New Year from Crunch Report!
+Watch More Episodes

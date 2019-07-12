@@ -1,0 +1,39 @@
+Apps
+Yahoo
+earnings
+finance
+Yahoo surprises no one by pushing back its Verizon acquisition close date
+Posted 7 hours ago by Matthew Lynley (@mattlynley)
+
+Next Story
+Yahoo reported its fourth quarter earnings to date, where as usual the financial metrics don’t really matter because the company is in the process of getting acquired by Verizon.
+There is, however, a very interesting footnote: the acquisition, expected to close in the first quarter, is getting pushed back to the second quarter this year. The company offered basically no explanation for the delay other than it was working on it. Here’s the full statement:
+Yahoo has continued to work with Verizon on integration planning for the sale of its core business. In terms of timing, Yahoo had previously stated that it expected to close the transaction in Q1. However, given work required to meet closing conditions, the transaction is now expected to close in Q2 of 2017. The company is working expeditiously to close the transaction as soon as practicable in Q2.
+Related Articles
+The SEC is reportedly investigating why Yahoo took so long to disclose that it was hacked
+Weekly Roundup: Claims surface on Trump's dealings with Russia, Yahoo splits into Altaba
+SoundCloud co-founder takes product role, Yahoo alum steps in as CTO
+Report: EU unhappy with US response to Yahoo email scanning scandal
+So, let’s read between the lines here! The Yahoo acquisition was already a rolling mess with it dealing with a pair of major hacks that it didn’t disclose after they happened. In December it said that a breach of more than 1 billion accounts happened in August 2013, which was separate from a major hack that affected more than 500 million users. That doesn’t look all that great for Yahoo, which is in the process of being acquired by Verizon for $4.8 billion. (Verizon owns Aol, which owns TechCrunch. Internet eats self.)
+Next up: the SEC is reportedly investigating why Yahoo took so long to report the hacks. While Yahoo naturally didn’t comment in the press release on its earnings (which, again, the financials are largely moot), it again rings a couple alarm bells that this report came out and the acquisition close date was pushed back while they are working on it and all that. Amid all of this, reports also came out that Verizon is looking for a discount on the deal.
+So let’s just say the acquisition process has not gone very well at all and it looks like it may be more of a mess than it even seems from face value. Granted, acquisition processes are long, arduous and very complicated — and an acquisition at the scale of Yahoo, which is quite an undertaking, could easily be delayed for separate reasons. But the timing is quite impeccable, and we’ll have to see if we get any more information about it sometime soon.
+Unfortunately, its quarterly earnings this time would have been a good time for Yahoo — it’s one of the rare occasions we actually get to see what’s going on in the guts of the company. But it looks like everything is going to remain in the works behind the scenes.
+Anyways, here are the financial parts: stock goes nowhere, beat on earnings per share (25 cents compared to an estimated 21 cents), beat on revenue ($1.47 billion compared to an estimated $1.38 billion). For historical reference, here’s the stock price just as a reminder of what has happened to Yahoo in the past few years:
+FindTheCompany | Graphiq
+FEATURED IMAGE: JUSTIN SULLIVAN/GETTY IMAGES
+
+ADVERTISEMENT
+ADVERTISEMENT
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Sprint Takes 33% Stake in Tidal | Crunch Report
+Watch More Episodes

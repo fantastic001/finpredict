@@ -1,0 +1,44 @@
+Gadgets
+Google
+smartwatch
+Android Wear
+Google launches the fifth and final dev preview of Android Wear 2.0 ahead of February launch
+Posted 1 hour ago by Frederic Lardinois (@fredericl)
+
+Next Story
+After a bit of a delay, the launch of Android Wear 2.0 is finally drawing near. Today, Google launched the fifth and final developer preview of Wear 2.0 ahead of its consumer launch in early February.
+There aren’t any major surprises here, but with this release, Android Wear 2.0 is finally getting full iOS support, too, which was missing from the previews — but not Wear 1.x — until now. One of the flagship features of Wear is that it supports standalone apps (together with new complications, improved notifications, a keyboard and hand-writing recognition).
+This final preview now also allows iOS users that pair their watches to an iPhone to install these apps from the Play Store. Apps that run on the watch will also be able to hand off sign-in requests and open web pages on their paired iOS devices.
+Other new features in this release include a new style of navigation drawer and support for NFC host-based card emulation.
+Google itself has said that it will launch Android Wear 2.0 with two watches (likely from LG) in early February. If you want to test the update today, you’ll have to go through quite a few steps to make it work (akin to the old Android developer previews).
+Google never made an over-the-air update for these preview versions available, but if you don’t want to go through the hassle, chances are Wear 2.0 will be available for your watch soon (assuming it’s compatible, which isn’t necessarily a given if you have an older watch). It’s unclear when exactly the updates will roll out. It’s very likely that new watches will come with Wear 2.0 pre-installed but that existing users will have to wait a bit longer to get it.
+
+ADVERTISEMENT
+ADVERTISEMENT
+Crunchbase
+Google
+FOUNDED
+1998
+OVERVIEW
+Google is a multinational corporation that is specialized in internet-related services and products. The company’s product portfolio includes Google Search, which provides users with access to information online; Knowledge Graph that allows users to search for things, people, or places as well as builds systems recognizing speech and understanding natural language; Google Now, which provides information …
+LOCATION
+Mountain View, CA
+CATEGORIES
+Search Engine, Blogging Platforms, Ad Network, Collaboration, Email, Video Streaming, Software, Enterprise Software
+WEBSITE
+http://www.google.com/
+Full profile for Google
+Android Wear
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Sprint Takes 33% Stake in Tidal | Crunch Report
+Watch More Episodes

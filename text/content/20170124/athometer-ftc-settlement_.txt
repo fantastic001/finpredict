@@ -1,0 +1,30 @@
+Hardware
+Breathometer ordered to refund purchases of its breathalyzers as part of FTC settlement
+Posted 5 hours ago by Ryan Lawler (@ryanlawler)
+
+Next Story
+Breathometer, a startup that quickly rose to prominence due to an appearance on Shark Tank, has agreed to a settlement with the Federal Trade Commission in which it will offer refunds for mobile-connected breathalyzer devices the company sold from 2013 to 2015.
+The two products — the Original ($49) and Breeze ($99) — were marketed as devices that could detect a user’s blood-alcohol content (BAC) in an effort to prevent them from driving drunk. (The company even worked with Uber to hail users a ride if their BAC level was too high.)
+An FTC inquiry found that, despite Breathometer’s claims it sold “law enforcement grade” breathalyzers, a user’s BAC reading would frequently be off. According to the FTC, not only could Breathometer’s results be lower than someone’s actual BAC level, but that readings be affected by ambient humidity and temperature.
+In 2015, the company announced plans for a new product called Mint that measures oral health and hydration. Breathometer says it stopped selling its breathalyzer products in early 2015, ahead of the FTC’s complaint.
+However, the FTC claims the devices were still available at some retailers until early 2016. In May 2016, Breathometer sent a letter to retailers and an email to registered users alerting them of the device inaccuracies, and in October last year the company disabled the breathlyzer feature altogether in its app.
+As part of the FTC’s settlement, Breathometer has agreed to offer full refunds to all users who request them. Altogether, the FTC claims Breathometer sold $5.1 million worth of Original and Breeze devices.
+While the FTC went after Breathometer for claims of deceptive advertising about the effectiveness of its products, CEO Charles Michael Yim blamed a “bad batch” of product that was a result of a poor manufacturing process.
+“We’re now working with [the FTC] to make sure claims are what they should be and to make sure our manufacturing is rock solid,” Yim told me. “We didn’t have a great manufacturer and so that didn’t match up to the claims that we made.”
+Going forward, Yim said that the company is getting out of the “alcohol business” altogether, and will be focused on “bigger opportunities in health and wellness.”
+
+ADVERTISEMENT
+ADVERTISEMENT
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Sprint Takes 33% Stake in Tidal | Crunch Report
+Watch More Episodes

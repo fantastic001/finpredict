@@ -1,0 +1,56 @@
+Artificial Intelligence
+liability
+laws
+legal
+reinforcement learning
+CRUNCH NETWORK
+Artificial intelligence and the law
+Posted 2 hours ago by Jeremy Elman (@miamiip), Abel Castilla
+
+Next Story
+Jeremy Elman
+CRUNCH NETWORK CONTRIBUTOR
+Jeremy Elman is a partner at DLA Piper, and is head of DLA Piper Miami's Intellectual Property and Technology and Emerging Growth practices.
+How to join the network
+Abel Castilla
+CRUNCH NETWORK CONTRIBUTOR
+Abel Castilla is a software engineer at Codelitt.
+How to join the network
+Laws govern the conduct of humans, and sometimes the machines that humans use, such as cars. But what happens when those cars become human-like, as in artificial intelligence that can drive cars? Who is responsible for any laws that are violated by the AI?
+This article, written by a technologist and a lawyer, examines that future of AI law.
+The field of AI is in a sort of renaissance, with research institutions and R&D giants pushing the boundaries of what AI is capable of. Although most of us are unaware of it, AI systems are everywhere, from bank apps that let us deposit checks with a picture, to everyone’s favorite Snapchat filter, to our handheld mobile assistants.
+Currently, one of the next big challenges that AI researchers are tackling is reinforcement learning, which is a training method that allows AI models to learn from its past experiences. Unlike other methods of generating AI models, reinforcement learning lends itself to be more like sci-fi than reality. With reinforcement learning, we create a grading system for our model and the AI must determine the best course of action in order to get a high score.
+Research into complex reinforcement learning problems has shown that AI models are capable of finding varying methods to achieve positive results. In the years to come, it might be common to see reinforcement learning AI integrated with more hardware and software solutions, from AI-controlled traffic signals capable of adjusting light timing to optimize the flow of traffic to AI-controlled drones capable of optimizing motor revolutions to stabilize videos.
+How will the legal system treat reinforcement learning? What if the AI-controlled traffic signal learns that it’s most efficient to change the light one second earlier than previously done, but that causes more drivers to run the light and causes more accidents?
+Traditionally, the legal system’s interactions with software like robotics only finds liability where the developer was negligent or could foresee harm. For example, Jones v. W + M Automation, Inc., a case from New York state in 2007, did not find the defendant liable where a robotic gantry loading system injured a worker, because the court found that the manufacturer had complied with regulations.
+It is unlikely that we will enter a dystopian future where AI is held responsible for its own actions.
+But in reinforcement learning, there’s no fault by humans and no foreseeability of such an injury, so traditional tort law would say that the developer is not liable. That certainly will pose Terminator-like dangers if AI keeps proliferating with no responsibility.
+The law will need to adapt to this technological change in the near future. It is unlikely that we will enter a dystopian future where AI is held responsible for its own actions, given personhood and hauled into court. That would assume that the legal system, which has been developed for over 500 years in common law and various courts around the world, would be adaptable to the new situation of an AI.
+An AI by design is artificial, and thus ideas such as liability or a jury of peers appears meaningless. A criminal courtroom would be incompatible with AI (unless the developer is intending to create harm, which would be its own crime).
+But really the question is whether the AI should be liable if something goes wrong and someone gets hurts. Isn’t that the natural order of things? We don’t regulate non-human behavior, like animals or plants or other parts of nature. Bees aren’t liable for stinging you. After considering the ability of the court system, the most likely reality is that the world will need to adopt a standard for AI where the manufacturers and developers agree to abide by general ethical guidelines, such as through a technical standard mandated by treaty or international regulation. And this standard will be applied only when it is foreseeable that the algorithms and data can cause harm.
+This likely will mean convening a group of leading AI experts, such as OpenAI, and establishing a standard that includes explicit definitions for neural network architectures (a neural network contains instructions to train an AI model and interpret an AI model), as well as quality standards to which AI must adhere.
+Standardizing what the ideal neural network architecture should be is somewhat difficult, as some architectures handle certain tasks better than others. One of the biggest benefits that would arise from such a standard would be the ability to substitute AI models as needed without much hassle for developers.
+Related Articles
+Liability in the coming age of autonomous autos
+Artificial Intelligence, Legal Responsibility And Civil Rights
+What Apple's differential privacy means for your data and the future of machine learning
+Currently, switching from an AI designed to recognize faces to one designed to understand human speech would require a complete overhaul of the neural network associated with it. While there are  benefits to creating an architecture standard, many researchers will feel limited in what they can accomplish while sticking to the standard, and proprietary network architectures might be common even when the standard is present. But it is likely that some universal ethical code will emerge as conveyed by a technical standard for developers, formally or informally.
+The concern for “quality,” including avoidance of harm to humans, will increase as we start seeing AI in control of more and more hardware. Not all AI models are created the same, as two models created for the same task by two different developers will work very differently from each other. Training an AI can be affected by a multitude of things, including random chance. A quality standard ensures that only AI models trained properly and working as expected would make it into the market.
+For such a standard to actually have any power, we will most likely need some sort of government interference, which does not seem too far off, considering recent talks in British parliament regarding the future regulation of AI and robotics research and applications. Although no concrete plans have been laid out, parliament seems conscious of the need to create laws and regulations before the field matures. As stated by the House of Commons Science and Technology Committee, “While it is too soon to set down sector-wide regulations for this nascent field, it is vital that careful scrutiny of the ethical, legal and societal dimensions of artificially intelligent systems begins now.” The document also mentions the need for “accountability” when it comes to deployed AI and the associated consequences.
+FEATURED IMAGE: DAMIEN MEYER/AFP CREATIVE/GETTY IMAGES
+
+ADVERTISEMENT
+ADVERTISEMENT
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Galaxy S8 Coming in March | Crunch Report
+Watch More Episodes

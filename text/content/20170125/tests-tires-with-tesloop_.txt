@@ -1,0 +1,35 @@
+Automotive
+cars
+tire
+Driving
+transport
+Goodyear tests tires with Tesloop
+Posted 11 hours ago by Kristen Hall-Geisler (@kristenhg)
+
+Next Story
+It’s easy to get caught up in all the technology being built into cars of the future — ADAS, autonomous capabilities, V2X, and on and on. It’s also easy to forget that so far — until we get our flying cars — there are four points of contact between most vehicles and the road. The tires.
+Goodyear has of course not forgotten this, and it sees the writing on the shared, autonomous wall. It’s partnered with Tesloop, the company that ferries passengers from Los Angeles to Las Vegas in Teslas running on Autopilot as often as possible, to see what effect cutting-edge technologies are having on the tires.
+“We’re looking at new businesses and new business models,” said Jim Euchner, who heads the company’s global innovation team. “We look at how the world is changing and how that will affect Goodyear’s direction. We see a lot of trends, and we’re trying to understand them before they become mainstream.”
+He noted in a telephone interview that there are a lot of weak signals out there that may fade, but there are trends that cannot be missed: consumer fleets of shared vehicles, autonomous vehicles, connected vehicles, and electric vehicles. “Tesloop is all of the above,” Euchner said.
+The partnership is brand new, so there’s no data to share yet. But Goodyear entered this partnership with a goal of learning as much as possible. Tesloop represents what the company calls lead users: “people who are experiencing the world in advance of what it might be,” Euchner said. This gives Goodyear an understanding of the issues Tesloop experiences, like how tires wear, how they’re best managed, and how tire design could be improved for these use cases in the future.
+“In some sense, it’s just a vehicle with tires,” Euchner said. “[Goodyear] tires are fitted on the vehicle, and they’re working well. On the other hand, Tesloop is working in a mode different from a typical user. The cars are more in autonomous mode and covering more distance, up to 5,000 miles in a week.” That’s real-world experience and data that can’t be produced on test tracks or through predictive modeling.
+“Tesla is designed as a performance vehicle — Ludicrous mode and all that kind of stuff,” Euchner said. “As part of a fleet, it’s not leveraging that performance. It’s comfort and distance; that’s what you learn” from real-world tests.
+The team is hoping to learn what this kind of use case requires and if that means developing an entirely new tire or recommending another type of tire that the company already has available.
+“It’s interesting and cool to find something at the intersection of so many mega trends,” Euchner said, saying that the innovation team should have its first results in about six months. “We want to find the places where the future is and live it, not just observe or read about it, and integrate that into our business.”
+FEATURED IMAGE: KRISTEN HALL-GEISLER
+
+ADVERTISEMENT
+ADVERTISEMENT
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Chan Zuckerberg Initiative Acquires Meta Search | Crunch Report
+Watch More Episodes

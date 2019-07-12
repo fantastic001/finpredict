@@ -1,0 +1,53 @@
+Artificial Intelligence
+unmanned aerial vehicles
+DARPA
+CRUNCH NETWORK
+The new A-Team: Agile teams of machines
+Posted 1 hour ago by Sylvester Kaczmarek (@SJKaczmarek)
+
+Next Story
+Sylvester Kaczmarek
+CRUNCH NETWORK CONTRIBUTOR
+Sylvester Kaczmarek is an award-winning entrepreneur and product leader with more than a decade of international, quality-driven IT industry experience.
+How to join the network
+One of the most popular shows on television 30 years ago was “The A-Team” — the story of five rogue military commandos who teamed together to form an elite fighting unit. Now, a generation later, DARPA and the U.S. military are in search of a new “A-Team” — only this team won’t be comprised of just humans, it will include a few machines, as well.
+A-team refers to “agile team,” which DARPA refers to as hybrid teams of humans teamed with intelligent machines. What DARPA recognizes is that intelligent machines are not just “agents” carrying out the simple commands of humans, but rather are part of an “intelligent fabric” that dynamically evolves over time.
+The obvious use case for these A-teams, of course, is in the military sphere. Imagine a U.S. military operation. There will be a fighting team comprised of battlefield commanders and soldiers, of course. But there will also be autonomous fighting units, such as unmanned aerial vehicles (UAVs) or unmanned ground vehicles (UGVs). The UAVs might be providing aerial cover for an assault on a terrorist outpost, while the UGVs might be working to defuse bombs along the way.
+What the military is looking for is some mathematical method for designing these agile teams of humans and machines. There are some things that humans are good at — such as autonomy and creating trust with other fighting team members — and there are some things that machines are good at (analysis of large sets of data). But here’s the twist — there are some attributes that will dynamically evolve over time, thanks to the coordination and communication of the team, or the ability to distribute intelligence. What’s needed is some way of optimizing this man-machine interaction to provide the desired results.
+There are many more use cases for these hybrid teams of humans and intelligent machines. These A-teams can be used to create improved logistical networks (e.g. imagine Amazon delivery drones learning on-the-fly and helping to improve the operations of Amazon warehouses), design complex software, discover new drugs or design new space probes.
+Related Articles
+DARPA establishes group to standardize robotic space repairs
+DARPA's robo-boat tests parasailing radar
+Carnegie Mellon's Mayhem AI takes home $2 million from DARPA's Cyber Grand Challenge
+As machines show the potential to “learn” over time, it will change the way people interact with them. Take the example of controlling and managing an air battle. Instead of UAVs (drones) being piloted from a distance, they will be truly autonomous fighting units, capable of making their own decisions without human operators. But they will have to coordinate these decisions with other members of the air strike force. Thus, a team of pilots sent into battle might learn how to coordinate their actions with swarms of UAVs. Those UAVs might be used to gather intelligence about the relative strength of an opponent, or they might be used as trusted members of the same combat team.
+In many ways, the creation and development of these agile teams will come down to a matter of trust. Just as members of a tight-knit military team learn to trust each other on the battlefield and know that no members will be left behind in a confrontation with the enemy, they must also learn to trust the intelligent machines that will be flying or marching next to them into the next battle.
+FEATURED IMAGE: STACY L. PEARSALL/AURORA/GETTY IMAGES
+
+ADVERTISEMENT
+ADVERTISEMENT
+Crunchbase
+DARPA
+FOUNDED
+1958
+OVERVIEW
+The Defense Advanced Research Projects Agency was created with a national sense of urgency in February 1958 amidst one of the most dramatic moments in the history of the Cold War and the already-accelerating pace of technology. In the months preceding the official authorization for the agency's creation, Department of Defense Directive Number 5105.15, the Soviet Union had launched an Intercontinental …
+LOCATION
+Arlington, VA
+CATEGORIES
+National Security, Artificial Intelligence, Information Technology
+WEBSITE
+http://www.darpa.mil
+Full profile for DARPA
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Galaxy S8 Coming in March | Crunch Report
+Watch More Episodes

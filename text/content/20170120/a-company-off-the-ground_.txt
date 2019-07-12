@@ -1,0 +1,48 @@
+Apps
+Y Combinator
+Founderkit taps founders to suggest the best tools to get a company off the ground
+Posted 2 hours ago by Matthew Lynley (@mattlynley)
+
+Next Story
+While running Yardsale, a previous Y Combinator startup based around essentially making it easy to sell your old stuff, Ryan Mickle had the benefit of talking to alumni and colleagues to figure out what to use to build it. But one of the basic services he used to run it ended up costing more in the long run as the app ran into critical problems when it came to some transactions — forcing Mickle and his team to essentially duct tape fixes on top of it.
+He and his co-founders needed a more consensus decision as to which services to use for their startup. So he’s now started a small project called Founderkit, which is designed to tap the Y Combinator community, as well as other communities like Techstars, to dig into whether a service is good enough or not to deploy when starting up a company. The products you’ll find on it are often the ones you’d expect — Slack and Stripe are highly rated, because of course they are popular in Silicon Valley. But the goal for Founderkit is to get people to give honest opinions and keep things carefully curated, Mickle said.
+“There are 20 to 30 decisions you have to make in an instant before you have to get started,” Mickle said. “A lot of that info is trapped in tribal knowledge. At Y Combinator I was lucky, I could ask questions — what bank should I use, what servers. There’s dozens of these questions. The funny part is the right answer to these questions means there’s no benefit, you use the best tool and get back to work and your startup has a shot. But if you make a mistake it could cost you months.”
+Related Articles
+Gone, The App To Sell Your Old Junk, Acquires Yardsale Inc., FOBO
+FOBO Launches In San Francisco To Become The Fastest, Easiest Way To Sell Your Consumer Electronics
+Y Combinator-Backed Local Marketplace App Yardsale Launches Nationwide
+Instead of just using services within their own cohort, for example, Founderkit aims to get startups in accelerators suggestions for the best possible services to get their projects off the ground. Even for a service like Stripe, which may be widely adopted and popular, the hope is that people will be upfront about what’s good and what’s bad. What works for one startup might not work for another, and Mickle wants Founderkit to try to offer suggestions that are more useful and not necessarily just popular within networks. Startup founders are invited into Founderkit to offer their suggestions through invitations from other members in the kind of typical early-stage heavy networks you’d expect.
+“To ensure the bar is high enough, people who contribute are active founders running their startups,” Mickle said. “The people and investors and advisors who had the most relevant advice were people operating their own startups. They faced that problem you had, but faced it yesterday or maybe three months ago.”
+There are a couple of big ifs here for a project like this, however. First off, it’s pretty niche — which Mickle acknowledged over the phone. It could end up in a similar direction to Product Hunt. He says he wants to continue working on it and adding new features, but starting off with such a narrow focus and closed community is something that’ll get the ball rolling. Mickle said he doesn’t intend to raise any financing for this one, though you can always take that with a grain of salt as people can always change their minds.
+“It’s totally a niche, but I see it growing,” he said. “I definitely don’t see us taking funding unless it made sense from the perspective of scaling something.”
+There are some other companies that try to surface up the best stacks for startups that are getting off the ground. Siftery is one example, which aims to help eliminate the kind of choice-paralysis that happens when there are so many back-end tools that are available. That startup has raised $4 million, so there seems to be demand here, though Mickle said he wants Founderkit to take an approach that’s centered around founder recommendations more than anything else.
+Whether that’s a successful strategy and turns into something bigger is anyone’s guess. It could be that the side project remains just a side project, and only adopted and enjoyed by a sort of self-selected community of accelerator founders from Y Combinator and the like. But trying to unlock all that information — which may be stuck in someone’s brain or scattered across the internet — in one place may also prove useful enough for founders that it’ll end up being a utility for the broader startup community.
+
+ADVERTISEMENT
+ADVERTISEMENT
+Crunchbase
+Y Combinator
+FOUNDED
+2005
+OVERVIEW
+Y Combinator is a startup accelerator based in Mountain View, CA. In 2005, Y Combinator developed a new model of startup funding. Twice a year they invest a small amount of money ($120K) in a large number of startups (most recently 68). The startups move to Silicon Valley for 3 months. The YC partners work closely with each company to get them into the best possible shape and refine their pitch …
+LOCATION
+Mountain View, CA
+CATEGORIES
+Finance, Venture Capital, Consulting
+WEBSITE
+http://www.ycombinator.com
+Full profile for Y Combinator
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Zoom CEO Eric Yuan Raised $100 Millon | Crunch Report
+Watch More Episodes

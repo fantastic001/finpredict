@@ -1,0 +1,49 @@
+Developer
+Facebook
+developer
+backend
+parse
+Facebook’s Parse developer platform is shutting down today
+Posted 45 minutes ago by Fitz Tepper (@fitztepper)
+
+Next Story
+One year ago Facebook made the surprising announcement that it was shuttering Parse, the development platform that it purchased in 2013.
+While the company said they would keep the service online for a year so developers could migrate their apps to a new backend, that time has finally come.
+In what is probably the last ever post on the Parse blog, the service reminded users that today (January 30th, 2017) they would be disabling the parse API on an app-by-app basis.
+Parse was best known for its “backend as a service” product, and provided SDKs and APIs to let developers quickly get apps up and running without the effort of building a backend from scratch. At one point there were 600,000 apps that relied on the platform.
+While Parse wasn’t the most popular tool amongst experienced developers (who had the resources to build their own custom backends) it was an invaluable tool for smaller developers.
+I first came across the service in high school when I was just dipping my toes into iOS development. The low cost (free for most small users) combined with relative ease of use and detailed documentation made it an invaluable tool for me and many others young developers.
+That’s why the community was so shocked when Facebook decided to shut it down – supporting Parse seemed like a small price to pay to appease an entire developer community, many of whom Facebook rely on to build apps for Facebook.
+Parse did publish a big migration guide as well as open source their server backend, both of which are legitimate alternatives for developers needing a Parse replacement.
+Bye Parse, we hardly knew ya.
+
+ADVERTISEMENT
+ADVERTISEMENT
+Crunchbase
+Parse
+FOUNDED
+2011
+OVERVIEW
+Parse offers cloud-based software developer kits that enable users to create apps for desktop, mobile, and embedded devices. Its product portfolio is comprised of Parse Core to save data in the cloud; make the app social; run custom app code in the Parse Cloud; schedule recurring tasks such as sending engagement emails, updating data, and long running computation; share data between platforms; and …
+LOCATION
+Menlo Park, CA
+CATEGORIES
+Android, iOS, Cloud Computing, PaaS, Enterprise Software, Mobile
+FOUNDERS
+Kevin Lacker, James Yu, Tikhon Bernstam, Ilya Sukhar
+WEBSITE
+http://parse.com
+Full profile for Parse
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Galaxy S8 Coming in March | Crunch Report
+Watch More Episodes

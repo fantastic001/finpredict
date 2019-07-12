@@ -1,0 +1,44 @@
+Hardware
+Apple
+Qualcomm
+Qualcomm fires back against Apple over lawsuit and FTC action
+Posted 5 hours ago by Brian Heater (@bheater)
+
+Next Story
+Never a dull moment in the smartphone wars. This week, Qualcomm started getting serious regulatory heat when the Federal Trade Commission filed charges against the chipmaker, accusing it of anticompetitive tactics designed to shut competitors out from supplying components to handset companies.
+Apple was one of the few manufacturers mentioned by name in the complaint, and accordingly, the company filed its own suit announced towards end of day yesterday, stating that, “Qualcomm insists on charging Apple at least five times more in payments than all the other cellular patent licensors we have agreements with combined,” in a statement provided to TechCrunch.
+Qualcomm has since provided us with a response, and it’s a dozy, so let’s just go ahead and paste the whole thing in here. This one comes from the company’s EVP and General Counsel, Don Rosenberg,
+While we are still in the process of reviewing the complaint in detail, it is quite clear that Apple’s claims are baseless. Apple has intentionally mischaracterized our agreements and negotiations, as well as the enormity and value of the technology we have invented, contributed and shared with all mobile device makers through our licensing program. Apple has been actively encouraging regulatory attacks on Qualcomm’s business in various jurisdictions around the world, as reflected in the recent KFTC decision and FTC complaint, by misrepresenting facts and withholding information. We welcome the opportunity to have these meritless claims heard in court where we will be entitled to full discovery of Apple’s practices and a robust examination of the merits.
+As you can see, the company plainly suggests that Apple’s ‘baseless’ attacks were behind the FTC’s charges, something the company accuses it of spurring on “by misrepresenting facts and withholding information.”
+The statement also suggests that Apple acted similarly in other parts of the world, and seeming reference to the fact that the FTC wasn’t the first to get on Qualcomm for unfair practices in recent years.
+The San Diego-based chipmaker has also faced similar issues around the world, getting hit with big fines in South Korea ($854 million) and China ($975 million), along with some scrutiny in the European Union.
+FEATURED IMAGE: JUSTIN SULLIVAN/GETTY IMAGES
+
+ADVERTISEMENT
+ADVERTISEMENT
+Crunchbase
+Qualcomm
+FOUNDED
+1985
+OVERVIEW
+Qualcomm is an American fabless semiconductor company that designs, manufactures, and markets digital wireless telecommunications products and services. It produces processors and connectivity solutions, displays, software, and charging products. The company is focused on various industries: automotive, education, healthcare, Internet of Everything, mobile computing, networking, smart cities, smart …
+LOCATION
+San Diego, CA
+CATEGORIES
+Wireless, Telecommunications, Manufacturing, Mobile
+WEBSITE
+http://www.qualcomm.com
+Full profile for Qualcomm
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Apple Suing Qualcomm for $1 Billion | Crunch Report
+Watch More Episodes

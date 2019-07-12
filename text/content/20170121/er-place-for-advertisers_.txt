@@ -1,0 +1,45 @@
+Advertising Tech
+YouTube
+Google
+advertising
+Google wants to make YouTube a better place for advertisers
+Posted 5 hours ago by Frederic Lardinois (@fredericl)
+
+Next Story
+Despite its massive success with viewers, Google always had a hard time convincing advertisers that its video platform was the best place for them to reach their target audiences. Now, Google promises to give advertisers and agencies better tools to measure their reach and target specific audiences — all with a focus on mobile.
+As Google notes in today’s announcement, 50 percent of YouTube views now happen on mobile. For advertisers, this means that many of the old tracking technologies that worked well on the desktop don’t work all that well on mobile (though if you’re a user who would prefer not to be tracked, that may actually be a good thing). Starting this year, Google plans to limit the use of cookies and pixels on YouTube.
+“While technologies like pixels and cookies still have a role in the broader ecosystem, most were built for a single screen—neither pixels nor anonymous cookies were designed for the ways in which users increasingly watch content on YouTube, like on the mobile app or in the living room,” YouTube director of product management Diya Jolly writes today. “This can lead to inconsistent measurement and less relevant ads across screens, making it harder for people to control the ads they see or the data used to show them.”
+Google also says that it is developing a new measurement solution “that will be at the cutting edge both in generating advertiser insights and in protecting privacy and security across Google and YouTube.” This solution, too, focuses on giving advertisers a better look at which users see their campaigns across devices and — maybe more importantly — what impact those campaigns have. Google says it’ll work with the likes of comScore, DoubleVerify, IAS, MOAT and Nielsen as it develops this new solution.
+The company also says that it will make it easier for advertisers to reach the right audience because “information from activity associated with users’ Google accounts (such as demographic information and past searches) may be used to influence the ads those users see on YouTube.” If you’re an advertiser, that’s great news, especially because Google will also soon allow retailers to use their own customer data to target their high-value shoppers on YouTube. While Google says that these new services will protect its users’ privacy, this is likely a feature that privacy advocates will home in on very quickly.
+Google will allow its users to have some control over this cross-platform ad experience, though. It will allow you to mute an advertiser across platforms, for example (which is great to avoid those ads that follow you around the web after you’ve already bought a product, for example — especially if you those haven’t driven you to use an ad blocker already).
+Chances are, most users will never know about this option, of course. Personally, I just subscribe to YouTube Red to avoid ads on the service (and not because of the forgettable bonus content you get with it).
+FEATURED IMAGE: REGO KOROSI/FLICKR UNDER A CC BY-SA 2.0 LICENSE
+
+ADVERTISEMENT
+ADVERTISEMENT
+Crunchbase
+YouTube
+FOUNDED
+2005
+OVERVIEW
+YouTube is a video-sharing website created in February 2005 by three former [PayPal](/company/paypal) employees: [Chad Hurley](/person/chad-hurley), [Steve Chen](/person/steve-chen) and [Jawed Karim](/person/jawed-karim). YouTube enables users to upload, view and share videos. It uses [Adobe Flash](/product/adobe-flash) video and HTML5 technology to display a wide variety of user-generated video …
+LOCATION
+San Bruno, CA
+CATEGORIES
+Internet, Video, Music
+WEBSITE
+http://www.youtube.com/
+Full profile for YouTube
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Zoom CEO Eric Yuan Raised $100 Millon | Crunch Report
+Watch More Episodes

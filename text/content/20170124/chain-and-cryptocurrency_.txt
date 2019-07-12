@@ -1,0 +1,44 @@
+CRUNCH NETWORK
+What’s next for blockchain and cryptocurrency
+Posted 5 hours ago by Kathleen Breitman
+
+Next Story
+Kathleen Breitman
+CRUNCH NETWORK CONTRIBUTOR
+Kathleen Breitman is the chief operating officer of Tezos, a new blockchain platform currently in development and was a senior strategy associate for R3, a blockchain consortium of more than 50 finance firms.
+How to join the network
+In May of 2010, someone on a Bitcoin forum by the name of Lazlo claimed to have bought two pizzas for 10,000 bitcoins. It was the first time anyone had purchased anything with the new digital currency, which at that time was valued at practically nothing.
+Today, the cryptocurrency market is worth nearly $19 billion and those 10,000 bitcoins would be worth more than $10 million. Most of the cryptocurrency market is in Bitcoin, followed by Ether, the currency used by the smart contract platform Ethereum. Now tech giants, like Microsoft, IBM and Amazon, as well as major Wall Street banks, including JPMorgan Chase and Citigroup, are investing in blockchain technology, the underlying class of technology that started with Bitcoin. Infosys, TCS, HCL, and Accenture are working on blockchain-based products for banks as well.
+With the new year, everyone is wondering what’s to come in the next chapter. Based on my work in the field, here are five predictions on major trends in cryptocurrencies for 2017.
+Investment funds will look to invest in cryptocurrencies
+As an asset class, cryptocurrencies are tough to ignore. As I write this, Bitcoin is trading at just over $1,000. Hedge funds and venture capital firms will look for more ways to tap into the cryptocurrency market. Doing so will remove some of the social stigma around cryptocurrencies—mainly due to Bitcoin’s history of use on the dark markets—and popularize investment in cryptocurrencies.
+Global currency disorders are on the rise: Think of what’s happening in India, where the government recently scrapped 86 percent of cash in circulation, and in Venezuela, where currency is so devalued people now need to carry stacks of cash just to buy food. As a result, many retail investors are turning their attention to digital currencies, as well. Cryptocurrencies are free from government control. Governments can’t easily call in bitcoins or halt their movement across international borders without taking drastic actions.
+Financial institutions, bound by charters that describe the types of investments they can embark upon, have had few means of putting their money into bitcoins or other cryptocurrencies. But in 2017, we’ll see a greater push towards a diversity of cryptocurrencies as investments, and ETFs, hedge funds, and derivatives will start to act as conduits for institutions to gain exposure and get into the cryptocurrency game.
+Private blockchains will start feeling the burn
+Private blockchains (like the Hyperledger project from the Linux Foundation, R3CEV’s Corda, and the Gem Health network) will start to feel real friction. To date, private blockchains have gotten the benefit of the doubt, receiving hundreds of millions of dollars in funding with little to show for it in production. Many of their projects are not terribly innovative, and haven’t been subjected to the same rigorous review as more public projects.
+Greater scrutiny from analysts, well-informed media, and investors will put some much-needed cold water on private blockchains in 2017.
+Bitcoin will see SegWit introduction
+Despite the enormous technological and political difficulties involved in upgrading Bitcoin, Bitcoin’s core developers have finally introduced Segregated Witness to the network. The benefits of SegWit are clear: a higher transaction throughput without altering the block size, no transaction malleability and faster block validation. SegWit also makes it easier to develop better wallet software and permits off-chain transactions on the Lightning Network, a protocol for scaling and speeding up blockchains.<
+There are no clear downsides to this upgrade, but it’s been taken hostage in the political battle over block size. Some mining pools are refusing to switch to SegWit, holding out for a block size increase instead, which does involve trade-offs. However, the fight seems to be running out of steam, which bodes well for SegWit.
+Bitcoin usage will not change significantly
+The price of Bitcoin will continue to rise due to increased demand from investors but usage—that is, how many people are using it to actually buy and sell things in the open market—will not change substantially. Arguably the biggest application for Bitcoin over the last few weeks has been as a tool for capital flight. In China, for instance, investors are buying bitcoins as part of a rush to convert their RMB into currencies that aren’t losing value. This means the currency won’t necessarily be trading hands much. Instead people will be holding on to it as a hedge or using it to get money out of their countries.
+Exchanges will become a source of scrutiny
+Regulators will keep a light touch on the technologies behind cryptocurrencies, but they will look more closely at exchanges, which is where traditional banking meets the new world of cryptocurrencies.
+While exchanges are an excellent resource, allowing people to conveniently buy and sell digital currencies with ease, they also centralize risk. This makes them a virtual honeypot for hacks and thefts. So increasingly we will see governments stepping in to oversee how they operate with an eye on consumer protection. Some regulation will include new ways to confirm identities and block money laundering—and in extreme cases, block exchanges all together. Take the case of Colbitex, the first bitcoin exchange in Colombia, which the Colombian government closed down in August, claiming bitcoin was not real money and therefore unregulated.
+Over a relatively short amount of time, we’ve watched cryptocurrencies evolve from relative obscurity to a point where governments and financial institutions are taking it seriously and making huge investments in blockchain technologies for their own use. Through 2017, we’ll see that evolution continue as serious blockchain platforms begin to emerge and people begin using cryptocurrencies, not just for capital flight and a hedge against hyperinflation, but for real day to day trading—and we’re not just talking pizza here.
+
+ADVERTISEMENT
+ADVERTISEMENT
+NEWSLETTER SUBSCRIPTIONS
+The Daily Crunch
+Get the top tech stories of the day delivered to your inbox
+TC Weekly Roundup
+Get a weekly recap of the biggest tech stories
+Crunchbase Daily
+The latest startup funding announcements
+Enter Address
+SUBSCRIBE
+SEE ALL NEWSLETTERS »
+Latest Crunch Report
+Sprint Takes 33% Stake in Tidal | Crunch Report
+Watch More Episodes
