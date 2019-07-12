@@ -19,9 +19,10 @@ print(p)
 
 agent = Agent(p, source)
 
-strategy = NBStrategy() 
-strategy.train(source, "text/training/positivity", "text/content")
-
+strategy = ARStrategy() 
+# strategy.train(source, "text/training/positivity", "text/content")
+for t in range(500):
+    source.forward()
 agent.simulate(strategy, 20)
 
 print(agent.portfolio)

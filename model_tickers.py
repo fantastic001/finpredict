@@ -2,7 +2,7 @@ from src.ts import *
 from src.trading import * 
 import pandas as pd
 import numpy as np
-source = Source("data/")
+source = Source("data/", "2017")
 
 res = []
 

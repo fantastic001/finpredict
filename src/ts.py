@@ -29,5 +29,5 @@ def fit_model_simple(series):
     x2hat = (series ** 2).mean()
     mu = (xhat*x2hat - xxhat) / (x2hat - xhat**2)
     alpha =  (xxhat - mu*xhat) / x2hat
-    sigma2 = x2hat*(1 - alpha**2) - mu**2 - 2*mu*alpha * xhat
+    sigma2 = abs(x2hat*(1 - alpha**2) - mu**2 - 2*mu*alpha * xhat)
     return mu, alpha, sigma2
