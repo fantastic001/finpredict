@@ -2,6 +2,8 @@ import numpy as np
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.neural_network import *
 import string
+import os 
+
 
 def get_text_model(x,y):
     clf = MLPClassifier(solver='lbfgs', alpha=1e-5, hidden_layer_sizes=(5, 2), random_state=1)
@@ -71,9 +73,19 @@ def predict_nb(clf, words, text):
     return clf.predict(get_bow([(tokenize(text), 0)], words))
 
 
-# Example of usage
-# >>> text = "this is some nice text. This text is great"
-# >>> x = [(text, 0)]
-# >>> clf, words = fit_nb(x)
-# >>> predict_nb(clf, words, "haha")
-# array([0])
+def get_model_from_data(training_dir):
+    x = []
+    for c in os.listdir():
+        for fpath in os.listdir("%s/%s/" % (training_dir, c)):
+            f = open("%s/%s/%s" % (training_dir, c, fpath))
+            text = f.read()
+            f.close()
+            x.append((text, int(c)))
+    clf, words = fit_nb(x)
+    return clf, words
+
+def classify_content(fpath, clf, words):
+    f = open(fpath)
+    text = f.read()
+    y = predict_nb(clf, words, text)
+    return y[0]
