@@ -3,6 +3,7 @@ from sklearn.naive_bayes import MultinomialNB
 from sklearn.neural_network import *
 import string
 import os 
+import codecs
 
 
 def get_text_model(x,y):
@@ -28,7 +29,7 @@ def tokenize(text):
             curr += c
     if curr != "":
         res.append(curr)
-    return list(w.lower() for w in res)
+    return list(w.lower() for w in res if w != "")
 
 def extract(text, cat):
     return (tokenize(text), cat)
@@ -63,7 +64,8 @@ def fit_nb(x):
     words = get_vocabulary(x)
     x = list(extract(a,b) for a,b in x)
     X = get_bow(x, words)
-    y = list(set(cat for text,cat in x))
+    print(np.array(X))
+    y = list(cat for text,cat in x)
     clf = MultinomialNB()
     clf.fit(X, y)
     return (clf, words)
@@ -72,12 +74,14 @@ def fit_nb(x):
 def predict_nb(clf, words, text):
     return clf.predict(get_bow([(tokenize(text), 0)], words))
 
+def remove_non_ascii(text):
+    return ''.join([i if ord(i) < 128 else ' ' for i in text])
 
 def get_model_from_data(training_dir):
     x = []
-    for c in os.listdir():
+    for c in os.listdir(training_dir):
         for fpath in os.listdir("%s/%s/" % (training_dir, c)):
-            f = open("%s/%s/%s" % (training_dir, c, fpath))
+            f = codecs.open("%s/%s/%s" % (training_dir, c, fpath), 'r', encoding='ascii', errors='ignore')
             text = f.read()
             f.close()
             x.append((text, int(c)))
@@ -85,7 +89,7 @@ def get_model_from_data(training_dir):
     return clf, words
 
 def classify_content(fpath, clf, words):
-    f = open(fpath)
+    f = codecs.open(fpath, 'r', encoding='ascii', errors='ignore')
     text = f.read()
     y = predict_nb(clf, words, text)
     return y[0]
