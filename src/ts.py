@@ -3,6 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from pandas.plotting import lag_plot
 import spectrum
+import math
 
 def plot_log(series):
     series = pd.Series(series)
@@ -22,7 +23,7 @@ def fit_model_burg(series):
     return AR, sigma, k
 
 def fit_model_simple(series):
-    series = pd.Series(series)
+    series = pd.Series(series).map(lambda x: math.log(x))
     xhat = series.mean()
     xxhat = (series * series.shift(1)).mean()
     x2hat = (series ** 2).mean()
