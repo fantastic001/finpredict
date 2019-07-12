@@ -10,3 +10,4 @@ from .PredictiveStrategy import *
 from .MAStrategy import *
 from .ARStrategy import * 
 from .NNStrategy import *
+from .NBStrategy import * 

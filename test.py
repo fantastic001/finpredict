@@ -19,8 +19,8 @@ print(p)
 
 agent = Agent(p, source)
 
-strategy = NNStrategy() 
-strategy.train(source)
+strategy = NBStrategy() 
+strategy.train(source, "text/training/positivity", "text/content")
 
 for t in range(500):
     source.forward()
