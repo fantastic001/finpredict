@@ -1,4 +1,4 @@
-from src.trading import *
+from finpredict.trading import *
 import random
 import sys
 

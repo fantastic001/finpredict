@@ -2,7 +2,6 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 from pandas.plotting import lag_plot
-import spectrum
 import math
 
 def plot_log(series):
@@ -18,9 +17,6 @@ def calculate_correlation(series):
     result = dataframe.corr()
     return result["t+1"]["t-1"]
 
-def fit_model_burg(series):
-    AR, sigma, k = spectrum.arburg(series, 1)
-    return AR, sigma, k
 
 def fit_model_simple(series):
     series = pd.Series(series).map(lambda x: math.log(x))

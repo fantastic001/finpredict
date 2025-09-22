@@ -13,9 +13,11 @@ class Decision(object):
         self.count = count
         
     
+    @staticmethod
     def buy(ticker: str, count: int):
         return Decision(Decision.BUY, ticker, count)
     
+    @staticmethod
     def sell(ticker: str, count: int):
         return Decision(Decision.SELL, ticker, count)
     
